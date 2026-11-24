@@ -1,0 +1,554 @@
+{
+ "v-hbf": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/locations/vienna-main-station"
+   },
+   {
+    "t": "위키백과",
+    "u": "https://www.wikipedia.com/wiki/Wien_Hbf"
+   },
+   {
+    "t": "역 안내 (Seat61)",
+    "u": "https://seat61.com/stations/vienna-hauptbahnhof.htm"
+   },
+   {
+    "t": "유튜브: 공항→중앙역 가는 법",
+    "u": "https://www.youtube.com/watch?v=z5slPi97Gbs"
+   }
+  ],
+  "note": "주소 Am Hauptbahnhof, 1100 Wien. ÖBB 장거리 열차가 모두 서고, 모든 플랫폼에 엘리베이터가 있어요."
+ },
+ "v-hotel": {
+  "links": [
+   {
+    "t": "공식 사이트",
+    "u": "https://www.tfehotels.com/en/hotels/adina-apartment-hotels/vienna-belvedere/"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/adina-apartmenthotel-vienna-belvedere-405222"
+   },
+   {
+    "t": "부킹닷컴",
+    "u": "https://booking.com/hotel/at/adina-apartment-vienna-belvedere-wien12.html"
+   },
+   {
+    "t": "유튜브: 아디나 빈 벨베데레 호텔 투어",
+    "u": "https://www.youtube.com/watch?v=7e8c5F4vpZk"
+   }
+  ],
+  "note": "주소 Canettistraße 3, 1100 Wien(10구 파보리텐). 빈 중앙역에서 걸어서 5분이에요. 시내의 다른 지점(Adina Serviced Apartments, Karl-Popper-Straße 6)과 헷갈리지 마세요."
+ },
+ "v-belvedere": {
+  "links": [
+   {
+    "t": "공식 사이트",
+    "u": "https://www.belvedere.at/en/visit"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://wien.info/en/upper-belvedere-131092"
+   },
+   {
+    "t": "공식 관람 팁",
+    "u": "https://www.belvedere.at/en/stories/perfect-visit-belvedere"
+   },
+   {
+    "t": "유튜브: 벨베데레 상궁 클림트 키스",
+    "u": "https://www.youtube.com/watch?v=eNS1il0NkUM"
+   }
+  ],
+  "note": "매일 9~18시, 타임슬롯 티켓이지만 관람 시간 제한은 없어요."
+ },
+ "v-karlskirche": {
+  "links": [
+   {
+    "t": "공식 사이트",
+    "u": "https://www.karlskirche.at/en/visitor-information/"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/sightseeing/sights/st-charles-church-359636"
+   },
+   {
+    "t": "빈 관광청 (아트 어드벤트)",
+    "u": "https://www.wien.info/en/see-do/families/winter-highlights/advent-for-children-338310"
+   },
+   {
+    "t": "유튜브: 카를 성당 내부",
+    "u": "https://www.youtube.com/watch?v=UYQcWOdW2C0"
+   }
+  ],
+  "note": "아트 어드벤트 마켓은 2026.11.13~12.23 매일 10~22시예요."
+ },
+ "v-naschmarkt": {
+  "links": [
+   {
+    "t": "빈 시청 공식",
+    "u": "https://www.wien.gv.at/freizeit/einkaufen/maerkte/lebensmittel/naschmarkt/"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/dine-drink/markets/naschmarkt-353540"
+   },
+   {
+    "t": "유튜브: 비엔나 나슈마르크트",
+    "u": "https://www.youtube.com/watch?v=DhzdTOSafec"
+   }
+  ],
+  "note": "상점은 월~금 6~19:30, 토 6~18시, 일요일엔 식당만 열어요."
+ },
+ "v-opera": {
+  "links": [
+   {
+    "t": "공식 사이트 (가이드 투어)",
+    "u": "https://wiener-staatsoper.at/en/about-us/guided-tours/"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/sightseeing/tours-guides/vienna-state-opera-tours-363852"
+   },
+   {
+    "t": "유튜브: 빈 국립 오페라극장 가이드",
+    "u": "https://www.youtube.com/watch?v=nilzlJGXzBA"
+   }
+  ],
+  "note": "투어 일정은 매달 중순에 다음 달분이 올라오고, 투어 티켓은 환불이 안 돼요."
+ },
+ "v-stephan": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/st-stephen-s-cathedral-130762"
+   },
+   {
+    "t": "빈 관광청 (위치 정보)",
+    "u": "https://www.wien.info/en/locations/st.-stephens-cathedral"
+   },
+   {
+    "t": "유튜브: 비엔나 여행의 시작, 슈테판 성당",
+    "u": "https://www.youtube.com/watch?v=N8RB6WLpQVU"
+   }
+  ],
+  "note": "남탑은 계단 343개, 북탑은 엘리베이터로 올라가요."
+ },
+ "v-graben": {
+  "links": [
+   {
+    "t": "유튜브: 비엔나 그라벤 거리 산책",
+    "u": "https://www.youtube.com/watch?v=n4DtT7F_Nc8"
+   },
+   {
+    "t": "유튜브: 그라벤 거리 크리스마스 조명",
+    "u": "https://www.youtube.com/watch?v=1bF-R2tFyxI"
+   }
+  ]
+ },
+ "v-hofburg": {
+  "links": [
+   {
+    "t": "공식 사이트 (시시 박물관)",
+    "u": "https://www.sisimuseum-hofburg.at/en/tickets/tickets-prices"
+   },
+   {
+    "t": "공식 FAQ",
+    "u": "https://www.sisimuseum-hofburg.at/en/visitor-information/faq"
+   },
+   {
+    "t": "호프부르크 티켓",
+    "u": "https://hofburg-wien.at/en/tickets"
+   },
+   {
+    "t": "유튜브: 비엔나 겨울 여행 호프부르크 궁전",
+    "u": "https://www.youtube.com/watch?v=_c_s8Sj39zE"
+   }
+  ],
+  "note": "리뉴얼한 시시 박물관이 11/19 재개관했고, 은 식기 컬렉션은 2023년부터 휴관 중이에요."
+ },
+ "v-prunksaal": {
+  "links": [
+   {
+    "t": "공식 사이트",
+    "u": "https://onb.ac.at/en/opening-hours/state-hall"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://wien.info/en/austrian-national-library-129318"
+   },
+   {
+    "t": "유튜브: Prunksaal 국립도서관",
+    "u": "https://www.youtube.com/watch?v=BaQBMDljznI"
+   }
+  ],
+  "note": "10~5월엔 월요일 휴관이라 12/15(화) 방문이 맞아요."
+ },
+ "v-albertina": {
+  "links": [
+   {
+    "t": "공식 티켓샵",
+    "u": "https://shop.albertina.at/en/tickets/"
+   },
+   {
+    "t": "공식 사이트 (카페·레스토랑)",
+    "u": "https://albertina.at/en/visit/cafe-und-restaurant/"
+   },
+   {
+    "t": "유튜브: Museo Albertina",
+    "u": "https://www.youtube.com/watch?v=8kjnCCmcR6I"
+   }
+  ],
+  "note": "매일 10~18시, 수·금은 21시까지 열어요."
+ },
+ "v-rathaus": {
+  "links": [
+   {
+    "t": "빈 관광청 (행사)",
+    "u": "https://www.wien.info/en/now-on/events/viennese-christmas-market-1001488"
+   },
+   {
+    "t": "빈 관광청 (크리스마스 마켓)",
+    "u": "https://www.wien.info/de/weihnachtsmarkt"
+   },
+   {
+    "t": "호텔 자허 마켓 가이드",
+    "u": "https://www.sacher.com/en/blog/guide-to-viennas-christmas-markets/"
+   },
+   {
+    "t": "유튜브: Wiener Christkindlmarkt 시청 광장",
+    "u": "https://www.youtube.com/watch?v=n4gqbzXdKE4"
+   }
+  ],
+  "note": "2026.11.13~12.26 매일 10~22시, 스케이트장은 2027.1.6까지예요."
+ },
+ "v-amhof": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/now-on/events/christmas-market-am-hof-2024-1001480"
+   },
+   {
+    "t": "마켓 안내 (Visiting Vienna)",
+    "u": "https://www.visitingvienna.com/sights/christmasmarkets/am-hof/"
+   },
+   {
+    "t": "2026 마켓 총정리 (vienna.at)",
+    "u": "https://www.vienna.at/vienna-christmas-markets-2026-an-overview-of-all-15-markets/10602305"
+   },
+   {
+    "t": "유튜브: Am Hof 크리스마스 마켓",
+    "u": "https://www.youtube.com/watch?v=WOOjQKdfT-g"
+   }
+  ],
+  "note": "2026.11.13~12.23, 월~목 11~21시, 금~일 10~21시(음식 22시까지)."
+ },
+ "v-schoenbrunn": {
+  "links": [
+   {
+    "t": "공식 사이트 (그랜드 투어)",
+    "u": "https://schoenbrunn.at/en/all-tickets/grand-tour"
+   },
+   {
+    "t": "공식 티켓 안내",
+    "u": "https://schoenbrunn.at/en/tickets-and-prices"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://wien.info/en/sightseeing/imperial-sights/schoenbrunn-palace-357558"
+   },
+   {
+    "t": "유튜브: 비엔나 가이드의 쇤부른 궁전 꿀팁",
+    "u": "https://www.youtube.com/watch?v=hrugmuAESMo"
+   }
+  ],
+  "note": "그랜드 투어는 시간 지정 티켓에 오디오 가이드가 포함돼요. 예매는 imperialtickets.com에서."
+ },
+ "v-xm-schoen": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/now-on/events/christmas-market-at-schoenbrunn-palace-1133666"
+   },
+   {
+    "t": "마켓 안내 (Visiting Vienna)",
+    "u": "https://www.visitingvienna.com/sights/christmasmarkets/schoenbrunn/"
+   },
+   {
+    "t": "2026 개장 소식 (news.at)",
+    "u": "https://www.news.at/ausflugsziele/weihnachtsmaerkte-wien-2026-schoenbrunn-rathausplatz-eroeffnung"
+   },
+   {
+    "t": "유튜브: Schönbrunn 크리스마스 마켓",
+    "u": "https://www.youtube.com/watch?v=szkb93JvFKk"
+   }
+  ],
+  "note": "2026.11.6~2027.1.6 매일 10~21시, 입장 무료예요."
+ },
+ "v-gloriette": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/sightseeing/sights/imperial/gloriette-347148"
+   },
+   {
+    "t": "빈 관광청 (카페·테라스)",
+    "u": "https://www.wien.info/en/gloriette-132794"
+   }
+  ],
+  "note": "정원은 겨울에 17:30 무렵 닫아요. 겨울 옥상 테라스 개방 여부는 현장에서 확인하세요."
+ },
+ "v-hundertwasser": {
+  "links": [
+   {
+    "t": "방문 안내 (Visiting Vienna)",
+    "u": "https://www.visitingvienna.com/sights/hundertwasserhaus/"
+   },
+   {
+    "t": "론리플래닛",
+    "u": "https://www.lonelyplanet.com/points-of-interest/hundertwasserhaus/1073391"
+   },
+   {
+    "t": "빈 관광청 (쿤스트하우스 빈)",
+    "u": "https://www.wien.info/en/art-culture/museums-exhibitions/top-museums/kunst-haus-wien-350408"
+   },
+   {
+    "t": "유튜브: Hundertwasserhaus",
+    "u": "https://www.youtube.com/watch?v=EHOuXP2X1NM"
+   }
+  ],
+  "note": "실제 주민이 사는 아파트라 외관만 볼 수 있어요. 트램 1번 Hetzgasse에서 내려요."
+ },
+ "v-figl": {
+  "links": [
+   {
+    "t": "공식 사이트 (FAQ·예약)",
+    "u": "https://www.figlmueller.at/en/faq/"
+   },
+   {
+    "t": "팔슈타프 리뷰",
+    "u": "https://www.falstaff.com/en/restaurants/figlmueller-wollzeile-wien"
+   },
+   {
+    "t": "유튜브: 피그뮐러 1호점",
+    "u": "https://www.youtube.com/watch?v=54u-DF9P4rY"
+   }
+  ],
+  "note": "Wollzeile 5, 매일 11~22:30. 미리 예약하는 게 안전해요."
+ },
+ "v-plachutta": {
+  "links": [
+   {
+    "t": "공식 사이트",
+    "u": "https://www.plachutta.at/en/restaurant/wollzeile/"
+   },
+   {
+    "t": "공식 메뉴",
+    "u": "https://www.plachutta.at/en/menu-wollzeile/"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/plachutta-wollzeile-130132"
+   },
+   {
+    "t": "유튜브: 플라후타 타펠슈피츠",
+    "u": "https://www.youtube.com/watch?v=NUf9Xs5DgP0"
+   }
+  ],
+  "note": "Wollzeile 38, 매일 11:30~23:30이에요."
+ },
+ "v-ribs": {
+  "links": [
+   {
+    "t": "후기 (Vienna Unwrapped)",
+    "u": "https://vienna-unwrapped.com/ribs-of-vienna-restaurant/"
+   },
+   {
+    "t": "팔터 리뷰",
+    "u": "https://www.falter.at/lokal/3542/restaurant-ribs-of-vienna"
+   },
+   {
+    "t": "유튜브: RIBS of Vienna·데멜 후기",
+    "u": "https://www.youtube.com/watch?v=x4fDErSUtPs"
+   }
+  ],
+  "note": "Weihburggasse 22, 전화 +43 1 5138519로 예약하는 걸 추천해요."
+ },
+ "v-salm": {
+  "links": [
+   {
+    "t": "공식 사이트",
+    "u": "https://salmbraeu.com/en/home-brewery/"
+   },
+   {
+    "t": "팔터 리뷰",
+    "u": "https://www.falter.at/lokal/1843/salm-braeu"
+   },
+   {
+    "t": "유튜브: Salm Bräu 소개 영상",
+    "u": "https://www.youtube.com/watch?v=ol77qW2v8-8"
+   }
+  ],
+  "note": "Rennweg 8, 벨베데레 바로 옆이고 매일 11~23시예요(주방 22:30까지)."
+ },
+ "v-kameel": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/zum-schwarzen-kameel-131524"
+   },
+   {
+    "t": "팔슈타프 (400주년)",
+    "u": "https://www.falstaff.com/at/news/400-jahre-zum-schwarzen-kameel"
+   },
+   {
+    "t": "팔터 리뷰",
+    "u": "https://www.falter.at/lokal/1307/zum-schwarzen-kameel"
+   },
+   {
+    "t": "유튜브: Zum Schwarzen Kameel",
+    "u": "https://www.youtube.com/watch?v=CA2YYvGPaqk"
+   }
+  ],
+  "note": "Bognergasse 5. 브뢰첸은 진열대에서 골라 서서 먹으면 빨라요."
+ },
+ "v-bitzinger": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/bitzinger-s-sausage-stand-at-albertina-129286"
+   },
+   {
+    "t": "팔슈타프 스트리트푸드",
+    "u": "https://www.falstaff.com/at/streetfood/bitzinger-wuerstelstand"
+   },
+   {
+    "t": "유튜브: Bitzinger 소시지 가판대",
+    "u": "https://www.youtube.com/watch?v=YOjpx-_e7Fs"
+   }
+  ],
+  "note": "알베르티나 광장, 매일 8시~새벽 4시까지 열어요."
+ },
+ "v-sacher": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/caf%C3%A9-sacher-131938"
+   },
+   {
+    "t": "공식 사이트 (자허토르테)",
+    "u": "https://www.sacher.com/en/original-sacher-Torte/recipe/"
+   },
+   {
+    "t": "유튜브: 카페 자허 방문기",
+    "u": "https://www.youtube.com/watch?v=dDFKdAY2vjc"
+   }
+  ],
+  "note": "Philharmonikerstraße 4, 매일 8~22시. 줄이 길어서 오전 일찍 가는 걸 추천해요."
+ },
+ "v-demel": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://wien.info/en/see-do/shopping/sweet-greetings-360694"
+   },
+   {
+    "t": "위키백과",
+    "u": "https://en.wikipedia.com/wiki/Demel"
+   },
+   {
+    "t": "방문 안내 (Visiting Vienna)",
+    "u": "https://visitingvienna.com/eatingdrinking/cafespubsbars/demel"
+   },
+   {
+    "t": "유튜브: Café Demel (릭 스티브스)",
+    "u": "https://www.youtube.com/watch?v=NBTcbD3-ux4"
+   }
+  ],
+  "note": "Kohlmarkt 14, 1786년 문을 연 황실 제과점이에요."
+ },
+ "v-central": {
+  "links": [
+   {
+    "t": "공식 사이트",
+    "u": "https://cafecentral.wien/en/?p=16"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/de/café-central-127222"
+   },
+   {
+    "t": "리노베이션 소식 (vol.at)",
+    "u": "https://www.vol.at/viennese-cafe-central-closes-for-general-renovation-until-autumn/10052486"
+   },
+   {
+    "t": "유튜브: 비엔나 3대 카페 카페 센트럴",
+    "u": "https://www.youtube.com/watch?v=AXUgJb16H1Y"
+   }
+  ],
+  "note": "2026.3.16부터 전면 리노베이션 중이고 가을 재개관 예정이었는데, 재개관은 확인하지 못했어요. 방문 전 공식 사이트를 확인하고, 문을 닫았으면 프라이웅의 팔레 하라흐 임시 매장 '카페 데첸트랄'로 가세요."
+ },
+ "v-landtmann": {
+  "links": [
+   {
+    "t": "공식 사이트",
+    "u": "https://landtmann.at/en/cafe-landtmann.html"
+   },
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/caf%C3%A9-landtmann-131906"
+   },
+   {
+    "t": "위키백과",
+    "u": "https://en.wikipedia.com/wiki/Caf%C3%A9_Landtmann"
+   },
+   {
+    "t": "유튜브: Cafe Landtmann",
+    "u": "https://www.youtube.com/watch?v=LxOmd5AjDGc"
+   }
+  ],
+  "note": "Universitätsring 4, 시청 바로 옆이라 시청 광장 마켓과 묶기 좋아요."
+ },
+ "v-hawelka": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://www.wien.info/en/café-hawelka-131894"
+   },
+   {
+    "t": "위키백과",
+    "u": "https://www.wikipedia.org/wiki/Caf%C3%A9_Hawelka"
+   },
+   {
+    "t": "팔슈타프 리뷰",
+    "u": "https://www.falstaff.com/en/cafes/hawelka"
+   },
+   {
+    "t": "유튜브: Cafe Hawelka",
+    "u": "https://www.youtube.com/watch?v=cTytTXXPqo4"
+   }
+  ],
+  "note": "Dorotheergasse 6. 부흐텔른은 저녁 8시 이후에 갓 구워 나와요."
+ },
+ "v-manner": {
+  "links": [
+   {
+    "t": "빈 관광청",
+    "u": "https://wien.info/en/see-do/shopping/old-city/manner-351530"
+   },
+   {
+    "t": "빈 관광청 (마너 이야기)",
+    "u": "https://www.wien.info/en/see-do/shopping/manner-fun-facts-351550"
+   },
+   {
+    "t": "위키백과",
+    "u": "https://www.wikipedia.org/wiki/Manner_(confectionary)"
+   },
+   {
+    "t": "유튜브: MANNER THE ORIGINAL",
+    "u": "https://www.youtube.com/watch?v=HtGdztquktQ"
+   }
+  ],
+  "note": "Stephansplatz 7. 웨하스가 매일 아침 공장에서 바로 들어와요."
+ }
+}

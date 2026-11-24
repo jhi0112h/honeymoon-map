@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>프라하 허니문</name>
+<Style id="hotel"><IconStyle><color>ff1c8ad9</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="xmas"><IconStyle><color>ff5a8316</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="sight"><IconStyle><color>ffc8552f</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="food"><IconStyle><color>ff2e3fc6</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="cafe"><IconStyle><color>ff2b5a8a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="night"><IconStyle><color>ffa83a7a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Folder><name>숙소·역</name>
+<Placemark><name>마에스트로 바이 아드레즈</name><description>Hotel Maestro by Adrez · 신시가
+숙소 · Politických vězňů 916/16
+팁: 바츨라프 광장 마켓 도보 3분, 중앙역 도보 10분. 12/13 기차 타러 걸어가기 좋음. 옛 이름 Hotel Sovereign. 프라하 공통 팁(참고 릴스): 대부분 카드 결제 가능해 현금(코루나)은 조금만, 교통권은 미리 사지 말고 필요할 때 1회권
+https://www.google.com/maps/search/?api=1&amp;query=Hotel%20Maestro%20by%20Adrez%20Prague</description><styleUrl>#hotel</styleUrl><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>크리스마스 마켓</name>
+<Placemark><name>구시가 광장 크리스마스 마켓</name><description>Old Town Square Christmas Market · 구시가
+11/28~1/6 · 10:00~22:00 · 라이트 쇼 매일 16:30~21:30 매시 30분
+팁: 라이트 쇼는 16:30 첫 회가 일몰 직후 푸른 하늘+트리 조명이라 가장 예쁨. 17:30~19:30이 가장 붐비니 피하기. 프라하 햄은 100g 단위 과금이라 주문할 때 "조금만" 요청. 포토 명당: 트리 전망대(무료), 틴 성당 맞은편, 구시청사 탑(유료, 정각 시계→30분 라이트 쇼)
+https://www.google.com/maps/search/?api=1&amp;query=Old%20Town%20Square%20Christmas%20Market%20Prague</description><styleUrl>#xmas</styleUrl><Point><coordinates>14.4218,50.0873,0</coordinates></Point></Placemark>
+<Placemark><name>바츨라프 광장 크리스마스 마켓</name><description>Wenceslas Square Christmas Market · 신시가
+11/28~1/6 · 10:00~22:00 · 숙소 앞
+팁: 구시가보다 덜 붐비고 먹거리 위주. 숙소와 가까워 도착일 밤·출발일 아침 산책 코스로
+https://www.google.com/maps/search/?api=1&amp;query=Wenceslas%20Square%20Christmas%20Market%20Prague</description><styleUrl>#xmas</styleUrl><Point><coordinates>14.4272,50.0815,0</coordinates></Point></Placemark>
+<Placemark><name>공화국 광장 마켓</name><description>Namesti Republiky Christmas Market · 구시가
+11/25~12/24 · 화약탑 옆
+팁: 구시가 가는 길에 잠깐 들르기 좋은 소규모 마켓
+https://www.google.com/maps/search/?api=1&amp;query=Namesti%20Republiky%20Christmas%20Market%20Prague</description><styleUrl>#xmas</styleUrl><Point><coordinates>14.4296,50.0883,0</coordinates></Point></Placemark>
+<Placemark><name>미루 광장 마켓</name><description>Namesti Miru Christmas Market · 비노흐라디
+11/20~12/24 · 현지인 마켓
+팁: 성 루드밀라 성당 앞. 관광객이 적고 가격이 착함. 숙소에서 도보 12분
+https://www.google.com/maps/search/?api=1&amp;query=Namesti%20Miru%20Christmas%20Market%20Prague</description><styleUrl>#xmas</styleUrl><Point><coordinates>14.4378,50.0755,0</coordinates></Point></Placemark>
+<Placemark><name>프라하 성 크리스마스 마켓</name><description>Prague Castle Christmas Market · 흐라드차니
+성 이르지 광장 · 2026 일정 미발표
+팁: 성 관람 동선 안에 있어 따로 시간 안 써도 됨. 일정은 출발 전 확인
+https://www.google.com/maps/search/?api=1&amp;query=Prague%20Castle%20Christmas%20Market%20Prague</description><styleUrl>#xmas</styleUrl><Point><coordinates>14.402,50.0907,0</coordinates></Point></Placemark>
+<Placemark><name>캄파 크리스마스 마켓</name><description>Kampa Christmas Market · 말라스트라나
+12/3~1/4 (출처 1곳) · 소규모
+팁: 수공예품 위주의 조용한 마켓. 존 레논 벽 보고 이어서
+https://www.google.com/maps/search/?api=1&amp;query=Kampa%20Christmas%20Market%20Prague</description><styleUrl>#xmas</styleUrl><Point><coordinates>14.4086,50.085,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>명소</name>
+<Placemark><name>프라하 성</name><description>Prague Castle · 흐라드차니
+근위병 교대식 매시 정각, 정오 대교대식
+팁: 통합권 Circuit B(비투스 대성당·구왕궁·성 이르지 성당·황금소로). 겨울 관람 9~16시. 입구 보안검색 줄 있으니 오전 일찍
+https://www.google.com/maps/search/?api=1&amp;query=Prague%20Castle%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4005,50.0903,0</coordinates></Point></Placemark>
+<Placemark><name>성 비투스 대성당</name><description>St. Vitus Cathedral · 흐라드차니
+무하 스테인드글라스
+팁: 일요일 오전은 미사로 관광 입장 불가(12시 이후). 토요일은 OK. 왼쪽 세 번째 예배당이 무하 창
+https://www.google.com/maps/search/?api=1&amp;query=St.%20Vitus%20Cathedral%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.3996,50.0909,0</coordinates></Point></Placemark>
+<Placemark><name>황금소로</name><description>Golden Lane · 흐라드차니
+카프카가 살던 22번지 파란 집
+팁: 성 통합권에 포함. 16시 이후 무료 개방되지만 집 내부는 닫힘
+https://www.google.com/maps/search/?api=1&amp;query=Golden%20Lane%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4037,50.092,0</coordinates></Point></Placemark>
+<Placemark><name>스트라호프 수도원 도서관</name><description>Strahov Library · 흐라드차니
+철학의 방·신학의 방
+팁: 9~12시, 13~17시 운영(점심 휴관). 방 안에는 못 들어가고 입구에서 관람. 사진 촬영권 별도
+https://www.google.com/maps/search/?api=1&amp;query=Strahov%20Library%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.3893,50.0863,0</coordinates></Point></Placemark>
+<Placemark><name>로레타</name><description>Loreta Prague · 흐라드차니
+매시 정각 27개 종 연주
+팁: 스트라호프에서 성으로 내려가는 길. 시간 없으면 외관+종소리만
+https://www.google.com/maps/search/?api=1&amp;query=Loreta%20Prague%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.3916,50.089,0</coordinates></Point></Placemark>
+<Placemark><name>네루도바 거리</name><description>Nerudova Street · 말라스트라나
+집집마다 문장 간판
+팁: 성에서 내려올 때 걷는 게 편함(오르막 피하기)
+https://www.google.com/maps/search/?api=1&amp;query=Nerudova%20Street%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.399,50.0882,0</coordinates></Point></Placemark>
+<Placemark><name>성 니콜라스 성당</name><description>St. Nicholas Church Mala Strana · 말라스트라나
+바로크 돔
+팁: 종탑 전망대(별도 입구)에서 카를교·구시가 첨탑 뷰. 저녁 클래식 콘서트도 있음
+https://www.google.com/maps/search/?api=1&amp;query=St.%20Nicholas%20Church%20Mala%20Strana%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4033,50.0878,0</coordinates></Point></Placemark>
+<Placemark><name>발트슈테인 정원</name><description>Wallenstein Garden · 말라스트라나
+공작새 정원
+팁: ⚠ 4~10월만 개방. 12월 방문 일정엔 닫혀 있음
+https://www.google.com/maps/search/?api=1&amp;query=Wallenstein%20Garden%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4065,50.0898,0</coordinates></Point></Placemark>
+<Placemark><name>브르트바 정원</name><description>Vrtba Garden · 말라스트라나
+바로크 테라스 정원
+팁: ⚠ 4~10월만 개방. 12월엔 닫혀 있음
+https://www.google.com/maps/search/?api=1&amp;query=Vrtba%20Garden%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4038,50.0862,0</coordinates></Point></Placemark>
+<Placemark><name>존 레논 벽</name><description>Lennon Wall · 말라스트라나
+그래피티 벽
+팁: 오전이나 해질녘이 한산. 바로 옆 다리 난간 사랑의 자물쇠
+https://www.google.com/maps/search/?api=1&amp;query=Lennon%20Wall%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4067,50.0862,0</coordinates></Point></Placemark>
+<Placemark><name>캄파 섬·체르토프카</name><description>Kampa Island Certovka · 말라스트라나
+프라하의 베네치아
+팁: 물레방아 포토스팟은 Velkopřevorský mlýn 쪽 작은 다리 위. 캄파 공원 아기 조각상도
+https://www.google.com/maps/search/?api=1&amp;query=Kampa%20Island%20Certovka%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4083,50.0857,0</coordinates></Point></Placemark>
+<Placemark><name>카를교</name><description>Charles Bridge · 카를교
+성 얀 네포무크 동상 만지기
+팁: 낮엔 인파로 소매치기 주의. 해 진 직후(12월 16시대)가 가장 예쁨. ⚠ 가스등 점등식은 올해 12월이 아니라 2027년 1월 9~31일로 변경(프라하 관광청). 다리 전체는 강변에서 찍어야 나옴
+https://www.google.com/maps/search/?api=1&amp;query=Charles%20Bridge%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4114,50.0865,0</coordinates></Point></Placemark>
+<Placemark><name>클레멘티눔 도서관</name><description>Klementinum · 구시가
+세계에서 가장 아름다운 도서관
+팁: 가이드 투어로만 입장(30분 간격, 약 50분). 천문탑 전망 포함. 도서관 내부 촬영 금지
+https://www.google.com/maps/search/?api=1&amp;query=Klementinum%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.416,50.0865,0</coordinates></Point></Placemark>
+<Placemark><name>구시가 광장</name><description>Old Town Square · 구시가
+12월 크리스마스 마켓 메인 무대
+팁: 아침 9시 전엔 텅 빈 광장 사진 가능. 광장 주변 레스토랑은 관광지 가격
+https://www.google.com/maps/search/?api=1&amp;query=Old%20Town%20Square%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4213,50.0875,0</coordinates></Point></Placemark>
+<Placemark><name>천문시계·구시청사 탑</name><description>Astronomical Clock · 구시가
+매시 정각 인형극 (9~23시)
+팁: 인형극은 45초로 짧음. 10분 전 시계 정면 약간 오른쪽 자리 잡기. 탑 전망대는 엘리베이터 있음
+https://www.google.com/maps/search/?api=1&amp;query=Astronomical%20Clock%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4206,50.087,0</coordinates></Point></Placemark>
+<Placemark><name>틴 성당</name><description>Church of Our Lady before Tyn · 구시가
+쌍둥이 첨탑, 야간 조명
+팁: 크리스마스 트리 뒤 배경 성당. 내부는 운영시간 짧으니 외관 위주로
+https://www.google.com/maps/search/?api=1&amp;query=Church%20of%20Our%20Lady%20before%20Tyn%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4227,50.0877,0</coordinates></Point></Placemark>
+<Placemark><name>시민회관</name><description>Municipal House Prague · 구시가
+아르누보 건축
+팁: 1층 카페(Kavárna Obecní dům)만 들어가도 내부 감상 가능. 무하 홀은 가이드 투어
+https://www.google.com/maps/search/?api=1&amp;query=Municipal%20House%20Prague%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4283,50.0874,0</coordinates></Point></Placemark>
+<Placemark><name>하벨 시장</name><description>Havelske trziste · 구시가
+기념품·과일 노천시장
+팁: 마그넷·마리오네트 기념품 가격 비교용. 구시가 광장보다 저렴
+https://www.google.com/maps/search/?api=1&amp;query=Havelske%20trziste%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4211,50.0849,0</coordinates></Point></Placemark>
+<Placemark><name>유대인 지구·스페인 시나고그</name><description>Spanish Synagogue · 유대인지구
+금빛 무어 양식 내부
+팁: ⚠ 토요일 휴관(12/12 불가). 유대인 박물관 통합권으로 묘지·여러 시나고그 함께
+https://www.google.com/maps/search/?api=1&amp;query=Spanish%20Synagogue%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4189,50.0902,0</coordinates></Point></Placemark>
+<Placemark><name>구 유대인 묘지</name><description>Old Jewish Cemetery · 유대인지구
+12겹으로 쌓인 묘비
+팁: ⚠ 토요일 휴관. 통합권으로 입장
+https://www.google.com/maps/search/?api=1&amp;query=Old%20Jewish%20Cemetery%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4171,50.0901,0</coordinates></Point></Placemark>
+<Placemark><name>루돌피눔</name><description>Rudolfinum · 유대인지구
+체코 필하모닉 공연장
+팁: 12월엔 크리스마스 콘서트가 많음. 공연 있는 날 저녁 데이트 코스
+https://www.google.com/maps/search/?api=1&amp;query=Rudolfinum%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4153,50.09,0</coordinates></Point></Placemark>
+<Placemark><name>카프카 박물관</name><description>Franz Kafka Museum · 말라스트라나
+오줌싸개 동상
+팁: 마당 동상은 무료로 볼 수 있음. 박물관은 취향 따라
+https://www.google.com/maps/search/?api=1&amp;query=Franz%20Kafka%20Museum%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4105,50.0883,0</coordinates></Point></Placemark>
+<Placemark><name>바츨라프 광장</name><description>Wenceslas Square · 신시가
+쇼핑 거리, 끝에 국립박물관
+팁: 숙소 앞. 환전소는 '0% 수수료' 문구라도 실제 환율 꼭 확인
+https://www.google.com/maps/search/?api=1&amp;query=Wenceslas%20Square%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.428,50.081,0</coordinates></Point></Placemark>
+<Placemark><name>국립박물관</name><description>National Museum Prague · 신시가
+중앙 계단·돔 포토스팟
+팁: 10시 개관. 돔 아래 판테온과 계단만 봐도 충분. 숙소에서 도보 5분
+https://www.google.com/maps/search/?api=1&amp;query=National%20Museum%20Prague%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4307,50.0789,0</coordinates></Point></Placemark>
+<Placemark><name>루체르나 파사주</name><description>Lucerna Passage · 신시가
+거꾸로 매달린 말 조형물
+팁: 비 오는 날 실내 동선. 숙소에서 도보 5분
+https://www.google.com/maps/search/?api=1&amp;query=Lucerna%20Passage%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4255,50.0816,0</coordinates></Point></Placemark>
+<Placemark><name>무하 박물관 (사바린 궁전)</name><description>Mucha Museum Savarin Palace · 신시가
+2025년 개관한 무하 재단 미술관 · 나 프르지코페 10 · 매일 10~18시
+팁: 프라하 무하 박물관은 두 곳. 이곳(사바린 궁전)이 2025년에 새로 연 더 큰 전시관이고, 1998년부터 있던 판스카 거리 원조관은 도보 3분 거리. 숙소에서 도보 8분
+https://www.google.com/maps/search/?api=1&amp;query=Mucha%20Museum%20Savarin%20Palace%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4252,50.0848,0</coordinates></Point></Placemark>
+<Placemark><name>카프카 회전 머리</name><description>Head of Franz Kafka · 신시가
+움직이는 조형물
+팁: 정시마다 회전 쇼. 쿼드리오 쇼핑몰 지하철역 위
+https://www.google.com/maps/search/?api=1&amp;query=Head%20of%20Franz%20Kafka%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4199,50.082,0</coordinates></Point></Placemark>
+<Placemark><name>국립극장</name><description>National Theatre Prague · 신시가
+오페라·발레
+팁: 12월 호두까기 인형 공연 시즌. 공연 표는 국립극장 공식 사이트에서
+https://www.google.com/maps/search/?api=1&amp;query=National%20Theatre%20Prague%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4136,50.0811,0</coordinates></Point></Placemark>
+<Placemark><name>댄싱 하우스</name><description>Dancing House · 신시가
+루프탑 글래스바 강변 뷰
+팁: 꼭대기 Glass Bar는 음료 주문하면 테라스 입장. 외관만이면 강 건너편에서 찍기
+https://www.google.com/maps/search/?api=1&amp;query=Dancing%20House%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4141,50.0755,0</coordinates></Point></Placemark>
+<Placemark><name>페트르진 전망대</name><description>Petrin Lookout Tower · 말라스트라나
+미니 에펠탑 · 푸니쿨라 2026.9.22 재개통
+팁: 푸니쿨라 약 2년 만에 재개통(차량·선로 새로 교체). 탑승장 Újezd(트램 22번), 매일 07:00~22:15, 약 10분 간격. 1회권 100코루나(PID 앱 90), 24·72시간권 소지 시 추가요금 없음. 오전 9시 전 추천(10:30엔 100명 넘게 줄). 카페 사보이 바로 옆 정류장
+https://www.google.com/maps/search/?api=1&amp;query=Petrin%20Lookout%20Tower%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.3951,50.0836,0</coordinates></Point></Placemark>
+<Placemark><name>비셰흐라드</name><description>Vysehrad · 비셰흐라드
+성 베드로·바울 성당, 성벽 전망
+팁: 지하철 C선 Vyšehrad역에서 도보 10분. 무하·드보르작 묘지
+https://www.google.com/maps/search/?api=1&amp;query=Vysehrad%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4195,50.0643,0</coordinates></Point></Placemark>
+<Placemark><name>지슈코프 TV타워</name><description>Zizkov Television Tower · 지슈코프
+기어오르는 아기 조형물
+팁: 93m 전망대. 시내 전체 조망
+https://www.google.com/maps/search/?api=1&amp;query=Zizkov%20Television%20Tower%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.451,50.0809,0</coordinates></Point></Placemark>
+<Placemark><name>라모바니-흐라치키 (기념품 가게)</name><description>Ramovani-Hracky Havelska 512 · 구시가
+하벨 시장 거리 기념품 가게 · 구글 평점 4.8
+팁: 여러 기념품 가게를 비교한 릴스 기준 같은 제품도 가장 저렴했던 곳. 패트와 매트 열쇠고리 약 6,000원. Havelská 512 (호텔 콜로세움 건물), 19시 영업 종료(구글 지도 기준)
+https://www.google.com/maps/search/?api=1&amp;query=Ramovani-Hracky%20Havelska%20512%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.4216,50.0848,0</coordinates></Point></Placemark>
+<Placemark><name>팔라디움 쇼핑몰</name><description>Palladium Praha · 구시가
+공화국 광장 대형 쇼핑몰
+팁: 비 오거나 추울 때 실내 쇼핑. 화약탑·시민회관 바로 옆
+https://www.google.com/maps/search/?api=1&amp;query=Palladium%20Praha%20Prague</description><styleUrl>#sight</styleUrl><Point><coordinates>14.429,50.0893,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>식당</name>
+<Placemark><name>포크스 보디치코바</name><description>Pork's Vodickova · 신시가 · 점심
+꼴레뇨 · 시트 점심 장소 (구글 평점 4.7)
+팁: 예약 필수. 꼴레뇨는 2인 1개면 충분. 오전 동선(구시가 광장)에서 도보 약 15분, 식사 후 카페 루브르까지 도보 6분. 2호점이라 리뷰는 적지만 본점(4.6점)과 같은 브랜드
+https://www.google.com/maps/search/?api=1&amp;query=Pork%27s%20Vodickova%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4222,50.08,0</coordinates></Point></Placemark>
+<Placemark><name>로칼 들로우하</name><description>Lokal Dlouhaaa · 구시가 · 점심·저녁
+탱크 필스너, 슈니첼·굴라쉬
+팁: 앰비언트 그룹 체인이라 관리가 꾸준하고 깔끔. 맥주잔에 연필로 표시하며 계산. 저녁은 예약 추천(공식 사이트 온라인 예약)
+https://www.google.com/maps/search/?api=1&amp;query=Lokal%20Dlouhaaa%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4258,50.0901,0</coordinates></Point></Placemark>
+<Placemark><name>우 플레쿠</name><description>U Fleku · 신시가 · 저녁
+1499년부터 양조한 흑맥주
+팁: 관광객이 많아 서비스가 불친절하다는 후기가 많음. 웨이터가 권하는 베헤로브카 샷은 유료(거절 가능). 이번 동선에서는 제외
+https://www.google.com/maps/search/?api=1&amp;query=U%20Fleku%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4171,50.0786,0</coordinates></Point></Placemark>
+<Placemark><name>포크스 (말라스트라나)</name><description>Pork's Prague Mostecka · 말라스트라나 · 점심·저녁
+꼴레뇨, 카를교 앞 · 12:00~23:30
+팁: Mostecká 16. 2인 꼴레뇨 1개면 충분, 예약 추천
+https://www.google.com/maps/search/?api=1&amp;query=Pork%27s%20Prague%20Mostecka%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4058,50.0866,0</coordinates></Point></Placemark>
+<Placemark><name>믈레니체</name><description>Mlejnice Prague · 구시가 · 점심·저녁
+한국인 꼴레뇨 맛집 · 구시가 광장 도보 3분 (Kožná 14)
+팁: 양 많고 가격 착함. 코젤 흑맥주. 예약 추천, 카드 안 받는다는 후기 있어 현금 준비
+https://www.google.com/maps/search/?api=1&amp;query=Mlejnice%20Prague%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4199,50.0858,0</coordinates></Point></Placemark>
+<Placemark><name>우 크로카</name><description>U Kroka · 비셰흐라드 · 저녁
+오리·꼴레뇨
+팁: 예약 필수. 비셰흐라드와 묶어서
+https://www.google.com/maps/search/?api=1&amp;query=U%20Kroka%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.417,50.066,0</coordinates></Point></Placemark>
+<Placemark><name>나셰 마소</name><description>Nase maso · 구시가 · 점심
+정육점 버거·미트로프
+팁: 좌석이 몇 개 없어 점심 피크 전 11:30 방문
+https://www.google.com/maps/search/?api=1&amp;query=Nase%20maso%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4262,50.0905,0</coordinates></Point></Placemark>
+<Placemark><name>콜코브나 첼니체</name><description>Kolkovna Celnice · 구시가 · 점심·저녁
+필스너 직영
+팁: 필스너 우르켈 직영. 넓고 현대적인 인테리어, 숙소에서 도보 8분. 로칼이 만석일 때 대안
+https://www.google.com/maps/search/?api=1&amp;query=Kolkovna%20Celnice%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4307,50.0879,0</coordinates></Point></Placemark>
+<Placemark><name>우 메드비드쿠</name><description>U Medvidku · 구시가 · 점심·저녁
+자가양조 X-Beer
+팁: 양조장 펍 쪽에서 소량 생산 맥주 시음
+https://www.google.com/maps/search/?api=1&amp;query=U%20Medvidku%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4196,50.0834,0</coordinates></Point></Placemark>
+<Placemark><name>믈리네츠</name><description>Mlynec restaurant Prague · 카를교 · 저녁
+카를교 뷰 파인다이닝 (Novotného lávka 9)
+팁: 예약 시 '창가 카를교 뷰' 요청 + 허니문 메모. 스마트 캐주얼
+https://www.google.com/maps/search/?api=1&amp;query=Mlynec%20restaurant%20Prague%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4144,50.0857,0</coordinates></Point></Placemark>
+<Placemark><name>우 핀카수</name><description>U Pinkasu · 신시가 · 점심·저녁
+필스너 첫 판매 펍
+팁: 숙소에서 도보 8분
+https://www.google.com/maps/search/?api=1&amp;query=U%20Pinkasu%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4239,50.0838,0</coordinates></Point></Placemark>
+<Placemark><name>민코브나</name><description>Restaurace Mincovna · 구시가 · 점심·저녁
+구시가 광장 바로 옆
+팁: 마켓 구경하다 들어가기 좋은 위치
+https://www.google.com/maps/search/?api=1&amp;query=Restaurace%20Mincovna%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4215,50.0868,0</coordinates></Point></Placemark>
+<Placemark><name>크르치마</name><description>Krcma Prague · 유대인지구 · 저녁
+동굴 분위기 중세 레스토랑
+팁: 지하라 겨울에 아늑함. 예약 추천
+https://www.google.com/maps/search/?api=1&amp;query=Krcma%20Prague%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4193,50.0893,0</coordinates></Point></Placemark>
+<Placemark><name>우 글라우비추</name><description>U Glaubicu · 말라스트라나 · 점심·저녁
+말라스트라나 광장 꼴레뇨
+팁: 성 관람 후 내려와서 점심
+https://www.google.com/maps/search/?api=1&amp;query=U%20Glaubicu%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.404,50.088,0</coordinates></Point></Placemark>
+<Placemark><name>스트라호프 수도원 양조장</name><description>Strahov Monastic Brewery · 흐라드차니 · 점심
+수도원 맥주 성 노르베르트
+팁: 도서관 바로 옆
+https://www.google.com/maps/search/?api=1&amp;query=Strahov%20Monastic%20Brewery%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.3888,50.0868,0</coordinates></Point></Placemark>
+<Placemark><name>하벨스카 코루나</name><description>Havelska Koruna · 구시가 · 점심
+셀프 배식 체코 가정식
+팁: 주문표 받아 나갈 때 계산. 표 잃어버리면 벌금
+https://www.google.com/maps/search/?api=1&amp;query=Havelska%20Koruna%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4207,50.0848,0</coordinates></Point></Placemark>
+<Placemark><name>브레도프스키 드부르</name><description>Bredovsky dvur · 신시가 · 점심·저녁
+빵 그릇 굴라쉬
+팁: 숙소 바로 옆. 드레스덴 다녀온 밤 늦은 식사 후보
+https://www.google.com/maps/search/?api=1&amp;query=Bredovsky%20dvur%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.431,50.0817,0</coordinates></Point></Placemark>
+<Placemark><name>우 칼리하</name><description>U Kalicha · 신시가 · 저녁
+소설 슈베이크의 단골 술집
+팁: 관광객 대상이라 가격대 있음
+https://www.google.com/maps/search/?api=1&amp;query=U%20Kalicha%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4258,50.0743,0</coordinates></Point></Placemark>
+<Placemark><name>우 파를라멘투</name><description>U Parlamentu · 유대인지구 · 점심·저녁
+현지인 가성비 펍
+팁: 유대인 지구 관람 후 점심
+https://www.google.com/maps/search/?api=1&amp;query=U%20Parlamentu%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4176,50.0886,0</coordinates></Point></Placemark>
+<Placemark><name>칸티나</name><description>Kantyna Prague · 신시가 · 점심·저녁
+정육점 다이닝 · 12/9 저녁
+팁: 숙소 바로 앞. 카운터에서 고기 골라 주문, 스탠딩석도 있음
+https://www.google.com/maps/search/?api=1&amp;query=Kantyna%20Prague%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4302,50.0825,0</coordinates></Point></Placemark>
+<Placemark><name>테라사 우 즐라테 스투드녜</name><description>Terasa U Zlate studne · 말라스트라나 · 저녁
+붉은 지붕 파노라마
+팁: 겨울엔 실내석. 해 지기 전 점심 코스가 뷰는 더 좋음
+https://www.google.com/maps/search/?api=1&amp;query=Terasa%20U%20Zlate%20studne%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4048,50.0912,0</coordinates></Point></Placemark>
+<Placemark><name>캄파 파크</name><description>Kampa Park · 말라스트라나 · 저녁
+카를교 아래 리버뷰
+팁: 믈레니체 대안. 창가석 요청
+https://www.google.com/maps/search/?api=1&amp;query=Kampa%20Park%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4102,50.0862,0</coordinates></Point></Placemark>
+<Placemark><name>즐라타 프라하 (페어몬트 골든 프라하)</name><description>Zlata Praha Fairmont Golden Prague · 유대인지구 · 저녁
+호텔 루프탑 레스토랑 · 옛 인터컨티넨탈
+팁: 전망 위주. 일요일 브런치도 유명
+https://www.google.com/maps/search/?api=1&amp;query=Zlata%20Praha%20Fairmont%20Golden%20Prague%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.419,50.0915,0</coordinates></Point></Placemark>
+<Placemark><name>우 모드레 카흐니치키</name><description>U Modre kachnicky · 말라스트라나 · 저녁
+오리 요리, 로맨틱 (Nebovidská 6)
+팁: 작은 곳이라 예약 필수
+https://www.google.com/maps/search/?api=1&amp;query=U%20Modre%20kachnicky%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4045,50.0858,0</coordinates></Point></Placemark>
+<Placemark><name>필드</name><description>Field restaurant Prague · 구시가 · 저녁
+미쉐린 스타
+팁: 테이스팅 메뉴. 몇 주 전 예약
+https://www.google.com/maps/search/?api=1&amp;query=Field%20restaurant%20Prague%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4229,50.0905,0</coordinates></Point></Placemark>
+<Placemark><name>포 비엣남 뚜언 &amp; 란</name><description>Pho Vietnam Tuan &amp; Lan · 비노흐라디 · 점심
+쌀국수
+팁: 숙소에서 도보 10분. 현금 준비
+https://www.google.com/maps/search/?api=1&amp;query=Pho%20Vietnam%20Tuan%20%26%20Lan%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4334,50.0757,0</coordinates></Point></Placemark>
+<Placemark><name>코즐로브나 아프로포스</name><description>Kozlovna Apropos · 구시가 · 점심·저녁
+코젤 맥주 직영 펍 · 폭립
+팁: 릴스 추천: 폭립(Roasted Pork Ribs, 600g 약 395코루나·2만6천원, 둘이 하나면 충분) + 비프 타르타르, 작은 샐러드 곁들이기. 굴라쉬는 비추천이라는 후기. 코즐로브나는 지점이 여러 곳이라 방문 지점 확인
+https://www.google.com/maps/search/?api=1&amp;query=Kozlovna%20Apropos%20Prague</description><styleUrl>#food</styleUrl><Point><coordinates>14.4155,50.0886,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>카페</name>
+<Placemark><name>크루스타 베이커리</name><description>KRUSTA bakery Vodickova · 신시가
+굴뚝빵 · 시트에 있는 간식 장소
+팁: Vodičkova 11 (주소 출처마다 다름). 브런치·빵. 포크스 보디치코바와 같은 거리
+https://www.google.com/maps/search/?api=1&amp;query=KRUSTA%20bakery%20Vodickova%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4232,50.0803,0</coordinates></Point></Placemark>
+<Placemark><name>쿤스트할레 프라하 카페</name><description>Kunsthalle Praha Cafe · 말라스트라나
+시트 추천 · 미술관 1층 카페
+팁: 화요일 휴무, 월·목~일 11~19시, 수 11~21시. 성 관람 후 점심 겸 카페로
+https://www.google.com/maps/search/?api=1&amp;query=Kunsthalle%20Praha%20Cafe%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4108,50.0905,0</coordinates></Point></Placemark>
+<Placemark><name>아리아 호텔 루프탑</name><description>Aria Hotel Prague rooftop · 말라스트라나
+시트 추천 · 성 니콜라스 돔 뷰
+팁: 루프탑 테라스는 계절 운영이라 12월엔 실내만일 수 있음. 방문 전 호텔에 확인
+https://www.google.com/maps/search/?api=1&amp;query=Aria%20Hotel%20Prague%20rooftop%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4028,50.087,0</coordinates></Point></Placemark>
+<Placemark><name>카페 루브르</name><description>Cafe Louvre · 신시가
+카프카·아인슈타인 단골
+팁: 2층. 아침 8시부터. 브런치·케이크
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Louvre%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4183,50.082,0</coordinates></Point></Placemark>
+<Placemark><name>카페 슬라비아</name><description>Cafe Slavia · 신시가
+창가석에서 블타바·성 뷰
+팁: 창가석 요청. 국립극장 맞은편
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Slavia%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4135,50.0814,0</coordinates></Point></Placemark>
+<Placemark><name>카페 사보이</name><description>Cafe Savoy · 말라스트라나
+화려한 천장, 브런치
+팁: 주말 브런치는 예약 추천
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Savoy%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4072,50.0806,0</coordinates></Point></Placemark>
+<Placemark><name>카페 임페리얼</name><description>Cafe Imperial · 신시가
+아르데코 타일 모자이크
+팁: 아침 7시부터. 12/13 출발일 아침 식사 후보 (숙소 도보 12분)
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Imperial%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4318,50.0897,0</coordinates></Point></Placemark>
+<Placemark><name>IF 카페 (틸로보 광장점)</name><description>IF Cafe Tylovo namesti Prague · 비노흐라디
+프렌치 파티스리 디저트 카페 · 매일 8~20시 · 숙소에서 도보 8분
+팁: 파티시에 이베타 파베쇼바의 디저트 카페. 지점이 여러 곳(캄파 섬 베리흐 빌라, 마사리치카역, 융만노바 등)인데 출발일 아침 동선엔 숙소와 가까운 틸로보 광장점이 맞음. 브런치 메뉴도 있음
+https://www.google.com/maps/search/?api=1&amp;query=IF%20Cafe%20Tylovo%20namesti%20Prague%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4322,50.0741,0</coordinates></Point></Placemark>
+<Placemark><name>그랜드 카페 오리엔트</name><description>Grand Cafe Orient · 구시가
+큐비즘 건물 2층
+팁: 검은 성모의 집 2층. 크림 케이크 '쿠비스티츠키 브레티스'
+https://www.google.com/maps/search/?api=1&amp;query=Grand%20Cafe%20Orient%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4258,50.0866,0</coordinates></Point></Placemark>
+<Placemark><name>추크르 카바 리모나다</name><description>Cukrkavalimonada · 말라스트라나
+페인팅 천장 브런치
+팁: 작은 곳이라 브런치 시간 대기 있음
+https://www.google.com/maps/search/?api=1&amp;query=Cukrkavalimonada%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4068,50.0868,0</coordinates></Point></Placemark>
+<Placemark><name>스타벅스 프라하 성</name><description>Starbucks Prague Castle · 흐라드차니
+성 입구 테라스 시내 전망
+팁: 겨울엔 테라스가 추움. 사진만 찍고 이동해도 OK
+https://www.google.com/maps/search/?api=1&amp;query=Starbucks%20Prague%20Castle%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.3985,50.0896,0</coordinates></Point></Placemark>
+<Placemark><name>EMA 에스프레소 바</name><description>EMA espresso bar · 신시가
+스페셜티 커피
+팁: 좌석 적음, 테이크아웃 위주. 산미 있는 라이트 로스팅 스페셜티 위주라 산미를 싫어하면 비추천
+https://www.google.com/maps/search/?api=1&amp;query=EMA%20espresso%20bar%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4352,50.0899,0</coordinates></Point></Placemark>
+<Placemark><name>굿 푸드 커피 &amp; 베이커리</name><description>Good Food Coffee &amp; Bakery Karlova · 구시가
+아이스크림 굴뚝빵
+팁: 굴뚝빵은 체코 전통이 아닌 관광 간식. 사진용으로 하나 나눠 먹기
+https://www.google.com/maps/search/?api=1&amp;query=Good%20Food%20Coffee%20%26%20Bakery%20Karlova%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4178,50.0862,0</coordinates></Point></Placemark>
+<Placemark><name>안젤라토</name><description>Angelato Prague · 구시가
+수제 젤라토
+팁: 겨울엔 영업시간 단축
+https://www.google.com/maps/search/?api=1&amp;query=Angelato%20Prague%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4227,50.0849,0</coordinates></Point></Placemark>
+<Placemark><name>베이크숍</name><description>Bakeshop Praha · 구시가
+키시·케이크
+팁: 아침 식사·테이크아웃
+https://www.google.com/maps/search/?api=1&amp;query=Bakeshop%20Praha%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4232,50.0902,0</coordinates></Point></Placemark>
+<Placemark><name>카페 미스트랄</name><description>Cafe Mistral · 유대인지구
+조용한 브런치
+팁: 클레멘티눔 투어 전후
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Mistral%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4178,50.0884,0</coordinates></Point></Placemark>
+<Placemark><name>카페 라운지</name><description>Cafe Lounge Plaska · 말라스트라나
+현지인 브런치
+팁: 관광 동선에선 약간 벗어남
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Lounge%20Plaska%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4065,50.0793,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>야경·바</name>
+<Placemark><name>옛 성 계단 전망</name><description>Old Castle Stairs · 흐라드차니
+성 동쪽 출구, 붉은 지붕 파노라마
+팁: 성 관람 후 내려가는 길에 자연스럽게 지나감. 계단 위 전망대 난간이 포토존
+https://www.google.com/maps/search/?api=1&amp;query=Old%20Castle%20Stairs%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4062,50.0918,0</coordinates></Point></Placemark>
+<Placemark><name>구시가 교탑 전망대</name><description>Old Town Bridge Tower · 카를교
+카를교와 프라하 성을 한 컷에
+팁: 프라하에 20년 산 현지인 추천 카를교 뷰(참고 릴스). 다리 위보다 탑에서 내려다보면 빨간 지붕·블타바 강·카를교가 한눈에, 360도 전망. 12월 일몰 15:58 전후, 계단 138칸·엘리베이터 없음
+https://www.google.com/maps/search/?api=1&amp;query=Old%20Town%20Bridge%20Tower%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4135,50.0862,0</coordinates></Point></Placemark>
+<Placemark><name>화약탑</name><description>Powder Tower · 구시가
+구시가로 들어가는 고딕 관문
+팁: 전망대는 계단 186칸. 숙소에서 구시가 갈 때 지나는 길
+https://www.google.com/maps/search/?api=1&amp;query=Powder%20Tower%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4275,50.0871,0</coordinates></Point></Placemark>
+<Placemark><name>치헬나 강변 (헤르게토바 치헬나)</name><description>Hergetova Cihelna Prague · 말라스트라나
+카를교를 북쪽에서 정면으로 보는 강변 · 카프카 박물관 옆
+팁: 옛 벽돌공장 자리의 강변 테라스. 카를교와 구시가 교탑이 옆으로 길게 보이는 구도. 카프카 박물관 마당(오줌싸개 동상)과 붙어 있어 같이 보기 좋음
+https://www.google.com/maps/search/?api=1&amp;query=Hergetova%20Cihelna%20Prague%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4113,50.0879,0</coordinates></Point></Placemark>
+<Placemark><name>나플라브카 강변</name><description>Naplavka · 신시가
+토요일 오전 파머스마켓
+팁: 겨울엔 바지선 바들이 일부만 영업
+https://www.google.com/maps/search/?api=1&amp;query=Naplavka%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.414,50.071,0</coordinates></Point></Placemark>
+<Placemark><name>레트나 공원 전망</name><description>Letna Park Metronome · 레트나
+다리들이 겹쳐 보이는 대표 뷰
+팁: 메트로놈 옆 난간이 포인트. 해질녘 추천
+https://www.google.com/maps/search/?api=1&amp;query=Letna%20Park%20Metronome%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4165,50.095,0</coordinates></Point></Placemark>
+<Placemark><name>리에그로비 사디</name><description>Riegrovy sady · 비노흐라디
+현지인 일몰 명소
+팁: 숙소에서 도보 15분. 겨울엔 비어가든 휴업
+https://www.google.com/maps/search/?api=1&amp;query=Riegrovy%20sady%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.443,50.079,0</coordinates></Point></Placemark>
+<Placemark><name>노보트네호 랍카</name><description>Novotneho lavka · 카를교
+카를교+프라하 성 야경 정면 뷰
+팁: 카를교 구시가 쪽 입구 왼편 골목 끝 테라스. 야경 사진 1순위 자리
+https://www.google.com/maps/search/?api=1&amp;query=Novotneho%20lavka%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4127,50.0853,0</coordinates></Point></Placemark>
+<Placemark><name>마네수프 다리</name><description>Manes Bridge · 구시가
+성 야경+카를교 함께
+팁: 쿤스트할레 카페 갈 때 건너는 다리
+https://www.google.com/maps/search/?api=1&amp;query=Manes%20Bridge%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4145,50.0893,0</coordinates></Point></Placemark>
+<Placemark><name>블타바 유람선 선착장</name><description>Cechuv most boat pier · 유대인지구
+야경 디너 크루즈 출발
+팁: 겨울엔 실내 유리창 크루즈. 1시간짜리 야경 크루즈면 충분
+https://www.google.com/maps/search/?api=1&amp;query=Cechuv%20most%20boat%20pier%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4175,50.092,0</coordinates></Point></Placemark>
+<Placemark><name>헤밍웨이 바</name><description>Hemingway Bar Prague · 구시가
+세계 50대 바
+팁: 예약 추천(작음). 믈레니체에서 도보 3분, 디너 후 2차로
+https://www.google.com/maps/search/?api=1&amp;query=Hemingway%20Bar%20Prague%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4147,50.0846,0</coordinates></Point></Placemark>
+<Placemark><name>T-Anker 루프탑</name><description>T-Anker · 구시가
+코트바 백화점 옥상
+팁: 겨울엔 실내석 위주
+https://www.google.com/maps/search/?api=1&amp;query=T-Anker%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4288,50.0897,0</coordinates></Point></Placemark>
+<Placemark><name>레트나 비어가든</name><description>Letna Beer Garden · 레트나
+일몰 맥주
+팁: 겨울엔 휴업 가능성 높음
+https://www.google.com/maps/search/?api=1&amp;query=Letna%20Beer%20Garden%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4191,50.0958,0</coordinates></Point></Placemark>
+<Placemark><name>재즈독</name><description>JazzDock Prague · 신시가
+블타바 강 위 선상 재즈 바
+팁: 강변 유리창 너머 야경과 라이브 재즈. 공연 일정·예약은 공식 사이트 확인
+https://www.google.com/maps/search/?api=1&amp;query=JazzDock%20Prague%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4108,50.0745,0</coordinates></Point></Placemark>
+<Placemark><name>플라네툼 (돔 영화관)</name><description>Planetum Prague Planetarium · 레트나
+천문관 돔에서 보는 영화·별자리 프로그램
+팁: 스트로모프카 공원 안이라 시내 동선과 떨어져 있음. 2026.11.24 기준 공식 프로그램은 12/5까지만 공개(12/9~13 미공개). 토요일 예시: 11:00·13:30·15:00·18:00·19:30 상영, 저녁 회차는 매진이 잦아 공개되면 바로 예매. 영어는 이어폰 제공. 강의 같았다는 후기도 있어 상영작 확인
+https://www.google.com/maps/search/?api=1&amp;query=Planetum%20Prague%20Planetarium%20Prague</description><styleUrl>#night</styleUrl><Point><coordinates>14.4249,50.1049,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/9 도착 · 바츨라프 광장 마켓</name><Style id="r129"><LineStyle><color>ff2f91e0</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/9 동선</name><styleUrl>#r129</styleUrl><LineString><coordinates>14.4314,50.0821,0 14.4302,50.0825,0 14.4272,50.0815,0 14.4314,50.0821,0</coordinates></LineString></Placemark>
+<Placemark><name>12/9-1 19:00 마에스트로 바이 아드레즈</name><description>AE 버스+도보로 체크인</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-2 19:30 칸티나</name><description>저녁 · 숙소 앞 (필수)</description><Point><coordinates>14.4302,50.0825,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-3 21:00 바츨라프 광장 크리스마스 마켓</name><description>크리스마스 마켓 첫 산책, 스바르작 한 잔</description><Point><coordinates>14.4272,50.0815,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-4 21:45 마에스트로 바이 아드레즈</name><description>휴식</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/10 구시가 · 크리스마스 마켓 · 맥주펍</name><Style id="r1210"><LineStyle><color>ff3b45d1</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/10 동선</name><styleUrl>#r1210</styleUrl><LineString><coordinates>14.4314,50.0821,0 14.4283,50.0874,0 14.4275,50.0871,0 14.4213,50.0875,0 14.4206,50.087,0 14.4189,50.0902,0 14.4171,50.0901,0 14.4211,50.0849,0 14.4216,50.0848,0 14.4222,50.08,0 14.4183,50.082,0 14.416,50.0865,0 14.4135,50.0862,0 14.4114,50.0865,0 14.4218,50.0873,0 14.4262,50.0905,0 14.4258,50.0901,0 14.4218,50.0873,0 14.4127,50.0853,0 14.4314,50.0821,0</coordinates></LineString></Placemark>
+<Placemark><name>12/10-1 09:00 마에스트로 바이 아드레즈</name><description>출발 (화약탑까지 도보 12분)</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-2 09:10 시민회관</name><description>시민회관 1층 카페에서 커피+빵 · 아르누보 실내도 함께 구경 (숙소에서 도보 10분)</description><Point><coordinates>14.4283,50.0874,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-3 09:35 화약탑</name><description>시민회관 바로 옆 · 화약탑 아치 지나 첼레트나 거리로 구시가 진입</description><Point><coordinates>14.4275,50.0871,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-4 09:45 구시가 광장</name><description>사람 적은 아침 광장 사진 · 한산한 오전 마켓 노점 구경</description><Point><coordinates>14.4213,50.0875,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-5 10:00 천문시계·구시청사 탑</name><description>10시 정각 인형극 → 구시청사 탑 전망대</description><Point><coordinates>14.4206,50.087,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-6 10:45 유대인 지구·스페인 시나고그</name><description>유대인 지구 통합권 (토요일 휴관이라 오늘)</description><Point><coordinates>14.4189,50.0902,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-7 11:30 구 유대인 묘지</name><description>구 유대인 묘지</description><Point><coordinates>14.4171,50.0901,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-8 12:05 하벨 시장</name><description>점심 가는 길에 기념품 노점 구경 (구시가 광장 남쪽, 15분)</description><Point><coordinates>14.4211,50.0849,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-9 12:15 라모바니-흐라치키 (기념품 가게)</name><description>가성비 기념품 가게 · 패트와 매트 열쇠고리 (하벨 시장 같은 거리)</description><Point><coordinates>14.4216,50.0848,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-10 12:30 포크스 보디치코바</name><description>점심 · 꼴레뇨 (필수, 예약)</description><Point><coordinates>14.4222,50.08,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-11 13:40 카페 루브르</name><description>1902년 문을 연 카페 · 커피 한 잔으로 소화 타임 (포크스에서 도보 6분, 클레멘티눔 가는 길)</description><Point><coordinates>14.4183,50.082,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-12 14:30 클레멘티눔 도서관</name><description>클레멘티눔 가이드 투어 · 14:30 회차 꼭 잡기 (약 50분, 온라인 예약 추천)</description><Point><coordinates>14.416,50.0865,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-13 15:25 구시가 교탑 전망대</name><description>노을 지는 카를교·프라하 성 (일몰 15:58)</description><Point><coordinates>14.4135,50.0862,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-14 16:00 카를교</name><description>해 진 직후 카를교 산책 · 성 쪽 야경 (가스등 점등식은 1월로 변경돼 없음)</description><Point><coordinates>14.4114,50.0865,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-15 16:30 구시가 광장 크리스마스 마켓</name><description>16:30 첫 라이트 쇼 · 푸른 하늘+트리 · 트리 전망대·틴 성당 맞은편 사진 · 굴뚝빵</description><Point><coordinates>14.4218,50.0873,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-16 17:30 나셰 마소</name><description>피크(17:30~19:30) 피해 이른 저녁 · 1개 나눠 먹기</description><Point><coordinates>14.4262,50.0905,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-17 18:15 로칼 들로우하</name><description>맥주펍 · 탱크 필스너 + 가벼운 안주 (예약 추천)</description><Point><coordinates>14.4258,50.0901,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-18 20:20 구시가 광장 크리스마스 마켓</name><description>한산해진 늦은 라이트 쇼(20:30) 다시 보기</description><Point><coordinates>14.4218,50.0873,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-19 20:50 노보트네호 랍카</name><description>카를교+프라하 성 야경 정면 사진</description><Point><coordinates>14.4127,50.0853,0</coordinates></Point></Placemark>
+<Placemark><name>12/10-20 21:30 마에스트로 바이 아드레즈</name><description>도보 25분 또는 택시</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/11 드레스덴 당일치기</name><Style id="r1211"><LineStyle><color>ff96877c</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/11 동선</name><styleUrl>#r1211</styleUrl><LineString><coordinates>14.4314,50.0821,0 14.431,50.0817,0 14.4314,50.0821,0</coordinates></LineString></Placemark>
+<Placemark><name>12/11-1 10:15 마에스트로 바이 아드레즈</name><description>10:45 드레스덴행 출발 · 버스가 2시간이라 커피·빵 테이크아웃해서 출발 (지도의 드레스덴 탭에 상세 동선)</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-2 21:40 브레도프스키 드부르</name><description>복귀 후 출출하면 숙소 옆 늦은 식사 (선택)</description><Point><coordinates>14.431,50.0817,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-3 22:30 마에스트로 바이 아드레즈</name><description></description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/12 프라하 성 · 말라스트라나 · 레스토랑 디너</name><Style id="r1212"><LineStyle><color>ffcd5f3a</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/12 동선</name><styleUrl>#r1212</styleUrl><LineString><coordinates>14.4314,50.0821,0 14.3951,50.0836,0 14.3916,50.089,0 14.3893,50.0863,0 14.3985,50.0896,0 14.4005,50.0903,0 14.4005,50.0903,0 14.3996,50.0909,0 14.4037,50.092,0 14.402,50.0907,0 14.4062,50.0918,0 14.4108,50.0905,0 14.4113,50.0879,0 14.4033,50.0878,0 14.4067,50.0862,0 14.4086,50.085,0 14.4072,50.0806,0 14.4141,50.0755,0 14.4136,50.0811,0 14.4144,50.0857,0 14.4114,50.0865,0 14.4147,50.0846,0 14.4314,50.0821,0</coordinates></LineString></Placemark>
+<Placemark><name>12/12-1 09:00 마에스트로 바이 아드레즈</name><description>출발 · 트램 22번 (I. P. Pavlova) → Újezd, 약 20분</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-2 09:20 페트르진 전망대</name><description>페트르진 푸니쿨라 탑승 (9:30 전후 한산, 1회 100코루나·PID 앱 90) · 창밖 말라스트라나 지붕 뷰</description><Point><coordinates>14.3951,50.0836,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-3 09:35 로레타</name><description>언덕 위 산책로 따라 스트라호프 지나 로레타까지 도보 약 20분 · 10시 정각 종 연주</description><Point><coordinates>14.3916,50.089,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-4 10:10 스트라호프 수도원 도서관</name><description>도서관 30분 (로레타에서 도보 5분)</description><Point><coordinates>14.3893,50.0863,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-5 10:45 스타벅스 프라하 성</name><description>간식 · 커피+빵, 테라스 시내 전망</description><Point><coordinates>14.3985,50.0896,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-6 11:05 프라하 성</name><description>입장(보안검색) → 구왕궁 → 성 이르지 바실리카 (주요 코스 통합권)</description><Point><coordinates>14.4005,50.0903,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-7 11:40 프라하 성</name><description>제1광장 자리 잡기 → 12:00 메인 근위병 교대식</description><Point><coordinates>14.4005,50.0903,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-8 12:20 성 비투스 대성당</name><description>햇빛 드는 12:30~13:30에 스테인드글라스 (무하 창·장미창·최후의 심판 창)</description><Point><coordinates>14.3996,50.0909,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-9 13:10 황금소로</name><description>황금소로 22번지</description><Point><coordinates>14.4037,50.092,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-10 13:35 프라하 성 크리스마스 마켓</name><description>성 이르지 광장 크리스마스 마켓</description><Point><coordinates>14.402,50.0907,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-11 13:50 옛 성 계단 전망</name><description>옛 성 계단 파노라마 → 하산</description><Point><coordinates>14.4062,50.0918,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-12 14:05 쿤스트할레 프라하 카페</name><description>점심 겸 카페 (시트 추천)</description><Point><coordinates>14.4108,50.0905,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-13 15:15 치헬나 강변 (헤르게토바 치헬나)</name><description>강변에서 카를교 옆모습 · 카프카 박물관 마당</description><Point><coordinates>14.4113,50.0879,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-14 15:35 성 니콜라스 성당</name><description>말라스트라나 광장 · 성 니콜라스</description><Point><coordinates>14.4033,50.0878,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-15 15:45 존 레논 벽</name><description>존 레논 벽</description><Point><coordinates>14.4067,50.0862,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-16 15:55 캄파 크리스마스 마켓</name><description>캄파 크리스마스 마켓 · 체르토프카 물레방아 (일몰 15:58)</description><Point><coordinates>14.4086,50.085,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-17 16:20 카페 사보이</name><description>디저트 타임 · 사과 슈트루델+커피 (주말이라 예약 추천)</description><Point><coordinates>14.4072,50.0806,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-18 17:10 댄싱 하우스</name><description>조명 켜진 외관 · 시간 되면 꼭대기 글래스 바</description><Point><coordinates>14.4141,50.0755,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-19 17:55 국립극장</name><description>강변 산책 · 국립극장, 레기 다리에서 프라하 성 야경</description><Point><coordinates>14.4136,50.0811,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-20 18:15 믈리네츠</name><description>저녁 · 카를교 뷰 레스토랑 믈리네츠 (창가석·허니문 메모)</description><Point><coordinates>14.4144,50.0857,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-21 20:00 카를교</name><description>디너 후 카를교 야경 산책 (식당 바로 옆)</description><Point><coordinates>14.4114,50.0865,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-22 20:30 헤밍웨이 바</name><description>2차 칵테일 (도보 3분)</description><Point><coordinates>14.4147,50.0846,0</coordinates></Point></Placemark>
+<Placemark><name>12/12-23 22:00 마에스트로 바이 아드레즈</name><description></description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/13 IF 카페 · 리에그로비 사디 · 무하 박물관 → 빈</name><Style id="r1213"><LineStyle><color>ff7a9a2f</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/13 동선</name><styleUrl>#r1213</styleUrl><LineString><coordinates>14.4314,50.0821,0 14.4322,50.0741,0 14.443,50.079,0 14.4252,50.0848,0 14.4272,50.0815,0 14.4314,50.0821,0</coordinates></LineString></Placemark>
+<Placemark><name>12/13-1 08:15 마에스트로 바이 아드레즈</name><description>체크아웃(10:00 마감) 먼저 하고 짐 맡기기 · 짐 보관 가능 여부 미리 확인</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-2 08:30 IF 카페 (틸로보 광장점)</name><description>아침 겸 디저트 (숙소에서 도보 8분)</description><Point><coordinates>14.4322,50.0741,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-3 09:20 리에그로비 사디</name><description>아침 공원 산책 · 언덕에서 프라하 성 스카이라인 (카페에서 도보 12분)</description><Point><coordinates>14.443,50.079,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-4 10:15 무하 박물관 (사바린 궁전)</name><description>무하 박물관 · 50분 (공원에서 도보 약 25분 또는 트램)</description><Point><coordinates>14.4252,50.0848,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-5 11:10 바츨라프 광장 크리스마스 마켓</name><description>마지막 마켓 산책·기념품 (도보 3분)</description><Point><coordinates>14.4272,50.0815,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-6 11:30 마에스트로 바이 아드레즈</name><description>맡긴 짐 찾기 → 중앙역 도보 10분, 12:36 빈행 기차</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

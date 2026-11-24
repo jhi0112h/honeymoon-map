@@ -1,0 +1,165 @@
+{
+  "p-cdg": {"links": [
+    {"t": "나무위키", "u": "https://namu.wiki/w/%ED%8C%8C%EB%A6%AC%20%EC%83%A4%EB%A5%BC%20%EB%93%9C%EA%B3%A8%20%EA%B3%B5%ED%95%AD"},
+    {"t": "파리 관광청: 공항→시내", "u": "https://parisjetaime.com/eng/article/from-paris-charles-de-gaulle-airport-a078"},
+    {"t": "RATP: RER B 안내", "u": "https://www.bonjour-ratp.fr/en/aeroports/roissy-charles-de-gaulle/acces/rer/"},
+    {"t": "유튜브: 샤를드골 공항에서 시내 가는법", "u": "https://www.youtube.com/watch?v=a4Z-K4mvzLw"}
+  ], "note": "RER B로 시내까지 약 35분이며, 나무위키에 따르면 루아시버스는 2026년 2월 운행 종료."},
+  "p-moxy": {"links": [
+    {"t": "공식 사이트 (메리어트)", "u": "https://www.marriott.com/en-us/hotels/parol-moxy-paris-val-deurope/overview/"},
+    {"t": "유튜브: Moxy Paris Val d'Europe 리뷰", "u": "https://www.youtube.com/watch?v=pRl8mPraRj4"}
+  ], "note": "체크인 15:00, 체크아웃 12:00이며 조식은 불포함."},
+  "p-hyatt": {"links": [
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/accommodation/hyatt-regency-paris-etoile-p2993"},
+    {"t": "위키백과 (영문)", "u": "https://wikipedia.com/wiki/Hotel_Concorde_La_Fayette"},
+    {"t": "RATP 교통 정보", "u": "https://www.bonjour-ratp.fr/en/poi/4e899965de8e782ad8a36af3/"},
+    {"t": "유튜브: Hyatt Regency Paris Etoile 에펠탑 뷰 리뷰", "u": "https://www.youtube.com/watch?v=EUZw94ZNAMg"}
+  ], "note": "34층 고층 호텔로 포르트 마요역 도보 약 4분, 꼭대기에 루프탑 바 Windo가 있음."},
+  "p-gareest": {"links": [
+    {"t": "파리 지역 관광청: 짐 보관", "u": "https://www.visitparisregion.com/en/useful-information/bagages-paris-region/luggage-deposit-paris"},
+    {"t": "역별 짐 보관 가이드 (Free Tours by Foot)", "u": "https://freetoursbyfoot.com/luggage-storage-in-paris-train-stations/"},
+    {"t": "주변 보관소 (Bounce)", "u": "https://bounce.com/luggage-storage/paris/gare-de-lest"},
+    {"t": "유튜브: Luggage Storage at Paris De l'Est", "u": "https://www.youtube.com/watch?v=b0do0kmgO9I&xstg=CAMSBhUD-7L2Hw%3D%3D"}
+  ], "note": "역 공식 보관소는 지하 -1층 3번 플랫폼 맞은편, 대략 07:30~22:30 운영(출처마다 다름)."},
+  "p-disney": {"links": [
+    {"t": "디즈니 파크 블로그: 2026 홀리데이", "u": "https://disneyparksblog.com/dlp/holidays-at-disneyland-paris/"},
+    {"t": "크리스마스 2026 일정 (Sortir à Paris)", "u": "https://www.sortiraparis.com/en/news/christmas-and-holidays/articles/44467-christmas-2026-at-disneyland-paris-disney-s-enchanted-christmas-dates"},
+    {"t": "한국어 가이드: 인챈티드 크리스마스 (magic-tips)", "u": "https://magic-tips.app/ko/balgyeon/disneyland-paris/ibenteu/disney-enchanted-christmas"},
+    {"t": "블로그 후기 (브런치)", "u": "https://brunch.co.kr/@jmary/50"},
+    {"t": "유튜브: 파리 디즈니랜드 원데이 투파크 브이로그", "u": "https://www.youtube.com/watch?v=GKW_oEx8Go0"}
+  ], "note": "2026 크리스마스 시즌은 11/7~2027/1/6이며, 월드 오브 프로즌의 첫 크리스마스."},
+  "p-vallee": {"links": [
+    {"t": "공식 사이트 FAQ (한국어)", "u": "https://www.thebicestercollection.com/la-vallee-village/ko/company/faq"},
+    {"t": "공식: 택스리펀 안내", "u": "https://www.thebicestercollection.com/la-vallee-village/en/services/tax-refund"},
+    {"t": "프랑스 관광청: VIP 할인 쿠폰", "u": "https://www.france.fr/ko/article/la-vallee-village/"},
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/shopping/la-vallee-village-p3722"},
+    {"t": "유튜브: 라발레 빌리지 쇼핑 꿀팁", "u": "https://www.youtube.com/watch?v=4ojusq2fxGk"}
+  ], "note": "12/25·5/1 휴무, 비EU 거주자는 한 매장 100유로 초과 구매 시 택스리펀."},
+  "p-louvre": {"links": [
+    {"t": "공식 사이트: 운영시간", "u": "https://www.louvre.fr/en/visit/hours-admission"},
+    {"t": "공식 한국어 안내도 (PDF)", "u": "https://api-www.louvre.fr/sites/default/files/2026-05/2026-05_Plan_Louvre_KO.pdf"},
+    {"t": "프랑스 관광청: 관람 팁 7가지", "u": "https://www.france.fr/ko/article/7-cles-pour-reussir-sa-visite-au-louvre/"},
+    {"t": "블로그: 루브르 핵심 루트 (트립스토어)", "u": "https://www.tripstore.kr/blog/%EB%A3%A8%EB%B8%8C%EB%A5%B4-%EC%9E%91%ED%92%88-%ED%95%B5%EC%8B%AC-%EB%A3%A8%ED%8A%B8"},
+    {"t": "유튜브: 파리 루브르 박물관 가이드 투어", "u": "https://www.youtube.com/watch?v=HMPvCYlt1Ts"}
+  ], "note": "화요일 휴관, 수·금 21:00까지 야간 개장, 마지막 입장은 폐관 1시간 전."},
+  "p-orangerie": {"links": [
+    {"t": "공식 사이트: 운영·티켓", "u": "https://www.musee-orangerie.fr/en/node/197817"},
+    {"t": "프랑스 관광청: 오랑주리 200% 즐기기", "u": "https://www.france.fr/ko/article/howtovisitorangerie/"},
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/culture/musee-de-l-orangerie-p3513"},
+    {"t": "블로그 후기 (브런치)", "u": "https://brunch.co.kr/@oozoozeen/32"},
+    {"t": "유튜브: 오랑주리 미술관 모네 수련", "u": "https://www.youtube.com/shorts/QkVzyIfrQbg"}
+  ], "note": "화요일 휴관, 특별전 '모네와 시간'이 2027.1.25까지 열림."},
+  "p-bateaux": {"links": [
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/activity/bateaux-mouches-p3835"},
+    {"t": "파리 관광청 티켓 예매", "u": "https://ticket.parisjetaime.com/en/cruises-on-the-river-seine-c2/bateaux-mouches-sightseeing-cruise-17"},
+    {"t": "유튜브: 바토무슈 에펠탑 야경", "u": "https://www.youtube.com/watch?v=p3i4ehtfEP4"}
+  ], "note": "알마 다리 북단 Port de la Conférence에서 승선, 약 1시간 10분 순환 코스."},
+  "p-tuileries": {"links": [
+    {"t": "파리 관광청: 튈르리 크리스마스", "u": "https://parisjetaime.com/eng/event/the-magic-of-christmas-at-the-tuileries-e2680"},
+    {"t": "2026 일정 (Sortir à Paris)", "u": "https://www.sortiraparis.com/en/what-to-visit-in-paris/walks/articles/46357-tuileries-christmas-market-2026-dates-for-the-gourmet-fair"},
+    {"t": "프랑스 관광청: 파리 크리스마스 마켓", "u": "https://www.france.fr/ko/event/paris-christmas-markets/"},
+    {"t": "현지 가이드 (World in Paris)", "u": "https://worldinparis.com/tuileries-garden-christmas-market"},
+    {"t": "유튜브: Tuileries 2026 크리스마스 마켓", "u": "https://www.youtube.com/watch?v=gGHhKT-CeN0"}
+  ], "note": "파리 관광청 기준 2026.11.14~2027.1.3 (일부 출처는 1/8 폐장)."},
+  "p-versailles": {"links": [
+    {"t": "공식 사이트: 운영 정보", "u": "https://en.chateauversailles.fr/plan-your-visit/practical-information"},
+    {"t": "파리 지역 관광청: 관람 팁 5가지", "u": "https://visitparisregion.com/en/inspiration/top-experiences/five-tips-for-a-stress-free-visit-to-the-chateau-de-versailles"},
+    {"t": "블로그: 관람 순서·트리아농 동선 (트립스토어)", "u": "https://www.tripstore.kr/blog/%EB%B2%A0%EB%A5%B4%EC%82%AC%EC%9C%A0-%EA%B6%81%EC%A0%84-%EA%B4%80%EB%9E%8C-%EC%88%9C%EC%84%9C-%ED%8A%B8%EB%A6%AC%EC%95%84%EB%86%8D-%EB%8F%99%EC%84%A0"},
+    {"t": "유튜브: 베르사유 궁전 투어 가이드", "u": "https://www.youtube.com/watch?v=ZheIya6Skbg"}
+  ], "note": "궁전 09:00~18:30(마지막 입장 17:45), 트리아농은 정오 개장, 월요일 휴관."},
+  "p-orsay": {"links": [
+    {"t": "공식 사이트: 방문 안내", "u": "https://www.musee-orsay.fr/en/visit"},
+    {"t": "프랑스 관광청: 관람 포인트 TOP5", "u": "https://www.france.fr/ko/article/museedorsaytop5/"},
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/culture/musee-d-orsay-p3592"},
+    {"t": "가이드: 오르세 시계 (vacatis)", "u": "https://vacatis.com/ko/musee-dorsay-clock"},
+    {"t": "유튜브: 오르세 미술관, 시계탑 보이는 레스토랑", "u": "https://www.youtube.com/watch?v=Qm-Ng890kHM"}
+  ], "note": "월요일 휴관, 목요일 21:45까지 야간 개장, 마지막 입장 17:00."},
+  "p-lafayette": {"links": [
+    {"t": "공식 사이트: 루프탑 테라스", "u": "https://haussmann.galerieslafayette.com/en/the-terrace-at-galeries-lafayette"},
+    {"t": "공식 사이트: 영업시간", "u": "https://haussmann.galerieslafayette.com/en/our-opening-hours-2/"},
+    {"t": "프랑스 관광청 (한국어)", "u": "https://www.france.fr/ko/article/galerieslafayette/"},
+    {"t": "2026 루프탑 아이스링크 (Sortir à Paris)", "u": "https://www.sortiraparis.com/en/news/christmas-and-holidays/articles/198503-christmas-2026-at-galeries-lafayette-haussmann-the-temporary-ice-rink-is-back-on-paris-s-rooftops"},
+    {"t": "유튜브: 갤러리 라파예트 2026 트리", "u": "https://www.youtube.com/shorts/iBssxeJOlW0"}
+  ], "note": "2026 트리는 11/12 점등, 8층 루프탑 아이스링크는 11/24~2027/1/3."},
+  "p-marais": {"links": [
+    {"t": "프랑스 관광청: 마레 TOP 12", "u": "https://www.france.fr/ko/article/paris-marais/"},
+    {"t": "마레 지구 가이드 (excursionmania)", "u": "https://www.excursionmania.com/ko/ttd/3430/le-marais-blg-3430"},
+    {"t": "유튜브: 파리여행 마레지구 서점산책", "u": "https://www.youtube.com/watch?v=9_sAFusaXxY"}
+  ], "note": "일요일에도 상점이 많이 열지만 유대인 지구 가게는 금·토 휴무가 많음."},
+  "p-notredame": {"links": [
+    {"t": "공식 사이트: 운영시간", "u": "https://www.notredamedeparis.fr/en/?p=4906"},
+    {"t": "프랑스 관광청: 실용 정보", "u": "https://www.france.fr/ko/article/informations-pratiques-notre-dame-de-paris-ce-quil-faut-savoir/"},
+    {"t": "블로그: 예약 가이드 (trvlogue)", "u": "https://www.trvlogue.com/ko/notre-dame-paris-reservation-guide"},
+    {"t": "줄 안 서는 법 (Sortir à Paris)", "u": "https://www.sortiraparis.com/en/what-to-visit-in-paris/history-heritage/articles/349957-can-you-visit-notre-dame-without-waiting-in-line-yes-provided-you-follow-a-few-simple-rules"},
+    {"t": "유튜브: Notre-Dame 2026 내부 투어", "u": "https://www.youtube.com/watch?v=R1oE1ul7pDc"}
+  ], "note": "입장 무료, 공식 사이트에서 무료 시간대 예약 권장, 종탑은 유료 별도 예약."},
+  "p-jetaime": {"links": [
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/culture/le-mur-des-je-t-aime-p985"},
+    {"t": "파리시: 제앙 릭튀스 공원", "u": "https://www.paris.fr/lieux/square-jehan-rictus-2658"},
+    {"t": "파리시: 사랑해 벽 25주년", "u": "https://www.paris.fr/pages/le-mur-des-je-t-aime-25-ans-d-amour-en-250-langues-31868"},
+    {"t": "프랑스 관광청: 몽마르트 TOP 14", "u": "https://www.france.fr/ko/article/montmartre/"},
+    {"t": "유튜브: 사랑해벽에서 한국어 찾기", "u": "https://www.youtube.com/watch?v=jYVSS4w5rwM"}
+  ], "note": "파리시 공원 페이지에 안전상 벽 접근 불가 공지가 있었으니(날짜 미상) 방문 전 확인."},
+  "p-monge": {"links": [
+    {"t": "몽주 약국 소개 (Bonjour Paris)", "u": "https://bonjourparis.com/linkout/39156"},
+    {"t": "파리 약국 가이드 (MyFrenchLife)", "u": "https://www.myfrenchlife.org/2022/05/05/ultimate-guide-paris-pharmacies/"},
+    {"t": "약국 쇼핑·택스리펀 팁 (Zapptax)", "u": "https://zapptax.com/en/blog/paris-pharmacy-guide-must-buy-product-top-pharmacies-vat-refund-tip"},
+    {"t": "유튜브: 몽쥬약국 쇼핑 완벽 가이드", "u": "https://www.youtube.com/watch?v=YK2hY3Ub3iE"}
+  ], "note": "일요일에도 대략 08:30~20:00 영업한다는 자료가 있으나 오래된 정보라 확인 필요."},
+  "p-angelina": {"links": [
+    {"t": "위키백과 (영문)", "u": "https://en.wikipedia.com/wiki/Angelina_(tea_house)"},
+    {"t": "Sortir à Paris (한국어)", "u": "https://www.sortiraparis.com/ko/palieseo-meog-eul-gos/kape-titaim/articles/334956-angjellina-libolli-geolieseo-100nyeon-i-neomneun-dalkomhamgwa-uaham-ui-sangjing"},
+    {"t": "Paris by Mouth 가이드", "u": "https://parisbymouth.com/our-guide-to-paris-angelina/"},
+    {"t": "후기 모음 (폴레)", "u": "https://polle.com/place/4wPx7c/Angelina"},
+    {"t": "유튜브: 안젤리나 몽블랑과 핫초코", "u": "https://www.youtube.com/watch?v=EHVOHWNmM-c"}
+  ], "note": "1903년 문을 연 리볼리 거리 본점, 줄이 길면 테이크아웃이 더 빠르고 저렴."},
+  "p-valdeurope": {"links": [
+    {"t": "운영사 클레피에르", "u": "https://www.klepierre.com/en/our-malls/val-d-europe"},
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/shopping/val-d-europe-p3738"},
+    {"t": "Sortir à Paris 소개", "u": "https://www.sortiraparis.com/en/what-to-do-in-paris/shopping-fashion/articles/342652-val-d-europe-a-must-visit-shopping-and-leisure-destination-east-of-paris"},
+    {"t": "유튜브: Val d'Europe Shopping near Disneyland Paris", "u": "https://www.youtube.com/watch?v=5nMCzDt1S5E"}
+  ], "note": "푸드코트 '레 테라스'에 30여 개 레스토랑이 모여 있음."},
+  "p-entrecote": {"links": [
+    {"t": "타임아웃 파리", "u": "https://timeout.com/paris/en/restaurants/le-relais-de-lentrecote"},
+    {"t": "SilverKris 가이드 (마르뵈프점)", "u": "https://silverkris.singaporeair.com/guide/france/cdg/eat-paris/le-relais-de-lentrecote/"},
+    {"t": "마르뵈프점 후기 (Substack)", "u": "https://reasonablyfancy.substack.com/p/food-review-le-relais-de-lentrecote"},
+    {"t": "유튜브: 랑뜨르꼬뜨 스테이크 후기", "u": "https://www.youtube.com/watch?v=hXI6XyxpWLI"}
+  ], "note": "15 rue Marbeuf, 예약을 받지 않아 오픈 시간에 맞춰 가는 것이 좋음."},
+  "p-campana": {"links": [
+    {"t": "공식: 오르세 레스토랑·카페", "u": "https://www.musee-orsay.fr/fr/visite/restauration"},
+    {"t": "공식 메뉴 (PDF, 2026.11)", "u": "https://www.musee-orsay.fr/sites/default/files/2026-11/Menu_Cafe_Campana.pdf"},
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/restaurant/cafe-campana-p3401"},
+    {"t": "유튜브: 오르세미술관 카페 캄파나 브이로그", "u": "https://www.youtube.com/watch?v=tO1Vi0-HOeM"}
+  ], "note": "5층 인상파 전시실 옆 대형 시계 앞, 화~일 10:30~16:45(목 20:45), 예약 불가."},
+  "p-chartier": {"links": [
+    {"t": "공식 사이트", "u": "https://www.bouillon-chartier.com/en/"},
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/restaurant/bouillon-chartier-grands-boulevards-p3330"},
+    {"t": "위키백과 (영문)", "u": "https://en.wikipedia.com/wiki/Chez_Chartier"},
+    {"t": "타임아웃 파리", "u": "https://www.timeout.com/paris/en/restaurants/bouillon-chartier"},
+    {"t": "유튜브: Bouillon Chartier Grands Boulevards", "u": "https://www.youtube.com/watch?v=O0J_VT11B14"}
+  ], "note": "매일 11:30~자정 쉬는 시간 없이 영업, 예약을 받지 않음."},
+  "p-painidees": {"links": [
+    {"t": "공식 사이트", "u": "https://dupainetdesidees.com/en/boulangerie"},
+    {"t": "Paris by Mouth", "u": "https://parisbymouth.com/du-pain-et-des-idees"},
+    {"t": "타임아웃 파리", "u": "https://www.timeout.com/paris/en/restaurants/du-pain-et-des-idees"},
+    {"t": "유튜브: Du Pain et Des Idées 파리 10구", "u": "https://www.youtube.com/watch?v=XiWG-oZOtYk"}
+  ], "note": "주말(토·일) 휴무, 평일 07:00~19:30 영업 — 12/7~9 평일에만 방문 가능."},
+  "p-carette": {"links": [
+    {"t": "Sortir à Paris: 1927년부터의 카레트", "u": "https://www.sortiraparis.com/en/where-to-eat-in-paris/brunch-cafe-tea-time/articles/334963-history-patisserie-salon-de-the-carette-paris"},
+    {"t": "파리 지점 3곳 안내 (Familin'Paris)", "u": "https://www.familinparis.fr/en/carette-3-addresses-in-paris"},
+    {"t": "마레 가이드 (ParisMarais)", "u": "https://www.parismarais.com/en/going-out-in-paris/tea-houses/carette.html"},
+    {"t": "유튜브: 보주광장 카레트 카페", "u": "https://www.youtube.com/watch?v=1vYl80YBGM4"}
+  ], "note": "25 Place des Vosges, 07:30~자정 쉬는 시간 없이 영업한다는 자료가 있음."},
+  "p-asdufallafel": {"links": [
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/restaurant/l-as-du-fallafel-p455"},
+    {"t": "위키백과 (영문)", "u": "https://en.wikipedia.org/wiki/L%27As_du_Fallafel"},
+    {"t": "프로머스 가이드", "u": "https://www.frommers.com/destinations/paris/restaurants/las-du-fallafel"},
+    {"t": "유튜브: L'As du Fallafel 파리 최고의 팔라펠", "u": "https://www.youtube.com/watch?v=vhQfynCw8-I"}
+  ], "note": "안식일로 금요일 오후·토요일 휴무 — 12/5(토) 불가, 일~목 방문."},
+  "p-breizh": {"links": [
+    {"t": "파리 관광청", "u": "https://parisjetaime.com/eng/restaurant/breizh-cafe-p414"},
+    {"t": "타임아웃 파리", "u": "https://www.timeout.com/paris/en/restaurants/breizh-cafe"},
+    {"t": "Paris by Mouth", "u": "https://parisbymouth.com/breizh-cafe/"},
+    {"t": "유튜브: Breizh Café 3구 파리", "u": "https://www.youtube.com/watch?v=jkSo_77tOLk"}
+  ], "note": "109 rue Vieille du Temple, 매우 붐비니 예약 권장(영업 요일은 출처마다 다름)."}
+}

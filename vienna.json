@@ -1,0 +1,574 @@
+[
+{
+"k": "v-hbf",
+"n": "빈 중앙역",
+"en": "Wien Hauptbahnhof",
+"c": "hotel",
+"a": "중앙역·벨베데레",
+"lat": 48.1851,
+"lng": 16.3762,
+"t": "12/13 16:19 프라하발 기차 도착 · 12/16 10:00 부다페스트행 출발",
+"tip": "숙소까지 도보 약 10분. 부다페스트행 기차는 예약 필요(시트 메모)",
+"w": "Wien Hauptbahnhof",
+"img": "img/v-hbf.jpg"
+},
+{
+"k": "v-hotel",
+"n": "아디나 아파트먼트 호텔 비엔나 벨베데레",
+"en": "Adina Apartment Hotel Vienna Belvedere",
+"c": "hotel",
+"a": "중앙역·벨베데레",
+"lat": 48.183,
+"lng": 16.379,
+"t": "숙소 12/13~12/16 · Canettistraße 3 (중앙역 남쪽) · 체크인 15:00 / 체크아웃 11:00",
+"tip": "중앙역에서 도보 약 5분. 같은 이름의 다른 아디나(Karl-Popper-Straße 6)와 헷갈리지 않기. 아파트형이라 주방 있음"
+},
+{
+"k": "v-belvedere",
+"n": "벨베데레 궁전 (상궁)",
+"en": "Upper Belvedere",
+"c": "sight",
+"a": "중앙역·벨베데레",
+"lat": 48.1915,
+"lng": 16.3809,
+"t": "클림트 '키스' 소장 · 숙소에서 도보 5분",
+"tip": "오픈 시간 입장 추천, 온라인 시간 지정 티켓",
+"w": "Belvedere, Vienna",
+"img": "img/v-belvedere.jpg"
+},
+{
+"k": "v-karlskirche",
+"n": "카를 성당 · 아트 어드벤트 마켓",
+"en": "Karlskirche Vienna",
+"c": "xmas",
+"a": "카를스플라츠",
+"lat": 48.1983,
+"lng": 16.3718,
+"t": "바로크 성당 앞 수공예 크리스마스 마켓",
+"tip": "연못에 비친 성당 돔이 포토스팟. 마켓은 수공예·유기농 노점 위주",
+"w": "Karlskirche",
+"img": "img/v-karlskirche.jpg"
+},
+{
+"k": "v-naschmarkt",
+"n": "나슈마르크트",
+"en": "Naschmarkt Vienna",
+"c": "sight",
+"a": "카를스플라츠",
+"lat": 48.1987,
+"lng": 16.3634,
+"t": "빈 최대 상설 시장 · 일요일 휴무",
+"tip": "치즈·올리브·말린 과일 시식. 노점 식당에서 가벼운 점심 가능",
+"w": "Naschmarkt",
+"img": "img/v-naschmarkt.jpg"
+},
+{
+"k": "v-opera",
+"n": "빈 국립 오페라극장",
+"en": "Vienna State Opera",
+"c": "sight",
+"a": "링 도로",
+"lat": 48.2031,
+"lng": 16.3691,
+"t": "세계 3대 오페라극장",
+"tip": "공연 당일 저렴한 입석표 판매. 낮엔 가이드 투어",
+"w": "Vienna State Opera",
+"img": "img/v-opera.jpg",
+"links": [
+{
+"t": "인스타그램 릴스: 빈 겨울밤 야경 코스 (borbor.ee)",
+"u": "https://www.instagram.com/reel/DfWxJvnhQDT/"
+}
+]
+},
+{
+"k": "v-stephan",
+"n": "슈테판 대성당",
+"en": "St. Stephen's Cathedral Vienna",
+"c": "sight",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.2085,
+"lng": 16.3731,
+"t": "빈의 상징 · 모자이크 지붕",
+"tip": "남탑 계단(343칸) 전망. 지붕 모자이크는 북탑 엘리베이터 쪽에서 가까이. 12월엔 대성당 앞 광장에도 크리스마스 마켓",
+"w": "St. Stephen's Cathedral, Vienna",
+"img": "img/v-stephan.jpg"
+},
+{
+"k": "v-graben",
+"n": "그라벤 거리 · 페스트 기념탑",
+"en": "Graben Vienna",
+"c": "sight",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.2087,
+"lng": 16.3696,
+"t": "12월 샹들리에 조명 거리",
+"tip": "해 진 뒤 거리 위 샹들리에 조명이 하이라이트",
+"w": "Graben (Vienna)",
+"img": "img/v-graben.jpg"
+},
+{
+"k": "v-hofburg",
+"n": "호프부르크 왕궁 · 미하엘 광장",
+"en": "Hofburg Vienna",
+"c": "sight",
+"a": "구시가 (호프부르크)",
+"lat": 48.2079,
+"lng": 16.3667,
+"t": "합스부르크 왕궁",
+"tip": "시시 박물관·황제 아파트는 유료. 미하엘 문과 안뜰 산책은 무료",
+"w": "Hofburg",
+"img": "img/v-hofburg.jpg"
+},
+{
+"k": "v-prunksaal",
+"n": "오스트리아 국립도서관 대회당",
+"en": "State Hall Austrian National Library",
+"c": "sight",
+"a": "구시가 (호프부르크)",
+"lat": 48.2061,
+"lng": 16.3667,
+"t": "바로크 도서관 '프룽크잘'",
+"tip": "겨울엔 월요일 휴관 → 화요일 방문",
+"w": "Austrian National Library",
+"img": "img/v-prunksaal.jpg"
+},
+{
+"k": "v-albertina",
+"n": "알베르티나 미술관",
+"en": "Albertina Vienna",
+"c": "sight",
+"a": "구시가 (호프부르크)",
+"lat": 48.2048,
+"lng": 16.3681,
+"t": "모네~피카소 상설전",
+"tip": "매일 10~18시(수·금 21시까지). 테라스에서 오페라극장 뷰",
+"w": "Albertina",
+"img": "img/v-albertina.jpg"
+},
+{
+"k": "v-rathaus",
+"n": "시청 광장 크리스마스 마켓",
+"en": "Vienna Christmas Market Rathausplatz",
+"c": "xmas",
+"a": "링 도로",
+"lat": 48.2108,
+"lng": 16.357,
+"t": "11/13~12/26 · 빈 최대 마켓 (시트)",
+"tip": "시청사 조명과 나무 장식이 하이라이트. 하트 모양 머그컵이 기념품",
+"w": "Vienna City Hall",
+"img": "img/v-rathaus.jpg",
+"links": [
+{
+"t": "인스타그램 릴스: 빈 겨울밤 야경 코스 (borbor.ee)",
+"u": "https://www.instagram.com/reel/DfWxJvnhQDT/"
+},
+{
+"t": "인스타그램: 2026 비엔나 크리스마스 마켓 가이드 (dailyhyunjung)",
+"u": "https://www.instagram.com/p/Dfq2B58nQrm/"
+}
+]
+},
+{
+"k": "v-amhof",
+"n": "암 호프 크리스마스 마켓",
+"en": "Am Hof Christmas Market",
+"c": "xmas",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.2108,
+"lng": 16.3677,
+"t": "구시가 안 소규모 마켓",
+"tip": "시청 광장보다 덜 붐비고 분위기 아늑함",
+"w": "Am Hof"
+},
+{
+"k": "v-schoenbrunn",
+"n": "쇤브룬 궁전",
+"en": "Schonbrunn Palace",
+"c": "sight",
+"a": "쇤브룬",
+"lat": 48.1849,
+"lng": 16.3122,
+"t": "합스부르크 여름 궁전 · 그랜드 투어 (시트)",
+"tip": "시간 지정 티켓 온라인 예매. 지하철 U4 쇤브룬역",
+"w": "Schönbrunn Palace",
+"img": "img/v-schoenbrunn.jpg"
+},
+{
+"k": "v-xm-schoen",
+"n": "쇤브룬 크리스마스 마켓",
+"en": "Schonbrunn Christmas Market",
+"c": "xmas",
+"a": "쇤브룬",
+"lat": 48.1857,
+"lng": 16.3127,
+"t": "11/6~1/7 · 궁전 앞 광장 (시트)",
+"tip": "궁전 정면 배경의 노점과 트리",
+"w": "Schönbrunn Palace",
+"img": "img/v-schoenbrunn.jpg"
+},
+{
+"k": "v-gloriette",
+"n": "글로리에테",
+"en": "Gloriette Schonbrunn",
+"c": "night",
+"a": "쇤브룬",
+"lat": 48.1781,
+"lng": 16.3089,
+"t": "쇤브룬 정원 언덕 위 전망",
+"tip": "궁전에서 오르막 15~20분. 카페 글로리에테에서 궁전과 빈 시내 전망",
+"w": "Gloriette",
+"img": "img/v-gloriette.jpg"
+},
+{
+"k": "v-hundertwasser",
+"n": "훈데르트바서 하우스",
+"en": "Hundertwasserhaus",
+"c": "sight",
+"a": "란트슈트라세",
+"lat": 48.2073,
+"lng": 16.394,
+"t": "알록달록 곡선 건축",
+"tip": "주거 건물이라 외관만 관람. 맞은편 쇼핑 빌리지",
+"w": "Hundertwasserhaus",
+"img": "img/v-hundertwasser.jpg"
+},
+{
+"k": "v-figl",
+"n": "피글뮐러",
+"en": "Figlmuller Wollzeile",
+"c": "food",
+"m": "점심·저녁",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.209,
+"lng": 16.3746,
+"t": "접시보다 큰 슈니첼",
+"tip": "예약 필수(온라인). 1인 1슈니첼 대신 2인 1개+샐러드도 충분",
+"w": "Figlmüller"
+},
+{
+"k": "v-plachutta",
+"n": "플라후타 볼차일레",
+"en": "Plachutta Wollzeile",
+"c": "food",
+"m": "저녁",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.2085,
+"lng": 16.3807,
+"t": "타펠슈피츠 (소고기 수프 찜)",
+"tip": "예약 추천. 수프 먼저 → 고기 → 사과 홀스래디시 소스 순서로 먹는 법을 직원이 알려줌",
+"w": "Tafelspitz",
+"img": "img/v-plachutta.jpg"
+},
+{
+"k": "v-ribs",
+"n": "립스 오브 비엔나",
+"en": "Ribs of Vienna",
+"c": "food",
+"m": "저녁",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.206,
+"lng": 16.375,
+"t": "한국인 립 맛집 · 지하 레스토랑",
+"tip": "예약 필수. 2인 1미터 립 + 감자"
+},
+{
+"k": "v-salm",
+"n": "잘름 브로이",
+"en": "Salm Brau Vienna",
+"c": "food",
+"m": "점심·저녁",
+"a": "중앙역·벨베데레",
+"lat": 48.196,
+"lng": 16.379,
+"t": "자가양조 맥주 + 립 · 벨베데레 옆",
+"tip": "숙소에서 도보 10분. 하우스 맥주 시음"
+},
+{
+"k": "v-kameel",
+"n": "춤 슈바르첸 카멜",
+"en": "Zum Schwarzen Kameel",
+"c": "food",
+"m": "점심",
+"a": "구시가 (호프부르크)",
+"lat": 48.2097,
+"lng": 16.3683,
+"t": "1618년 창업 델리 · 오픈 샌드위치",
+"tip": "서서 먹는 바에서 작은 샌드위치와 와인 한 잔",
+"w": "Zum Schwarzen Kameel"
+},
+{
+"k": "v-bitzinger",
+"n": "비칭어 소시지 가판대",
+"en": "Bitzinger Wurstelstand Albertina",
+"c": "food",
+"m": "간식",
+"a": "구시가 (호프부르크)",
+"lat": 48.2041,
+"lng": 16.3688,
+"t": "알베르티나 앞 소시지 노점",
+"tip": "치즈 든 소시지 '케제크라이너'가 대표. 오페라 보고 나오는 사람들이 들르는 곳"
+},
+{
+"k": "v-sacher",
+"n": "카페 자허",
+"en": "Cafe Sacher Wien",
+"c": "cafe",
+"a": "링 도로",
+"lat": 48.2039,
+"lng": 16.3699,
+"t": "원조 자허토르테 (시트)",
+"tip": "줄이 길어 오픈 직후나 늦은 오후. 포장 전용 매장은 줄이 짧음",
+"w": "Hotel Sacher",
+"img": "img/v-sacher.jpg"
+},
+{
+"k": "v-demel",
+"n": "데멜",
+"en": "Demel Vienna",
+"c": "cafe",
+"a": "구시가 (호프부르크)",
+"lat": 48.2086,
+"lng": 16.3672,
+"t": "왕실 납품 제과점",
+"tip": "케이크 진열장 보고 고르기. 안쪽 유리창으로 제과 공방 구경",
+"w": "Demel",
+"img": "img/v-demel.jpg"
+},
+{
+"k": "v-central",
+"n": "카페 첸트랄",
+"en": "Cafe Central Vienna",
+"c": "cafe",
+"a": "구시가 (호프부르크)",
+"lat": 48.2104,
+"lng": 16.3655,
+"t": "아치형 천장의 전통 카페",
+"tip": "입장 대기 줄 있음. 아침 일찍이 한산",
+"w": "Café Central",
+"img": "img/v-central.jpg"
+},
+{
+"k": "v-landtmann",
+"n": "카페 란트만",
+"en": "Cafe Landtmann",
+"c": "cafe",
+"a": "링 도로",
+"lat": 48.2117,
+"lng": 16.3612,
+"t": "프로이트 단골 카페 · 시청 광장 옆",
+"tip": "시청 광장 마켓 전후로 들르기 좋음",
+"w": "Café Landtmann",
+"img": "img/v-landtmann.jpg"
+},
+{
+"k": "v-hawelka",
+"n": "카페 하벨카",
+"en": "Cafe Hawelka",
+"c": "cafe",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.2079,
+"lng": 16.3708,
+"t": "예술가들의 단골 카페 · 부흐텔른",
+"tip": "저녁에 나오는 잼 빵 '부흐텔른'이 명물",
+"w": "Café Hawelka",
+"img": "img/v-hawelka.jpg"
+},
+{
+"k": "v-manner",
+"n": "마너 매장",
+"en": "Manner Stephansplatz",
+"c": "cafe",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.2083,
+"lng": 16.3722,
+"t": "분홍색 웨하스 기념품",
+"tip": "슈테판 대성당 바로 앞. 선물용 쇼핑",
+"w": "Manner (company)",
+"img": "img/v-manner.jpg"
+},
+{
+"k": "v-albterrace",
+"n": "알베르티나 테라스",
+"en": "Albertina terrace Albertinaplatz",
+"c": "night",
+"a": "구시가 (호프부르크)",
+"lat": 48.2045,
+"lng": 16.3685,
+"t": "오페라극장이 한눈에 보이는 야경 전망 (무료)",
+"tip": "오페라극장 맞은편 알베르티나 미술관 앞 에스컬레이터를 타고 테라스로 올라가면 조명 켜진 오페라극장 전경. 참고 릴스 동선의 첫 포인트",
+"links": [
+{
+"t": "인스타그램 릴스: 빈 겨울밤 야경 코스 (borbor.ee)",
+"u": "https://www.instagram.com/reel/DfWxJvnhQDT/"
+}
+]
+},
+{
+"k": "v-burggarten",
+"n": "부르크가르텐 · 모차르트 동상",
+"en": "Mozart Monument Burggarten",
+"c": "sight",
+"a": "구시가 (호프부르크)",
+"lat": 48.2047,
+"lng": 16.3662,
+"t": "왕궁 정원의 하얀 모차르트 동상",
+"tip": "알베르티나 테라스에서 바로 옆. 여름엔 동상 앞 높은음자리표 꽃밭이 유명하지만 겨울엔 동상만",
+"links": [
+{
+"t": "인스타그램 릴스: 빈 겨울밤 야경 코스 (borbor.ee)",
+"u": "https://www.instagram.com/reel/DfWxJvnhQDT/"
+}
+],
+"w": "Mozart Monument, Vienna",
+"img": "img/v-burggarten.jpg"
+},
+{
+"k": "v-heldenplatz",
+"n": "영웅 광장 · 신왕궁 야경",
+"en": "Heldenplatz Neue Burg",
+"c": "night",
+"a": "구시가 (호프부르크)",
+"lat": 48.2063,
+"lng": 16.3632,
+"t": "조명 켜진 반원형 신왕궁과 멀리 보이는 시청사",
+"tip": "광장 잔디밭 쪽에서 신왕궁 전체, 반대편으로는 폴크스가르텐 너머 시청사 첨탑이 보임. 여기서 시청 광장 마켓까지 걸어서 10분",
+"links": [
+{
+"t": "인스타그램 릴스: 빈 겨울밤 야경 코스 (borbor.ee)",
+"u": "https://www.instagram.com/reel/DfWxJvnhQDT/"
+}
+],
+"w": "Heldenplatz",
+"img": "img/v-heldenplatz.jpg"
+},
+{
+"k": "v-peterskirche",
+"n": "성 페터 성당",
+"en": "Peterskirche Vienna",
+"c": "sight",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.2093,
+"lng": 16.37,
+"t": "그라벤 옆 화려한 바로크 돔 천장",
+"tip": "입장 무료. 돔 천장 프레스코가 참고 릴스 첫 장면. 무료 오르간 연주가 열리는 날도 있음",
+"links": [
+{
+"t": "인스타그램 릴스: 빈 겨울밤 야경 코스 (borbor.ee)",
+"u": "https://www.instagram.com/reel/DfWxJvnhQDT/"
+}
+],
+"w": "Peterskirche",
+"img": "img/v-peterskirche.jpg"
+},
+{
+"k": "v-freiraum",
+"n": "프라이라움 (곰인형 크리스마스 포토스팟)",
+"en": "Freiraum Mariahilfer Strasse 117",
+"c": "xmas",
+"a": "마리아힐퍼 거리",
+"lat": 48.196,
+"lng": 16.3428,
+"t": "곰인형·조명 장식 크리스마스 포토스팟 · Mariahilfer Straße 117",
+"tip": "빈 최대 쇼핑 거리 마리아힐퍼 거리 서쪽 끝. 장식 운영 기간과 시간은 공개 정보가 없어 방문 전 확인. 지하철 U3 치글러가세역 근처",
+"links": [
+{
+"t": "인스타그램 릴스: 빈에서 가장 귀여운 크리스마스 포토스팟 (annaknowsvienna)",
+"u": "https://www.instagram.com/reel/DgDV0w1OIoG/"
+}
+]
+},
+{
+"k": "v-leporello",
+"n": "레포렐로 서점 (1유로 엽서 자판기)",
+"en": "LEPORELLO die Buchhandlung Singerstrasse 7",
+"c": "sight",
+"a": "구시가 (슈테판플라츠)",
+"lat": 48.2077,
+"lng": 16.3732,
+"t": "슈테판 대성당 바로 옆 서점 · 1유로 랜덤 엽서 자판기 POSTYBOX",
+"tip": "Singerstraße 7 (Churhausgasse 모퉁이). 1유로 동전 준비. 구글 평점 4.6 (리뷰 104개). 18시 영업 종료(구글 지도 기준), 일요일 영업 여부는 확인 필요",
+"links": [
+{
+"t": "구글 지도 (보내주신 링크)",
+"u": "https://maps.app.goo.gl/9K6JsS6pBGy7xBYF8"
+},
+{
+"t": "공식 사이트",
+"u": "https://leporello.at"
+},
+{
+"t": "인스타그램 릴스: 1유로 랜덤 엽서 뽑기 (cherish_traveler)",
+"u": "https://www.instagram.com/reel/Dfn5rHtPlz7/"
+}
+]
+},
+{
+"k": "v-xm-mtp",
+"n": "마리아 테레지엔 광장 마켓",
+"en": "Maria-Theresien-Platz Christmas Market",
+"c": "xmas",
+"a": "링 도로",
+"lat": 48.2045,
+"lng": 16.361,
+"t": "2026.11.20~12.26 · 미술사·자연사 박물관 사이",
+"tip": "두 박물관 건물 조명 사이의 마켓. 영웅 광장에서 링 도로만 건너면 바로",
+"links": [
+{
+"t": "인스타그램: 2026 비엔나 크리스마스 마켓 가이드 (dailyhyunjung)",
+"u": "https://www.instagram.com/p/Dfq2B58nQrm/"
+}
+]
+},
+{
+"k": "v-xm-belv",
+"n": "벨베데레 크리스마스 마켓",
+"en": "Belvedere Christmas Market",
+"c": "xmas",
+"a": "중앙역·벨베데레",
+"lat": 48.1922,
+"lng": 16.3808,
+"t": "2026.11.20~12.13 · 상궁 앞 · 12/13이 마지막 날",
+"tip": "12/13 도착일이 마켓 마지막 날이라 체크인 후 바로 들르기. 12/14 벨베데레 관람 때는 이미 끝나 있음",
+"links": [
+{
+"t": "인스타그램: 2026 비엔나 크리스마스 마켓 가이드 (dailyhyunjung)",
+"u": "https://www.instagram.com/p/Dfq2B58nQrm/"
+}
+]
+},
+{
+"k": "v-xm-spittel",
+"n": "슈피텔베르크 마켓",
+"en": "Spittelberg Christmas Market",
+"c": "xmas",
+"a": "링 도로",
+"lat": 48.2032,
+"lng": 16.3545,
+"t": "2026.11.13~12.23 · 골목 사이 수공예 마켓",
+"tip": "마리아 테레지엔 광장 뒤 좁은 골목. 시간 여유 있을 때",
+"links": [
+{
+"t": "인스타그램: 2026 비엔나 크리스마스 마켓 가이드 (dailyhyunjung)",
+"u": "https://www.instagram.com/p/Dfq2B58nQrm/"
+}
+]
+},
+{
+"k": "v-krampus",
+"n": "크람푸스 퍼레이드 (바덴 바이 빈)",
+"en": "Krampuslauf Baden bei Wien",
+"c": "night",
+"a": "바덴 (빈 근교)",
+"lat": 48.0073,
+"lng": 16.2344,
+"t": "12/13(일) 17:00 · 빈에서 약 30~40분 · 일정엔 미포함",
+"tip": "뿔 달린 탈과 방울 소리, 불꽃이 가득한 오스트리아 겨울 전통 퍼레이드. 12/13은 16:19 빈 도착이라 체크인을 미루고 바로 가야 아슬아슬하게 맞출 수 있음(벨베데레 마켓·야경 코스 포기). 날짜·시간은 바뀔 수 있어 주최 측 확인 필요",
+"links": [
+{
+"t": "인스타그램 릴스: 2026 크람푸스 공연 일정 (slo.diary)",
+"u": "https://www.instagram.com/reel/DgDS0fMyuZQ/"
+}
+]
+}
+]

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>부다페스트 허니문</name>
+<Style id="hotel"><IconStyle><color>ff1c8ad9</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="xmas"><IconStyle><color>ff5a8316</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="sight"><IconStyle><color>ffc8552f</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="food"><IconStyle><color>ff2e3fc6</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="cafe"><IconStyle><color>ff2b5a8a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="night"><IconStyle><color>ffa83a7a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Folder><name>숙소·역</name>
+<Placemark><name>부다페스트 켈레티역</name><description>Budapest Keleti railway station · 페스트 동쪽
+12/16 빈발 기차 도착 (약 2시간 40분)
+팁: 숙소까지 택시 약 20분 (볼트 앱 사용 가능)
+https://www.google.com/maps/search/?api=1&amp;query=Budapest%20Keleti%20railway%20station%20Budapest</description><styleUrl>#hotel</styleUrl><Point><coordinates>19.0838,47.5003,0</coordinates></Point></Placemark>
+<Placemark><name>노보텔 부다페스트 다누베</name><description>Novotel Budapest Danube · 부다 강변
+숙소 12/16~12/19 · Bem rakpart 33-34 · 체크인 15:00 / 체크아웃 12:00
+팁: 강 건너 국회의사당이 정면으로 보이는 위치. 어부의 요새까지 오르막 도보 15분
+https://www.google.com/maps/search/?api=1&amp;query=Novotel%20Budapest%20Danube%20Budapest</description><styleUrl>#hotel</styleUrl><Point><coordinates>19.0381,47.5091,0</coordinates></Point></Placemark>
+<Placemark><name>부다페스트 공항</name><description>Budapest Ferenc Liszt International Airport · 공항
+12/19 19:30 출발 → 12/20 14:10 인천 도착
+팁: 시내에서 택시 약 40분. 국제선은 3시간 전 도착 목표
+https://www.google.com/maps/search/?api=1&amp;query=Budapest%20Ferenc%20Liszt%20International%20Airport%20Budapest</description><styleUrl>#hotel</styleUrl><Point><coordinates>19.2556,47.4369,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>크리스마스 마켓</name>
+<Placemark><name>대성당 크리스마스 마켓</name><description>Advent Basilica Christmas Market · 페스트 중심
+11/13~1/1 · 유럽 베스트 마켓 (시트)
+팁: 성당 외벽 프로젝션 매핑 쇼(저녁 정시마다), 아이스링크
+https://www.google.com/maps/search/?api=1&amp;query=Advent%20Basilica%20Christmas%20Market%20Budapest</description><styleUrl>#xmas</styleUrl><Point><coordinates>19.0535,47.5005,0</coordinates></Point></Placemark>
+<Placemark><name>뵈뢰슈머르티 광장 마켓</name><description>Vorosmarty Square Christmas Market · 페스트 중심
+부다페스트 대표 크리스마스 마켓
+팁: 수공예품과 굴뚝빵(퀴르퇴슈칼라치) 원조. 바치 거리 쇼핑과 연결
+https://www.google.com/maps/search/?api=1&amp;query=Vorosmarty%20Square%20Christmas%20Market%20Budapest</description><styleUrl>#xmas</styleUrl><Point><coordinates>19.0505,47.4969,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>명소</name>
+<Placemark><name>마차시 성당</name><description>Matthias Church · 부다 성 지구
+모자이크 지붕의 고딕 성당
+팁: 내부 유료. 일요일 오전 미사 시간 관광 제한
+https://www.google.com/maps/search/?api=1&amp;query=Matthias%20Church%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0343,47.5017,0</coordinates></Point></Placemark>
+<Placemark><name>부다 왕궁</name><description>Buda Castle · 부다 성 지구
+헝가리 국립미술관이 있는 왕궁
+팁: 왕궁 테라스에서 세체니 다리와 페스트 시가지 전망
+https://www.google.com/maps/search/?api=1&amp;query=Buda%20Castle%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0396,47.4962,0</coordinates></Point></Placemark>
+<Placemark><name>국회의사당</name><description>Hungarian Parliament Building · 페스트 강변
+내부 가이드 투어 (온라인 예약)
+팁: 투어 시간 지정 예약. 보안검색 있어 15분 전 도착
+https://www.google.com/maps/search/?api=1&amp;query=Hungarian%20Parliament%20Building%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0457,47.5072,0</coordinates></Point></Placemark>
+<Placemark><name>도나우 강변의 신발</name><description>Shoes on the Danube Bank · 페스트 강변
+홀로코스트 추모 조형물
+팁: 국회의사당 남쪽 강변. 추모 공간이라 조용히
+https://www.google.com/maps/search/?api=1&amp;query=Shoes%20on%20the%20Danube%20Bank%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.045,47.5045,0</coordinates></Point></Placemark>
+<Placemark><name>성 이슈트반 대성당</name><description>St. Stephen's Basilica Budapest · 페스트 중심
+돔 전망대에서 시내 360도
+팁: 돔은 엘리베이터+계단. 성당 입장은 기부금 형식
+https://www.google.com/maps/search/?api=1&amp;query=St.%20Stephen%27s%20Basilica%20Budapest%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0539,47.5009,0</coordinates></Point></Placemark>
+<Placemark><name>헝가리 국립 오페라극장</name><description>Hungarian State Opera House · 언드라시 거리
+언드라시 거리의 네오르네상스 극장
+팁: 가이드 투어 또는 공연 관람. 외관은 무료
+https://www.google.com/maps/search/?api=1&amp;query=Hungarian%20State%20Opera%20House%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0583,47.5025,0</coordinates></Point></Placemark>
+<Placemark><name>영웅 광장</name><description>Heroes' Square Budapest · 시민공원
+헝가리 건국 영웅 기념비
+팁: 지하철 M1(유럽 최초 지하철 노선) 타고 이동
+https://www.google.com/maps/search/?api=1&amp;query=Heroes%27%20Square%20Budapest%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0778,47.515,0</coordinates></Point></Placemark>
+<Placemark><name>시민공원 아이스링크 · 버이더후녀드 성</name><description>City Park Ice Rink Budapest · 시민공원
+성 앞 야외 스케이트장 (겨울)
+팁: 스케이트 대여 가능. 성 배경 커플 사진
+https://www.google.com/maps/search/?api=1&amp;query=City%20Park%20Ice%20Rink%20Budapest%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0815,47.516,0</coordinates></Point></Placemark>
+<Placemark><name>세체니 온천</name><description>Szechenyi Thermal Bath · 시민공원
+노란 궁전 같은 야외 온천
+팁: 수영복·슬리퍼·수건 준비(대여 가능). 겨울 야외탕 김 서린 풍경이 명물
+https://www.google.com/maps/search/?api=1&amp;query=Szechenyi%20Thermal%20Bath%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0814,47.5186,0</coordinates></Point></Placemark>
+<Placemark><name>도하니 시나고그</name><description>Dohany Street Synagogue · 유대인 지구
+유럽 최대 유대교 회당
+팁: 겨울 금요일 10:00~14:00, 일~목 10:00~16:00, 토요일 휴관. 남성은 키파 착용
+https://www.google.com/maps/search/?api=1&amp;query=Dohany%20Street%20Synagogue%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0606,47.4958,0</coordinates></Point></Placemark>
+<Placemark><name>중앙 시장</name><description>Great Market Hall Budapest · 페스트 남쪽
+파프리카·기념품·2층 랑고시
+팁: 일요일 휴무. 2층 노점에서 랑고시(튀긴 빵) 아침
+https://www.google.com/maps/search/?api=1&amp;query=Great%20Market%20Hall%20Budapest%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0583,47.487,0</coordinates></Point></Placemark>
+<Placemark><name>자유의 다리</name><description>Liberty Bridge Budapest · 페스트 남쪽
+초록색 철교
+팁: 중앙 시장에서 바로 건너 겔레르트 언덕으로
+https://www.google.com/maps/search/?api=1&amp;query=Liberty%20Bridge%20Budapest%20Budapest</description><styleUrl>#sight</styleUrl><Point><coordinates>19.0556,47.4859,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>식당</name>
+<Placemark><name>헝가리쿰 비스트로</name><description>Hungarikum Bisztro · 페스트 강변 · 저녁
+한국인 굴라시 맛집 · 국회의사당 근처
+팁: 작은 가게라 예약 필수. 굴라시 수프, 치킨 파프리카시
+https://www.google.com/maps/search/?api=1&amp;query=Hungarikum%20Bisztro%20Budapest</description><styleUrl>#food</styleUrl><Point><coordinates>19.05,47.5052,0</coordinates></Point></Placemark>
+<Placemark><name>게토 굴라시</name><description>Getto Gulyas · 유대인 지구 · 점심·저녁
+굴라시·파프리카시 전문
+팁: 예약 추천. 유대인 지구 루인 바 거리 근처
+https://www.google.com/maps/search/?api=1&amp;query=Getto%20Gulyas%20Budapest</description><styleUrl>#food</styleUrl><Point><coordinates>19.0633,47.4979,0</coordinates></Point></Placemark>
+<Placemark><name>멘자</name><description>Menza Budapest · 언드라시 거리 · 점심·저녁
+리스트 광장의 레트로 헝가리 식당
+팁: 점심 세트가 가성비. 언드라시 거리 산책 중간에
+https://www.google.com/maps/search/?api=1&amp;query=Menza%20Budapest%20Budapest</description><styleUrl>#food</styleUrl><Point><coordinates>19.0632,47.504,0</coordinates></Point></Placemark>
+<Placemark><name>포세일 펍</name><description>For Sale Pub · 페스트 남쪽 · 점심·저녁
+벽마다 메모, 바닥엔 땅콩 껍질
+팁: 양이 많아 2인 1~2메뉴. 중앙 시장 바로 맞은편
+https://www.google.com/maps/search/?api=1&amp;query=For%20Sale%20Pub%20Budapest</description><styleUrl>#food</styleUrl><Point><coordinates>19.059,47.4875,0</coordinates></Point></Placemark>
+<Placemark><name>페스트-부다 비스트로</name><description>Pest-Buda Bistro · 부다 성 지구 · 점심·저녁
+부다 성 지구 안 헝가리 비스트로
+팁: 어부의 요새 가기 전 점심. 예약 추천
+https://www.google.com/maps/search/?api=1&amp;query=Pest-Buda%20Bistro%20Budapest</description><styleUrl>#food</styleUrl><Point><coordinates>19.0335,47.5028,0</coordinates></Point></Placemark>
+<Placemark><name>보르코냐</name><description>Borkonyha Winekitchen · 페스트 중심 · 저녁
+미쉐린 스타 와인 키친
+팁: 헝가리 와인 페어링. 몇 주 전 예약
+https://www.google.com/maps/search/?api=1&amp;query=Borkonyha%20Winekitchen%20Budapest</description><styleUrl>#food</styleUrl><Point><coordinates>19.052,47.4998,0</coordinates></Point></Placemark>
+<Placemark><name>스푼 더 보트</name><description>Spoon The Boat Budapest · 페스트 중심 · 점심·저녁
+도나우 강 위 선상 레스토랑
+팁: 창가석에서 부다 왕궁·세체니 다리 뷰
+https://www.google.com/maps/search/?api=1&amp;query=Spoon%20The%20Boat%20Budapest%20Budapest</description><styleUrl>#food</styleUrl><Point><coordinates>19.047,47.4962,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>카페</name>
+<Placemark><name>제르보</name><description>Gerbeaud Budapest · 페스트 중심
+1858년 창업 카페 · 뵈뢰슈머르티 광장
+팁: 도보시 토르테·에스테르하지 케이크. 마켓 바로 앞
+https://www.google.com/maps/search/?api=1&amp;query=Gerbeaud%20Budapest%20Budapest</description><styleUrl>#cafe</styleUrl><Point><coordinates>19.0498,47.4971,0</coordinates></Point></Placemark>
+<Placemark><name>뉴욕 카페</name><description>New York Cafe Budapest · 페스트 동쪽
+세상에서 가장 아름다운 카페
+팁: 대기 줄 길어 온라인 예약 추천. 가격대 높음
+https://www.google.com/maps/search/?api=1&amp;query=New%20York%20Cafe%20Budapest%20Budapest</description><styleUrl>#cafe</styleUrl><Point><coordinates>19.0705,47.4985,0</coordinates></Point></Placemark>
+<Placemark><name>루스부름</name><description>Ruszwurm Cukraszda · 부다 성 지구
+⚠ 2025년 8월 폐업 (재개장 소식 없음)
+팁: 임대 분쟁으로 2025년 8월 문을 닫음. 동선에서 제외
+https://www.google.com/maps/search/?api=1&amp;query=Ruszwurm%20Cukraszda%20Budapest</description><styleUrl>#cafe</styleUrl><Point><coordinates>19.0331,47.5018,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>야경·바</name>
+<Placemark><name>버차니 광장 (국회의사당 야경 뷰)</name><description>Batthyany ter · 부다 강변
+강 건너 국회의사당 정면 야경
+팁: 숙소에서 도보 5분. 해 진 뒤 조명 켜진 국회의사당 사진 1순위 자리
+https://www.google.com/maps/search/?api=1&amp;query=Batthyany%20ter%20Budapest</description><styleUrl>#night</styleUrl><Point><coordinates>19.039,47.5065,0</coordinates></Point></Placemark>
+<Placemark><name>어부의 요새</name><description>Fisherman's Bastion · 부다 성 지구
+동화 같은 성벽 전망대 · 국회의사당 뷰
+팁: 위층 테라스 일부 유료, 아래층은 무료. 일몰 15:55 전후
+https://www.google.com/maps/search/?api=1&amp;query=Fisherman%27s%20Bastion%20Budapest</description><styleUrl>#night</styleUrl><Point><coordinates>19.0349,47.5022,0</coordinates></Point></Placemark>
+<Placemark><name>세체니 다리</name><description>Szechenyi Chain Bridge · 도나우 강
+부다와 페스트를 잇는 사자 다리
+팁: 밤에 걸어서 건너기 추천
+https://www.google.com/maps/search/?api=1&amp;query=Szechenyi%20Chain%20Bridge%20Budapest</description><styleUrl>#night</styleUrl><Point><coordinates>19.0438,47.499,0</coordinates></Point></Placemark>
+<Placemark><name>겔레르트 언덕 · 시타델라</name><description>Gellert Hill Citadella · 부다 남쪽
+도나우 강과 다리들이 한눈에
+팁: 오르막 약 30분. 추운 날은 택시로 올라가고 걸어서 내려오기
+https://www.google.com/maps/search/?api=1&amp;query=Gellert%20Hill%20Citadella%20Budapest</description><styleUrl>#night</styleUrl><Point><coordinates>19.0473,47.4868,0</coordinates></Point></Placemark>
+<Placemark><name>도나우 강 야경 크루즈</name><description>Danube night cruise Vigado ter · 페스트 중심
+국회의사당·왕궁 조명 사이로 1시간
+팁: 비거도 광장 선착장. 실내석 있는 배로 예약, 갑판에서 사진
+https://www.google.com/maps/search/?api=1&amp;query=Danube%20night%20cruise%20Vigado%20ter%20Budapest</description><styleUrl>#night</styleUrl><Point><coordinates>19.0485,47.4955,0</coordinates></Point></Placemark>
+<Placemark><name>심플라 케르트</name><description>Szimpla Kert · 유대인 지구
+원조 루인 바
+팁: 폐건물을 꾸민 바. 저녁에 맥주 한 잔 구경 삼아
+https://www.google.com/maps/search/?api=1&amp;query=Szimpla%20Kert%20Budapest</description><styleUrl>#night</styleUrl><Point><coordinates>19.0634,47.497,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/16 부다페스트 도착 · 부다 성 · 첫 야경</name><Style id="r1216"><LineStyle><color>ff2f91e0</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/16 동선</name><styleUrl>#r1216</styleUrl><LineString><coordinates>19.0838,47.5003,0 19.0381,47.5091,0 19.0335,47.5028,0 19.0343,47.5017,0 19.0349,47.5022,0 19.0396,47.4962,0 19.0438,47.499,0 19.05,47.5052,0 19.039,47.5065,0 19.0381,47.5091,0</coordinates></LineString></Placemark>
+<Placemark><name>12/16-1 12:40 부다페스트 켈레티역</name><description>빈발 기차 도착 (10:00 출발, 약 2시간 40분)</description><Point><coordinates>19.0838,47.5003,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-2 13:15 노보텔 부다페스트 다누베</name><description>택시 20분 · 짐 맡기기 (체크인은 오후)</description><Point><coordinates>19.0381,47.5091,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-3 14:00 페스트-부다 비스트로</name><description>점심 · 오르막 15분 걸어 부다 성 지구로</description><Point><coordinates>19.0335,47.5028,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-4 15:05 마차시 성당</name><description>마차시 성당 모자이크 지붕</description><Point><coordinates>19.0343,47.5017,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-5 15:25 어부의 요새</name><description>일몰 15:55 · 국회의사당 뷰 (아래층 테라스 무료, 위층은 19시 이후 무료)</description><Point><coordinates>19.0349,47.5022,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-6 16:30 부다 왕궁</name><description>조명 켜진 왕궁 테라스 · 다리와 페스트 야경</description><Point><coordinates>19.0396,47.4962,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-7 17:30 세체니 다리</name><description>걸어서 세체니 다리 건너기</description><Point><coordinates>19.0438,47.499,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-8 18:30 헝가리쿰 비스트로</name><description>저녁 · 굴라시 (예약 필수)</description><Point><coordinates>19.05,47.5052,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-9 20:15 버차니 광장 (국회의사당 야경 뷰)</name><description>트램 2번+도보로 숙소 쪽 · 강 건너 국회의사당 야경</description><Point><coordinates>19.039,47.5065,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-10 20:40 노보텔 부다페스트 다누베</name><description>체크인</description><Point><coordinates>19.0381,47.5091,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/17 국회의사당 · 대성당 · 온천 · 대성당 마켓</name><Style id="r1217"><LineStyle><color>ff7a3dc4</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/17 동선</name><styleUrl>#r1217</styleUrl><LineString><coordinates>19.0457,47.5072,0 19.045,47.5045,0 19.0539,47.5009,0 19.0583,47.5025,0 19.0632,47.504,0 19.0778,47.515,0 19.0814,47.5186,0 19.0815,47.516,0 19.0633,47.4979,0 19.0535,47.5005,0 19.0381,47.5091,0</coordinates></LineString></Placemark>
+<Placemark><name>12/17-1 09:00 국회의사당</name><description>국회의사당 가이드 투어 약 45분 (jegymester.hu 예약, 15분 전 도착)</description><Point><coordinates>19.0457,47.5072,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-2 10:15 도나우 강변의 신발</name><description>도나우 강변의 신발</description><Point><coordinates>19.045,47.5045,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-3 10:45 성 이슈트반 대성당</name><description>성당 + 돔 전망대</description><Point><coordinates>19.0539,47.5009,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-4 12:00 헝가리 국립 오페라극장</name><description>언드라시 거리 · 오페라극장 외관</description><Point><coordinates>19.0583,47.5025,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-5 12:30 멘자</name><description>점심 · 레트로 헝가리 식당</description><Point><coordinates>19.0632,47.504,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-6 14:00 영웅 광장</name><description>지하철 M1 · 영웅 광장</description><Point><coordinates>19.0778,47.515,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-7 14:15 세체니 온천</name><description>야외 온천 2시간 30분 · 김 서린 겨울 야외탕</description><Point><coordinates>19.0814,47.5186,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-8 17:00 시민공원 아이스링크 · 버이더후녀드 성</name><description>저녁 세션 스케이트 (평일은 오전·저녁 세션만)</description><Point><coordinates>19.0815,47.516,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-9 18:45 게토 굴라시</name><description>저녁 · 굴라시·파프리카시 (예약 추천)</description><Point><coordinates>19.0633,47.4979,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-10 20:15 대성당 크리스마스 마켓</name><description>대성당 마켓 · 외벽 프로젝션 쇼 (시트)</description><Point><coordinates>19.0535,47.5005,0</coordinates></Point></Placemark>
+<Placemark><name>12/17-11 21:15 노보텔 부다페스트 다누베</name><description></description><Point><coordinates>19.0381,47.5091,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/18 중앙 시장 · 겔레르트 언덕 · 쇼핑 · 야경 크루즈</name><Style id="r1218"><LineStyle><color>ffcd5f3a</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/18 동선</name><styleUrl>#r1218</styleUrl><LineString><coordinates>19.0583,47.487,0 19.0606,47.4958,0 19.0705,47.4985,0 19.059,47.4875,0 19.0556,47.4859,0 19.0473,47.4868,0 19.0505,47.4969,0 19.052,47.4998,0 19.0485,47.4955,0 19.0381,47.5091,0</coordinates></LineString></Placemark>
+<Placemark><name>12/18-1 09:00 중앙 시장</name><description>2층 랑고시 아침 · 파프리카 기념품</description><Point><coordinates>19.0583,47.487,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-2 10:15 도하니 시나고그</name><description>금요일은 14시에 닫아서 오전에 (트램+도보 15분)</description><Point><coordinates>19.0606,47.4958,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-3 11:30 뉴욕 카페</name><description>커피·디저트만 추천 (음식은 비싸고 평범하다는 평)</description><Point><coordinates>19.0705,47.4985,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-4 12:45 포세일 펍</name><description>점심 · 양 많으니 2인 1~2메뉴</description><Point><coordinates>19.059,47.4875,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-5 14:15 자유의 다리</name><description>자유의 다리 건너기</description><Point><coordinates>19.0556,47.4859,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-6 14:30 겔레르트 언덕 · 시타델라</name><description>시타델라에서 일몰 15:55 · 다리들 야경 (추우면 택시로 올라가기)</description><Point><coordinates>19.0473,47.4868,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-7 16:45 뵈뢰슈머르티 광장 마켓</name><description>마지막 쇼핑 · 마켓과 바치 거리 (시트: 마지막 쇼핑)</description><Point><coordinates>19.0505,47.4969,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-8 18:30 보르코냐</name><description>허니문 디너 · 미쉐린 와인 키친 (몇 주 전 예약)</description><Point><coordinates>19.052,47.4998,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-9 20:30 도나우 강 야경 크루즈</name><description>도나우 강 야경 크루즈 1시간</description><Point><coordinates>19.0485,47.4955,0</coordinates></Point></Placemark>
+<Placemark><name>12/18-10 21:45 노보텔 부다페스트 다누베</name><description></description><Point><coordinates>19.0381,47.5091,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/19 자유 시간 · 출국</name><Style id="r1219"><LineStyle><color>ff96877c</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/19 동선</name><styleUrl>#r1219</styleUrl><LineString><coordinates>19.0381,47.5091,0 19.0498,47.4971,0 19.0535,47.5005,0 19.047,47.4962,0 19.0381,47.5091,0 19.2556,47.4369,0</coordinates></LineString></Placemark>
+<Placemark><name>12/19-1 09:00 노보텔 부다페스트 다누베</name><description>체크아웃 후 짐 맡기기 (체크아웃 12:00)</description><Point><coordinates>19.0381,47.5091,0</coordinates></Point></Placemark>
+<Placemark><name>12/19-2 09:30 제르보</name><description>아침 · 케이크 (분위기 위주, 가격은 높은 편)</description><Point><coordinates>19.0498,47.4971,0</coordinates></Point></Placemark>
+<Placemark><name>12/19-3 10:30 대성당 크리스마스 마켓</name><description>낮의 대성당 마켓 · 마지막 기념품</description><Point><coordinates>19.0535,47.5005,0</coordinates></Point></Placemark>
+<Placemark><name>12/19-4 12:30 스푼 더 보트</name><description>선상 레스토랑 점심 · 왕궁·다리 뷰</description><Point><coordinates>19.047,47.4962,0</coordinates></Point></Placemark>
+<Placemark><name>12/19-5 14:30 노보텔 부다페스트 다누베</name><description>맡긴 짐 찾기</description><Point><coordinates>19.0381,47.5091,0</coordinates></Point></Placemark>
+<Placemark><name>12/19-6 16:00 부다페스트 공항</name><description>택시 약 40분 · 19:30 출발 → 12/20 14:10 인천</description><Point><coordinates>19.2556,47.4369,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

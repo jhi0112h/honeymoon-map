@@ -1,0 +1,1326 @@
+[
+{
+"k": "hotel",
+"n": "마에스트로 바이 아드레즈",
+"en": "Hotel Maestro by Adrez",
+"c": "hotel",
+"a": "신시가",
+"lat": 50.0821,
+"lng": 14.4314,
+"t": "숙소 · Politických vězňů 916/16",
+"tip": "바츨라프 광장 마켓 도보 3분, 중앙역 도보 10분. 12/13 기차 타러 걸어가기 좋음. 옛 이름 Hotel Sovereign. 프라하 공통 팁(참고 릴스): 대부분 카드 결제 가능해 현금(코루나)은 조금만, 교통권은 미리 사지 말고 필요할 때 1회권",
+"links": [
+{
+"t": "인스타그램 릴스: 프라하 여행 꿀팁 5가지 (d_berlin_k)",
+"u": "https://www.instagram.com/reel/Db2uTPPo752/"
+}
+]
+},
+{
+"k": "xm-old",
+"n": "구시가 광장 크리스마스 마켓",
+"en": "Old Town Square Christmas Market",
+"c": "xmas",
+"a": "구시가",
+"lat": 50.0873,
+"lng": 14.4218,
+"t": "11/28~1/6 · 10:00~22:00 · 라이트 쇼 매일 16:30~21:30 매시 30분",
+"tip": "라이트 쇼는 16:30 첫 회가 일몰 직후 푸른 하늘+트리 조명이라 가장 예쁨. 17:30~19:30이 가장 붐비니 피하기. 프라하 햄은 100g 단위 과금이라 주문할 때 \"조금만\" 요청. 포토 명당: 트리 전망대(무료), 틴 성당 맞은편, 구시청사 탑(유료, 정각 시계→30분 라이트 쇼)",
+"w": "Old Town Square",
+"img": "img/xm-old.jpg",
+"links": [
+{
+"t": "인스타그램: 2026 프라하 크리스마스 마켓 가이드 (mbtij.zip)",
+"u": "https://www.instagram.com/p/DgFPoMeH5zd/"
+}
+]
+},
+{
+"k": "xm-wen",
+"n": "바츨라프 광장 크리스마스 마켓",
+"en": "Wenceslas Square Christmas Market",
+"c": "xmas",
+"a": "신시가",
+"lat": 50.0815,
+"lng": 14.4272,
+"t": "11/28~1/6 · 10:00~22:00 · 숙소 앞",
+"tip": "구시가보다 덜 붐비고 먹거리 위주. 숙소와 가까워 도착일 밤·출발일 아침 산책 코스로",
+"w": "Wenceslas Square",
+"img": "img/xm-wen.jpg"
+},
+{
+"k": "xm-rep",
+"n": "공화국 광장 마켓",
+"en": "Namesti Republiky Christmas Market",
+"c": "xmas",
+"a": "구시가",
+"lat": 50.0883,
+"lng": 14.4296,
+"t": "11/25~12/24 · 화약탑 옆",
+"tip": "구시가 가는 길에 잠깐 들르기 좋은 소규모 마켓"
+},
+{
+"k": "xm-miru",
+"n": "미루 광장 마켓",
+"en": "Namesti Miru Christmas Market",
+"c": "xmas",
+"a": "비노흐라디",
+"lat": 50.0755,
+"lng": 14.4378,
+"t": "11/20~12/24 · 현지인 마켓",
+"tip": "성 루드밀라 성당 앞. 관광객이 적고 가격이 착함. 숙소에서 도보 12분"
+},
+{
+"k": "xm-castle",
+"n": "프라하 성 크리스마스 마켓",
+"en": "Prague Castle Christmas Market",
+"c": "xmas",
+"a": "흐라드차니",
+"lat": 50.0907,
+"lng": 14.402,
+"t": "성 이르지 광장 · 2026 일정 미발표",
+"tip": "성 관람 동선 안에 있어 따로 시간 안 써도 됨. 일정은 출발 전 확인"
+},
+{
+"k": "xm-kampa",
+"n": "캄파 크리스마스 마켓",
+"en": "Kampa Christmas Market",
+"c": "xmas",
+"a": "말라스트라나",
+"lat": 50.085,
+"lng": 14.4086,
+"t": "12/3~1/4 (출처 1곳) · 소규모",
+"tip": "수공예품 위주의 조용한 마켓. 존 레논 벽 보고 이어서"
+},
+{
+"k": "castle",
+"n": "프라하 성",
+"en": "Prague Castle",
+"c": "sight",
+"a": "흐라드차니",
+"lat": 50.0903,
+"lng": 14.4005,
+"t": "근위병 교대식 매시 정각, 정오 대교대식",
+"tip": "통합권 Circuit B(비투스 대성당·구왕궁·성 이르지 성당·황금소로). 겨울 관람 9~16시. 입구 보안검색 줄 있으니 오전 일찍",
+"w": "Prague Castle",
+"img": "img/castle.jpg"
+},
+{
+"k": "vitus",
+"n": "성 비투스 대성당",
+"en": "St. Vitus Cathedral",
+"c": "sight",
+"a": "흐라드차니",
+"lat": 50.0909,
+"lng": 14.3996,
+"t": "무하 스테인드글라스",
+"tip": "일요일 오전은 미사로 관광 입장 불가(12시 이후). 토요일은 OK. 왼쪽 세 번째 예배당이 무하 창",
+"w": "St. Vitus Cathedral",
+"img": "img/vitus.jpg"
+},
+{
+"k": "golden",
+"n": "황금소로",
+"en": "Golden Lane",
+"c": "sight",
+"a": "흐라드차니",
+"lat": 50.092,
+"lng": 14.4037,
+"t": "카프카가 살던 22번지 파란 집",
+"tip": "성 통합권에 포함. 16시 이후 무료 개방되지만 집 내부는 닫힘",
+"w": "Golden Lane",
+"img": "img/golden.jpg"
+},
+{
+"k": "stairs",
+"n": "옛 성 계단 전망",
+"en": "Old Castle Stairs",
+"c": "night",
+"a": "흐라드차니",
+"lat": 50.0918,
+"lng": 14.4062,
+"t": "성 동쪽 출구, 붉은 지붕 파노라마",
+"tip": "성 관람 후 내려가는 길에 자연스럽게 지나감. 계단 위 전망대 난간이 포토존"
+},
+{
+"k": "strahov",
+"n": "스트라호프 수도원 도서관",
+"en": "Strahov Library",
+"c": "sight",
+"a": "흐라드차니",
+"lat": 50.0863,
+"lng": 14.3893,
+"t": "철학의 방·신학의 방",
+"tip": "9~12시, 13~17시 운영(점심 휴관). 방 안에는 못 들어가고 입구에서 관람. 사진 촬영권 별도",
+"w": "Strahov Monastery",
+"img": "img/strahov.jpg"
+},
+{
+"k": "loreta",
+"n": "로레타",
+"en": "Loreta Prague",
+"c": "sight",
+"a": "흐라드차니",
+"lat": 50.089,
+"lng": 14.3916,
+"t": "매시 정각 27개 종 연주",
+"tip": "스트라호프에서 성으로 내려가는 길. 시간 없으면 외관+종소리만",
+"w": "Loreta (Prague)",
+"img": "img/loreta.jpg"
+},
+{
+"k": "nerudova",
+"n": "네루도바 거리",
+"en": "Nerudova Street",
+"c": "sight",
+"a": "말라스트라나",
+"lat": 50.0882,
+"lng": 14.399,
+"t": "집집마다 문장 간판",
+"tip": "성에서 내려올 때 걷는 게 편함(오르막 피하기)",
+"w": "Nerudova"
+},
+{
+"k": "nicholas",
+"n": "성 니콜라스 성당",
+"en": "St. Nicholas Church Mala Strana",
+"c": "sight",
+"a": "말라스트라나",
+"lat": 50.0878,
+"lng": 14.4033,
+"t": "바로크 돔",
+"tip": "종탑 전망대(별도 입구)에서 카를교·구시가 첨탑 뷰. 저녁 클래식 콘서트도 있음",
+"w": "St. Nicholas Church (Malá Strana)",
+"img": "img/nicholas.jpg"
+},
+{
+"k": "wallen",
+"n": "발트슈테인 정원",
+"en": "Wallenstein Garden",
+"c": "sight",
+"a": "말라스트라나",
+"lat": 50.0898,
+"lng": 14.4065,
+"t": "공작새 정원",
+"tip": "⚠ 4~10월만 개방. 12월 방문 일정엔 닫혀 있음",
+"w": "Wallenstein Palace",
+"img": "img/wallen.jpg"
+},
+{
+"k": "vrtba",
+"n": "브르트바 정원",
+"en": "Vrtba Garden",
+"c": "sight",
+"a": "말라스트라나",
+"lat": 50.0862,
+"lng": 14.4038,
+"t": "바로크 테라스 정원",
+"tip": "⚠ 4~10월만 개방. 12월엔 닫혀 있음",
+"w": "Vrtba Garden",
+"img": "img/vrtba.jpg"
+},
+{
+"k": "lennon",
+"n": "존 레논 벽",
+"en": "Lennon Wall",
+"c": "sight",
+"a": "말라스트라나",
+"lat": 50.0862,
+"lng": 14.4067,
+"t": "그래피티 벽",
+"tip": "오전이나 해질녘이 한산. 바로 옆 다리 난간 사랑의 자물쇠",
+"w": "Lennon Wall",
+"img": "img/lennon.jpg"
+},
+{
+"k": "kampa",
+"n": "캄파 섬·체르토프카",
+"en": "Kampa Island Certovka",
+"c": "sight",
+"a": "말라스트라나",
+"lat": 50.0857,
+"lng": 14.4083,
+"t": "프라하의 베네치아",
+"tip": "물레방아 포토스팟은 Velkopřevorský mlýn 쪽 작은 다리 위. 캄파 공원 아기 조각상도",
+"w": "Kampa Island",
+"img": "img/kampa.jpg"
+},
+{
+"k": "charles",
+"n": "카를교",
+"en": "Charles Bridge",
+"c": "sight",
+"a": "카를교",
+"lat": 50.0865,
+"lng": 14.4114,
+"t": "성 얀 네포무크 동상 만지기",
+"tip": "낮엔 인파로 소매치기 주의. 해 진 직후(12월 16시대)가 가장 예쁨. ⚠ 가스등 점등식은 올해 12월이 아니라 2027년 1월 9~31일로 변경(프라하 관광청). 다리 전체는 강변에서 찍어야 나옴",
+"w": "Charles Bridge",
+"img": "img/charles.jpg",
+"links": [
+{
+"t": "프라하 관광청: 카를교 램프 라이터 (2027.1.9~31)",
+"u": "https://prague.eu/en/akce/lamp-lighter-on-the-charles-bridge"
+}
+]
+},
+{
+"k": "btower",
+"n": "구시가 교탑 전망대",
+"en": "Old Town Bridge Tower",
+"c": "night",
+"a": "카를교",
+"lat": 50.0862,
+"lng": 14.4135,
+"t": "카를교와 프라하 성을 한 컷에",
+"tip": "프라하에 20년 산 현지인 추천 카를교 뷰(참고 릴스). 다리 위보다 탑에서 내려다보면 빨간 지붕·블타바 강·카를교가 한눈에, 360도 전망. 12월 일몰 15:58 전후, 계단 138칸·엘리베이터 없음",
+"w": "Old Town Bridge Tower",
+"img": "img/btower.jpg",
+"links": [
+{
+"t": "인스타그램 릴스: 현지인 추천 카를교탑 뷰 (coffee.s2.oddish)",
+"u": "https://www.instagram.com/reel/DfC-MAez9sn/"
+}
+]
+},
+{
+"k": "klem",
+"n": "클레멘티눔 도서관",
+"en": "Klementinum",
+"c": "sight",
+"a": "구시가",
+"lat": 50.0865,
+"lng": 14.416,
+"t": "세계에서 가장 아름다운 도서관",
+"tip": "가이드 투어로만 입장(30분 간격, 약 50분). 천문탑 전망 포함. 도서관 내부 촬영 금지",
+"w": "Clementinum",
+"img": "img/klem.jpg"
+},
+{
+"k": "ots",
+"n": "구시가 광장",
+"en": "Old Town Square",
+"c": "sight",
+"a": "구시가",
+"lat": 50.0875,
+"lng": 14.4213,
+"t": "12월 크리스마스 마켓 메인 무대",
+"tip": "아침 9시 전엔 텅 빈 광장 사진 가능. 광장 주변 레스토랑은 관광지 가격",
+"w": "Old Town Square",
+"img": "img/xm-old.jpg"
+},
+{
+"k": "clock",
+"n": "천문시계·구시청사 탑",
+"en": "Astronomical Clock",
+"c": "sight",
+"a": "구시가",
+"lat": 50.087,
+"lng": 14.4206,
+"t": "매시 정각 인형극 (9~23시)",
+"tip": "인형극은 45초로 짧음. 10분 전 시계 정면 약간 오른쪽 자리 잡기. 탑 전망대는 엘리베이터 있음",
+"w": "Prague astronomical clock",
+"img": "img/clock.jpg"
+},
+{
+"k": "tyn",
+"n": "틴 성당",
+"en": "Church of Our Lady before Tyn",
+"c": "sight",
+"a": "구시가",
+"lat": 50.0877,
+"lng": 14.4227,
+"t": "쌍둥이 첨탑, 야간 조명",
+"tip": "크리스마스 트리 뒤 배경 성당. 내부는 운영시간 짧으니 외관 위주로",
+"w": "Church of Our Lady before Týn",
+"img": "img/tyn.jpg"
+},
+{
+"k": "powder",
+"n": "화약탑",
+"en": "Powder Tower",
+"c": "night",
+"a": "구시가",
+"lat": 50.0871,
+"lng": 14.4275,
+"t": "구시가로 들어가는 고딕 관문",
+"tip": "전망대는 계단 186칸. 숙소에서 구시가 갈 때 지나는 길",
+"w": "Powder Tower, Prague",
+"img": "img/powder.jpg"
+},
+{
+"k": "obecni",
+"n": "시민회관",
+"en": "Municipal House Prague",
+"c": "sight",
+"a": "구시가",
+"lat": 50.0874,
+"lng": 14.4283,
+"t": "아르누보 건축",
+"tip": "1층 카페(Kavárna Obecní dům)만 들어가도 내부 감상 가능. 무하 홀은 가이드 투어",
+"w": "Municipal House",
+"img": "img/obecni.jpg"
+},
+{
+"k": "havel",
+"n": "하벨 시장",
+"en": "Havelske trziste",
+"c": "sight",
+"a": "구시가",
+"lat": 50.0849,
+"lng": 14.4211,
+"t": "기념품·과일 노천시장",
+"tip": "마그넷·마리오네트 기념품 가격 비교용. 구시가 광장보다 저렴",
+"w": "Havel's Market"
+},
+{
+"k": "spanish",
+"n": "유대인 지구·스페인 시나고그",
+"en": "Spanish Synagogue",
+"c": "sight",
+"a": "유대인지구",
+"lat": 50.0902,
+"lng": 14.4189,
+"t": "금빛 무어 양식 내부",
+"tip": "⚠ 토요일 휴관(12/12 불가). 유대인 박물관 통합권으로 묘지·여러 시나고그 함께",
+"w": "Spanish Synagogue (Prague)",
+"img": "img/spanish.jpg"
+},
+{
+"k": "cemetery",
+"n": "구 유대인 묘지",
+"en": "Old Jewish Cemetery",
+"c": "sight",
+"a": "유대인지구",
+"lat": 50.0901,
+"lng": 14.4171,
+"t": "12겹으로 쌓인 묘비",
+"tip": "⚠ 토요일 휴관. 통합권으로 입장",
+"w": "Old Jewish Cemetery, Prague",
+"img": "img/cemetery.jpg"
+},
+{
+"k": "rudolf",
+"n": "루돌피눔",
+"en": "Rudolfinum",
+"c": "sight",
+"a": "유대인지구",
+"lat": 50.09,
+"lng": 14.4153,
+"t": "체코 필하모닉 공연장",
+"tip": "12월엔 크리스마스 콘서트가 많음. 공연 있는 날 저녁 데이트 코스",
+"w": "Rudolfinum",
+"img": "img/rudolf.jpg"
+},
+{
+"k": "kafkam",
+"n": "카프카 박물관",
+"en": "Franz Kafka Museum",
+"c": "sight",
+"a": "말라스트라나",
+"lat": 50.0883,
+"lng": 14.4105,
+"t": "오줌싸개 동상",
+"tip": "마당 동상은 무료로 볼 수 있음. 박물관은 취향 따라",
+"w": "Franz Kafka Museum",
+"img": "img/kafkam.jpg"
+},
+{
+"k": "cihelna",
+"n": "치헬나 강변 (헤르게토바 치헬나)",
+"en": "Hergetova Cihelna Prague",
+"c": "night",
+"a": "말라스트라나",
+"lat": 50.0879,
+"lng": 14.4113,
+"t": "카를교를 북쪽에서 정면으로 보는 강변 · 카프카 박물관 옆",
+"tip": "옛 벽돌공장 자리의 강변 테라스. 카를교와 구시가 교탑이 옆으로 길게 보이는 구도. 카프카 박물관 마당(오줌싸개 동상)과 붙어 있어 같이 보기 좋음",
+"links": [
+{
+"t": "위키백과 (카프카 박물관·헤르게토바 치헬나)",
+"u": "https://en.wikipedia.org/wiki/Franz_Kafka_Museum"
+}
+]
+},
+{
+"k": "wenc",
+"n": "바츨라프 광장",
+"en": "Wenceslas Square",
+"c": "sight",
+"a": "신시가",
+"lat": 50.081,
+"lng": 14.428,
+"t": "쇼핑 거리, 끝에 국립박물관",
+"tip": "숙소 앞. 환전소는 '0% 수수료' 문구라도 실제 환율 꼭 확인",
+"w": "Wenceslas Square",
+"img": "img/xm-wen.jpg"
+},
+{
+"k": "museum",
+"n": "국립박물관",
+"en": "National Museum Prague",
+"c": "sight",
+"a": "신시가",
+"lat": 50.0789,
+"lng": 14.4307,
+"t": "중앙 계단·돔 포토스팟",
+"tip": "10시 개관. 돔 아래 판테온과 계단만 봐도 충분. 숙소에서 도보 5분",
+"w": "National Museum (Prague)",
+"img": "img/museum.jpg"
+},
+{
+"k": "lucerna",
+"n": "루체르나 파사주",
+"en": "Lucerna Passage",
+"c": "sight",
+"a": "신시가",
+"lat": 50.0816,
+"lng": 14.4255,
+"t": "거꾸로 매달린 말 조형물",
+"tip": "비 오는 날 실내 동선. 숙소에서 도보 5분",
+"w": "Lucerna Palace",
+"img": "img/lucerna.jpg"
+},
+{
+"k": "mucha",
+"n": "무하 박물관 (사바린 궁전)",
+"en": "Mucha Museum Savarin Palace",
+"c": "sight",
+"a": "신시가",
+"lat": 50.0848,
+"lng": 14.4252,
+"t": "2025년 개관한 무하 재단 미술관 · 나 프르지코페 10 · 매일 10~18시",
+"tip": "프라하 무하 박물관은 두 곳. 이곳(사바린 궁전)이 2025년에 새로 연 더 큰 전시관이고, 1998년부터 있던 판스카 거리 원조관은 도보 3분 거리. 숙소에서 도보 8분",
+"w": "Mucha Museum (Savarin Palace)",
+"links": [
+{
+"t": "공식 사이트 (무하 재단 미술관)",
+"u": "https://www.mucha.eu/en"
+},
+{
+"t": "프라하 관광청 (사바린 궁전 무하 미술관)",
+"u": "https://prague.eu/en/objevujte/museum-of-alphonse-mucha-in-the-savarin-palace/"
+},
+{
+"t": "기사 (Expats.cz, 개관 소식)",
+"u": "https://www.expats.cz/czech-news/article/mucha-museum-opens-in-renovated-savarin-palace-in-prague"
+},
+{
+"t": "판스카 거리 원조관 공식 사이트",
+"u": "https://www.mucha.cz/en"
+}
+],
+"img": "img/mucha.jpg"
+},
+{
+"k": "kafkah",
+"n": "카프카 회전 머리",
+"en": "Head of Franz Kafka",
+"c": "sight",
+"a": "신시가",
+"lat": 50.082,
+"lng": 14.4199,
+"t": "움직이는 조형물",
+"tip": "정시마다 회전 쇼. 쿼드리오 쇼핑몰 지하철역 위",
+"w": "Head of Franz Kafka",
+"img": "img/kafkah.jpg"
+},
+{
+"k": "national",
+"n": "국립극장",
+"en": "National Theatre Prague",
+"c": "sight",
+"a": "신시가",
+"lat": 50.0811,
+"lng": 14.4136,
+"t": "오페라·발레",
+"tip": "12월 호두까기 인형 공연 시즌. 공연 표는 국립극장 공식 사이트에서",
+"w": "National Theatre (Prague)",
+"img": "img/national.jpg"
+},
+{
+"k": "dancing",
+"n": "댄싱 하우스",
+"en": "Dancing House",
+"c": "sight",
+"a": "신시가",
+"lat": 50.0755,
+"lng": 14.4141,
+"t": "루프탑 글래스바 강변 뷰",
+"tip": "꼭대기 Glass Bar는 음료 주문하면 테라스 입장. 외관만이면 강 건너편에서 찍기",
+"w": "Dancing House",
+"img": "img/dancing.jpg"
+},
+{
+"k": "naplavka",
+"n": "나플라브카 강변",
+"en": "Naplavka",
+"c": "night",
+"a": "신시가",
+"lat": 50.071,
+"lng": 14.414,
+"t": "토요일 오전 파머스마켓",
+"tip": "겨울엔 바지선 바들이 일부만 영업",
+"w": "Náplavka"
+},
+{
+"k": "petrin",
+"n": "페트르진 전망대",
+"en": "Petrin Lookout Tower",
+"c": "sight",
+"a": "말라스트라나",
+"lat": 50.0836,
+"lng": 14.3951,
+"t": "미니 에펠탑 · 푸니쿨라 2026.9.22 재개통",
+"tip": "푸니쿨라 약 2년 만에 재개통(차량·선로 새로 교체). 탑승장 Újezd(트램 22번), 매일 07:00~22:15, 약 10분 간격. 1회권 100코루나(PID 앱 90), 24·72시간권 소지 시 추가요금 없음. 오전 9시 전 추천(10:30엔 100명 넘게 줄). 카페 사보이 바로 옆 정류장",
+"w": "Petřín Lookout Tower",
+"img": "img/petrin.jpg",
+"links": [
+{
+"t": "인스타그램 릴스: 페트르진 푸니쿨라 재개통 (morningprague)",
+"u": "https://www.instagram.com/reel/DdoirRHA131/"
+}
+]
+},
+{
+"k": "letna",
+"n": "레트나 공원 전망",
+"en": "Letna Park Metronome",
+"c": "night",
+"a": "레트나",
+"lat": 50.095,
+"lng": 14.4165,
+"t": "다리들이 겹쳐 보이는 대표 뷰",
+"tip": "메트로놈 옆 난간이 포인트. 해질녘 추천",
+"w": "Letná",
+"img": "img/letna.jpg"
+},
+{
+"k": "vyse",
+"n": "비셰흐라드",
+"en": "Vysehrad",
+"c": "sight",
+"a": "비셰흐라드",
+"lat": 50.0643,
+"lng": 14.4195,
+"t": "성 베드로·바울 성당, 성벽 전망",
+"tip": "지하철 C선 Vyšehrad역에서 도보 10분. 무하·드보르작 묘지",
+"w": "Vyšehrad",
+"img": "img/vyse.jpg"
+},
+{
+"k": "riegrovy",
+"n": "리에그로비 사디",
+"en": "Riegrovy sady",
+"c": "night",
+"a": "비노흐라디",
+"lat": 50.079,
+"lng": 14.443,
+"t": "현지인 일몰 명소",
+"tip": "숙소에서 도보 15분. 겨울엔 비어가든 휴업",
+"w": "Riegrovy sady"
+},
+{
+"k": "zizkov",
+"n": "지슈코프 TV타워",
+"en": "Zizkov Television Tower",
+"c": "sight",
+"a": "지슈코프",
+"lat": 50.0809,
+"lng": 14.451,
+"t": "기어오르는 아기 조형물",
+"tip": "93m 전망대. 시내 전체 조망",
+"w": "Žižkov Television Tower",
+"img": "img/zizkov.jpg"
+},
+{
+"k": "novot",
+"n": "노보트네호 랍카",
+"en": "Novotneho lavka",
+"c": "night",
+"a": "카를교",
+"lat": 50.0853,
+"lng": 14.4127,
+"t": "카를교+프라하 성 야경 정면 뷰",
+"tip": "카를교 구시가 쪽 입구 왼편 골목 끝 테라스. 야경 사진 1순위 자리",
+"w": "Novotného lávka"
+},
+{
+"k": "manes",
+"n": "마네수프 다리",
+"en": "Manes Bridge",
+"c": "night",
+"a": "구시가",
+"lat": 50.0893,
+"lng": 14.4145,
+"t": "성 야경+카를교 함께",
+"tip": "쿤스트할레 카페 갈 때 건너는 다리",
+"w": "Mánes Bridge",
+"img": "img/manes.jpg"
+},
+{
+"k": "pier",
+"n": "블타바 유람선 선착장",
+"en": "Cechuv most boat pier",
+"c": "night",
+"a": "유대인지구",
+"lat": 50.092,
+"lng": 14.4175,
+"t": "야경 디너 크루즈 출발",
+"tip": "겨울엔 실내 유리창 크루즈. 1시간짜리 야경 크루즈면 충분"
+},
+{
+"k": "porks-v",
+"n": "포크스 보디치코바",
+"en": "Pork's Vodickova",
+"c": "food",
+"m": "점심",
+"a": "신시가",
+"lat": 50.08,
+"lng": 14.4222,
+"t": "꼴레뇨 · 시트 점심 장소 (구글 평점 4.7)",
+"tip": "예약 필수. 꼴레뇨는 2인 1개면 충분. 오전 동선(구시가 광장)에서 도보 약 15분, 식사 후 카페 루브르까지 도보 6분. 2호점이라 리뷰는 적지만 본점(4.6점)과 같은 브랜드"
+},
+{
+"k": "lokal",
+"n": "로칼 들로우하",
+"en": "Lokal Dlouhaaa",
+"c": "food",
+"m": "점심·저녁",
+"a": "구시가",
+"lat": 50.0901,
+"lng": 14.4258,
+"t": "탱크 필스너, 슈니첼·굴라쉬",
+"tip": "앰비언트 그룹 체인이라 관리가 꾸준하고 깔끔. 맥주잔에 연필로 표시하며 계산. 저녁은 예약 추천(공식 사이트 온라인 예약)"
+},
+{
+"k": "flek",
+"n": "우 플레쿠",
+"en": "U Fleku",
+"c": "food",
+"m": "저녁",
+"a": "신시가",
+"lat": 50.0786,
+"lng": 14.4171,
+"t": "1499년부터 양조한 흑맥주",
+"tip": "관광객이 많아 서비스가 불친절하다는 후기가 많음. 웨이터가 권하는 베헤로브카 샷은 유료(거절 가능). 이번 동선에서는 제외",
+"w": "U Fleků",
+"img": "img/flek.jpg"
+},
+{
+"k": "porks",
+"n": "포크스 (말라스트라나)",
+"en": "Pork's Prague Mostecka",
+"c": "food",
+"m": "점심·저녁",
+"a": "말라스트라나",
+"lat": 50.0866,
+"lng": 14.4058,
+"t": "꼴레뇨, 카를교 앞 · 12:00~23:30",
+"tip": "Mostecká 16. 2인 꼴레뇨 1개면 충분, 예약 추천"
+},
+{
+"k": "mlejnice",
+"n": "믈레니체",
+"en": "Mlejnice Prague",
+"c": "food",
+"m": "점심·저녁",
+"a": "구시가",
+"lat": 50.0858,
+"lng": 14.4199,
+"t": "한국인 꼴레뇨 맛집 · 구시가 광장 도보 3분 (Kožná 14)",
+"tip": "양 많고 가격 착함. 코젤 흑맥주. 예약 추천, 카드 안 받는다는 후기 있어 현금 준비",
+"links": [
+{
+"t": "레스토랑 소개 (Vanupied)",
+"u": "https://www.vanupied.com/prague/restaurant-prague/mlejnice-restaurant-prague.html"
+},
+{
+"t": "레스토랑 정보 (Cityzeum)",
+"u": "https://www.cityzeum.com/mlejnice"
+}
+]
+},
+{
+"k": "kroka",
+"n": "우 크로카",
+"en": "U Kroka",
+"c": "food",
+"m": "저녁",
+"a": "비셰흐라드",
+"lat": 50.066,
+"lng": 14.417,
+"t": "오리·꼴레뇨",
+"tip": "예약 필수. 비셰흐라드와 묶어서"
+},
+{
+"k": "nase",
+"n": "나셰 마소",
+"en": "Nase maso",
+"c": "food",
+"m": "점심",
+"a": "구시가",
+"lat": 50.0905,
+"lng": 14.4262,
+"t": "정육점 버거·미트로프",
+"tip": "좌석이 몇 개 없어 점심 피크 전 11:30 방문"
+},
+{
+"k": "kolkovna",
+"n": "콜코브나 첼니체",
+"en": "Kolkovna Celnice",
+"c": "food",
+"m": "점심·저녁",
+"a": "구시가",
+"lat": 50.0879,
+"lng": 14.4307,
+"t": "필스너 직영",
+"tip": "필스너 우르켈 직영. 넓고 현대적인 인테리어, 숙소에서 도보 8분. 로칼이 만석일 때 대안"
+},
+{
+"k": "medv",
+"n": "우 메드비드쿠",
+"en": "U Medvidku",
+"c": "food",
+"m": "점심·저녁",
+"a": "구시가",
+"lat": 50.0834,
+"lng": 14.4196,
+"t": "자가양조 X-Beer",
+"tip": "양조장 펍 쪽에서 소량 생산 맥주 시음"
+},
+{
+"k": "mlynec",
+"n": "믈리네츠",
+"en": "Mlynec restaurant Prague",
+"c": "food",
+"m": "저녁",
+"a": "카를교",
+"lat": 50.0857,
+"lng": 14.4144,
+"t": "카를교 뷰 파인다이닝 (Novotného lávka 9)",
+"tip": "예약 시 '창가 카를교 뷰' 요청 + 허니문 메모. 스마트 캐주얼"
+},
+{
+"k": "pinkas",
+"n": "우 핀카수",
+"en": "U Pinkasu",
+"c": "food",
+"m": "점심·저녁",
+"a": "신시가",
+"lat": 50.0838,
+"lng": 14.4239,
+"t": "필스너 첫 판매 펍",
+"tip": "숙소에서 도보 8분"
+},
+{
+"k": "mincovna",
+"n": "민코브나",
+"en": "Restaurace Mincovna",
+"c": "food",
+"m": "점심·저녁",
+"a": "구시가",
+"lat": 50.0868,
+"lng": 14.4215,
+"t": "구시가 광장 바로 옆",
+"tip": "마켓 구경하다 들어가기 좋은 위치"
+},
+{
+"k": "krcma",
+"n": "크르치마",
+"en": "Krcma Prague",
+"c": "food",
+"m": "저녁",
+"a": "유대인지구",
+"lat": 50.0893,
+"lng": 14.4193,
+"t": "동굴 분위기 중세 레스토랑",
+"tip": "지하라 겨울에 아늑함. 예약 추천"
+},
+{
+"k": "glaub",
+"n": "우 글라우비추",
+"en": "U Glaubicu",
+"c": "food",
+"m": "점심·저녁",
+"a": "말라스트라나",
+"lat": 50.088,
+"lng": 14.404,
+"t": "말라스트라나 광장 꼴레뇨",
+"tip": "성 관람 후 내려와서 점심"
+},
+{
+"k": "strbrew",
+"n": "스트라호프 수도원 양조장",
+"en": "Strahov Monastic Brewery",
+"c": "food",
+"m": "점심",
+"a": "흐라드차니",
+"lat": 50.0868,
+"lng": 14.3888,
+"t": "수도원 맥주 성 노르베르트",
+"tip": "도서관 바로 옆",
+"w": "Strahov Monastery",
+"img": "img/strahov.jpg"
+},
+{
+"k": "havelk",
+"n": "하벨스카 코루나",
+"en": "Havelska Koruna",
+"c": "food",
+"m": "점심",
+"a": "구시가",
+"lat": 50.0848,
+"lng": 14.4207,
+"t": "셀프 배식 체코 가정식",
+"tip": "주문표 받아 나갈 때 계산. 표 잃어버리면 벌금"
+},
+{
+"k": "bredov",
+"n": "브레도프스키 드부르",
+"en": "Bredovsky dvur",
+"c": "food",
+"m": "점심·저녁",
+"a": "신시가",
+"lat": 50.0817,
+"lng": 14.431,
+"t": "빵 그릇 굴라쉬",
+"tip": "숙소 바로 옆. 드레스덴 다녀온 밤 늦은 식사 후보"
+},
+{
+"k": "kalich",
+"n": "우 칼리하",
+"en": "U Kalicha",
+"c": "food",
+"m": "저녁",
+"a": "신시가",
+"lat": 50.0743,
+"lng": 14.4258,
+"t": "소설 슈베이크의 단골 술집",
+"tip": "관광객 대상이라 가격대 있음"
+},
+{
+"k": "parl",
+"n": "우 파를라멘투",
+"en": "U Parlamentu",
+"c": "food",
+"m": "점심·저녁",
+"a": "유대인지구",
+"lat": 50.0886,
+"lng": 14.4176,
+"t": "현지인 가성비 펍",
+"tip": "유대인 지구 관람 후 점심"
+},
+{
+"k": "kantyna",
+"n": "칸티나",
+"en": "Kantyna Prague",
+"c": "food",
+"m": "점심·저녁",
+"a": "신시가",
+"lat": 50.0825,
+"lng": 14.4302,
+"t": "정육점 다이닝 · 12/9 저녁",
+"tip": "숙소 바로 앞. 카운터에서 고기 골라 주문, 스탠딩석도 있음"
+},
+{
+"k": "zlstud",
+"n": "테라사 우 즐라테 스투드녜",
+"en": "Terasa U Zlate studne",
+"c": "food",
+"m": "저녁",
+"a": "말라스트라나",
+"lat": 50.0912,
+"lng": 14.4048,
+"t": "붉은 지붕 파노라마",
+"tip": "겨울엔 실내석. 해 지기 전 점심 코스가 뷰는 더 좋음"
+},
+{
+"k": "kampap",
+"n": "캄파 파크",
+"en": "Kampa Park",
+"c": "food",
+"m": "저녁",
+"a": "말라스트라나",
+"lat": 50.0862,
+"lng": 14.4102,
+"t": "카를교 아래 리버뷰",
+"tip": "믈레니체 대안. 창가석 요청"
+},
+{
+"k": "zlpraha",
+"n": "즐라타 프라하 (페어몬트 골든 프라하)",
+"en": "Zlata Praha Fairmont Golden Prague",
+"c": "food",
+"m": "저녁",
+"a": "유대인지구",
+"lat": 50.0915,
+"lng": 14.419,
+"t": "호텔 루프탑 레스토랑 · 옛 인터컨티넨탈",
+"tip": "전망 위주. 일요일 브런치도 유명"
+},
+{
+"k": "modra",
+"n": "우 모드레 카흐니치키",
+"en": "U Modre kachnicky",
+"c": "food",
+"m": "저녁",
+"a": "말라스트라나",
+"lat": 50.0858,
+"lng": 14.4045,
+"t": "오리 요리, 로맨틱 (Nebovidská 6)",
+"tip": "작은 곳이라 예약 필수"
+},
+{
+"k": "field",
+"n": "필드",
+"en": "Field restaurant Prague",
+"c": "food",
+"m": "저녁",
+"a": "구시가",
+"lat": 50.0905,
+"lng": 14.4229,
+"t": "미쉐린 스타",
+"tip": "테이스팅 메뉴. 몇 주 전 예약"
+},
+{
+"k": "pho",
+"n": "포 비엣남 뚜언 & 란",
+"en": "Pho Vietnam Tuan & Lan",
+"c": "food",
+"m": "점심",
+"a": "비노흐라디",
+"lat": 50.0757,
+"lng": 14.4334,
+"t": "쌀국수",
+"tip": "숙소에서 도보 10분. 현금 준비"
+},
+{
+"k": "krusta",
+"n": "크루스타 베이커리",
+"en": "KRUSTA bakery Vodickova",
+"c": "cafe",
+"a": "신시가",
+"lat": 50.0803,
+"lng": 14.4232,
+"t": "굴뚝빵 · 시트에 있는 간식 장소",
+"tip": "Vodičkova 11 (주소 출처마다 다름). 브런치·빵. 포크스 보디치코바와 같은 거리"
+},
+{
+"k": "kunst",
+"n": "쿤스트할레 프라하 카페",
+"en": "Kunsthalle Praha Cafe",
+"c": "cafe",
+"a": "말라스트라나",
+"lat": 50.0905,
+"lng": 14.4108,
+"t": "시트 추천 · 미술관 1층 카페",
+"tip": "화요일 휴무, 월·목~일 11~19시, 수 11~21시. 성 관람 후 점심 겸 카페로",
+"w": "Kunsthalle Praha",
+"img": "img/kunst.jpg"
+},
+{
+"k": "aria",
+"n": "아리아 호텔 루프탑",
+"en": "Aria Hotel Prague rooftop",
+"c": "cafe",
+"a": "말라스트라나",
+"lat": 50.087,
+"lng": 14.4028,
+"t": "시트 추천 · 성 니콜라스 돔 뷰",
+"tip": "루프탑 테라스는 계절 운영이라 12월엔 실내만일 수 있음. 방문 전 호텔에 확인"
+},
+{
+"k": "louvre",
+"n": "카페 루브르",
+"en": "Cafe Louvre",
+"c": "cafe",
+"a": "신시가",
+"lat": 50.082,
+"lng": 14.4183,
+"t": "카프카·아인슈타인 단골",
+"tip": "2층. 아침 8시부터. 브런치·케이크",
+"w": "Café Louvre"
+},
+{
+"k": "slavia",
+"n": "카페 슬라비아",
+"en": "Cafe Slavia",
+"c": "cafe",
+"a": "신시가",
+"lat": 50.0814,
+"lng": 14.4135,
+"t": "창가석에서 블타바·성 뷰",
+"tip": "창가석 요청. 국립극장 맞은편",
+"w": "Café Slavia",
+"img": "img/slavia.jpg"
+},
+{
+"k": "savoy",
+"n": "카페 사보이",
+"en": "Cafe Savoy",
+"c": "cafe",
+"a": "말라스트라나",
+"lat": 50.0806,
+"lng": 14.4072,
+"t": "화려한 천장, 브런치",
+"tip": "주말 브런치는 예약 추천"
+},
+{
+"k": "imperial",
+"n": "카페 임페리얼",
+"en": "Cafe Imperial",
+"c": "cafe",
+"a": "신시가",
+"lat": 50.0897,
+"lng": 14.4318,
+"t": "아르데코 타일 모자이크",
+"tip": "아침 7시부터. 12/13 출발일 아침 식사 후보 (숙소 도보 12분)",
+"w": "Café Imperial"
+},
+{
+"k": "ifcafe",
+"n": "IF 카페 (틸로보 광장점)",
+"en": "IF Cafe Tylovo namesti Prague",
+"c": "cafe",
+"a": "비노흐라디",
+"lat": 50.0741,
+"lng": 14.4322,
+"t": "프렌치 파티스리 디저트 카페 · 매일 8~20시 · 숙소에서 도보 8분",
+"tip": "파티시에 이베타 파베쇼바의 디저트 카페. 지점이 여러 곳(캄파 섬 베리흐 빌라, 마사리치카역, 융만노바 등)인데 출발일 아침 동선엔 숙소와 가까운 틸로보 광장점이 맞음. 브런치 메뉴도 있음",
+"links": [
+{
+"t": "카페 정보 (In Your Pocket)",
+"u": "https://www.inyourpocket.com/czech-republic/prague/venues/if-cafe"
+},
+{
+"t": "프라하 관광청 (베리흐 빌라점)",
+"u": "https://prague.eu/en/objevujte/iveta-fabesova-cafe-werich-villa/"
+},
+{
+"t": "프라하 관광청 (마사리치카점)",
+"u": "https://prague.eu/en/objevujte/iveta-fabesova-cafe-masarycka/"
+}
+]
+},
+{
+"k": "orient",
+"n": "그랜드 카페 오리엔트",
+"en": "Grand Cafe Orient",
+"c": "cafe",
+"a": "구시가",
+"lat": 50.0866,
+"lng": 14.4258,
+"t": "큐비즘 건물 2층",
+"tip": "검은 성모의 집 2층. 크림 케이크 '쿠비스티츠키 브레티스'",
+"w": "House of the Black Madonna",
+"img": "img/orient.jpg"
+},
+{
+"k": "cukr",
+"n": "추크르 카바 리모나다",
+"en": "Cukrkavalimonada",
+"c": "cafe",
+"a": "말라스트라나",
+"lat": 50.0868,
+"lng": 14.4068,
+"t": "페인팅 천장 브런치",
+"tip": "작은 곳이라 브런치 시간 대기 있음"
+},
+{
+"k": "sbux",
+"n": "스타벅스 프라하 성",
+"en": "Starbucks Prague Castle",
+"c": "cafe",
+"a": "흐라드차니",
+"lat": 50.0896,
+"lng": 14.3985,
+"t": "성 입구 테라스 시내 전망",
+"tip": "겨울엔 테라스가 추움. 사진만 찍고 이동해도 OK"
+},
+{
+"k": "ema",
+"n": "EMA 에스프레소 바",
+"en": "EMA espresso bar",
+"c": "cafe",
+"a": "신시가",
+"lat": 50.0899,
+"lng": 14.4352,
+"t": "스페셜티 커피",
+"tip": "좌석 적음, 테이크아웃 위주. 산미 있는 라이트 로스팅 스페셜티 위주라 산미를 싫어하면 비추천"
+},
+{
+"k": "goodfood",
+"n": "굿 푸드 커피 & 베이커리",
+"en": "Good Food Coffee & Bakery Karlova",
+"c": "cafe",
+"a": "구시가",
+"lat": 50.0862,
+"lng": 14.4178,
+"t": "아이스크림 굴뚝빵",
+"tip": "굴뚝빵은 체코 전통이 아닌 관광 간식. 사진용으로 하나 나눠 먹기"
+},
+{
+"k": "angel",
+"n": "안젤라토",
+"en": "Angelato Prague",
+"c": "cafe",
+"a": "구시가",
+"lat": 50.0849,
+"lng": 14.4227,
+"t": "수제 젤라토",
+"tip": "겨울엔 영업시간 단축"
+},
+{
+"k": "bake",
+"n": "베이크숍",
+"en": "Bakeshop Praha",
+"c": "cafe",
+"a": "구시가",
+"lat": 50.0902,
+"lng": 14.4232,
+"t": "키시·케이크",
+"tip": "아침 식사·테이크아웃"
+},
+{
+"k": "mistral",
+"n": "카페 미스트랄",
+"en": "Cafe Mistral",
+"c": "cafe",
+"a": "유대인지구",
+"lat": 50.0884,
+"lng": 14.4178,
+"t": "조용한 브런치",
+"tip": "클레멘티눔 투어 전후"
+},
+{
+"k": "lounge",
+"n": "카페 라운지",
+"en": "Cafe Lounge Plaska",
+"c": "cafe",
+"a": "말라스트라나",
+"lat": 50.0793,
+"lng": 14.4065,
+"t": "현지인 브런치",
+"tip": "관광 동선에선 약간 벗어남"
+},
+{
+"k": "heming",
+"n": "헤밍웨이 바",
+"en": "Hemingway Bar Prague",
+"c": "night",
+"a": "구시가",
+"lat": 50.0846,
+"lng": 14.4147,
+"t": "세계 50대 바",
+"tip": "예약 추천(작음). 믈레니체에서 도보 3분, 디너 후 2차로"
+},
+{
+"k": "tanker",
+"n": "T-Anker 루프탑",
+"en": "T-Anker",
+"c": "night",
+"a": "구시가",
+"lat": 50.0897,
+"lng": 14.4288,
+"t": "코트바 백화점 옥상",
+"tip": "겨울엔 실내석 위주"
+},
+{
+"k": "letnabg",
+"n": "레트나 비어가든",
+"en": "Letna Beer Garden",
+"c": "night",
+"a": "레트나",
+"lat": 50.0958,
+"lng": 14.4191,
+"t": "일몰 맥주",
+"tip": "겨울엔 휴업 가능성 높음"
+},
+{
+"k": "ramovani",
+"n": "라모바니-흐라치키 (기념품 가게)",
+"en": "Ramovani-Hracky Havelska 512",
+"c": "sight",
+"a": "구시가",
+"lat": 50.0848,
+"lng": 14.4216,
+"t": "하벨 시장 거리 기념품 가게 · 구글 평점 4.8",
+"tip": "여러 기념품 가게를 비교한 릴스 기준 같은 제품도 가장 저렴했던 곳. 패트와 매트 열쇠고리 약 6,000원. Havelská 512 (호텔 콜로세움 건물), 19시 영업 종료(구글 지도 기준)",
+"links": [
+{
+"t": "인스타그램 릴스: 프라하 여행 꿀팁·기념품 가게 (d_berlin_k)",
+"u": "https://www.instagram.com/reel/Db2uTPPo752/"
+}
+]
+},
+{
+"k": "kozlovna",
+"n": "코즐로브나 아프로포스",
+"en": "Kozlovna Apropos",
+"c": "food",
+"m": "점심·저녁",
+"a": "구시가",
+"lat": 50.0886,
+"lng": 14.4155,
+"t": "코젤 맥주 직영 펍 · 폭립",
+"tip": "릴스 추천: 폭립(Roasted Pork Ribs, 600g 약 395코루나·2만6천원, 둘이 하나면 충분) + 비프 타르타르, 작은 샐러드 곁들이기. 굴라쉬는 비추천이라는 후기. 코즐로브나는 지점이 여러 곳이라 방문 지점 확인",
+"links": [
+{
+"t": "인스타그램 릴스: 코즐로브나 폭립 추천 (d_berlin_k)",
+"u": "https://www.instagram.com/reel/Db2uTPPo752/"
+}
+]
+},
+{
+"k": "jazzdock",
+"n": "재즈독",
+"en": "JazzDock Prague",
+"c": "night",
+"a": "신시가",
+"lat": 50.0745,
+"lng": 14.4108,
+"t": "블타바 강 위 선상 재즈 바",
+"tip": "강변 유리창 너머 야경과 라이브 재즈. 공연 일정·예약은 공식 사이트 확인",
+"links": [
+{
+"t": "인스타그램 릴스: 프라하 4박 5일 일정표 (by_lalahyun)",
+"u": "https://www.instagram.com/reel/DeBRLDuJJlU/"
+}
+]
+},
+{
+"k": "palladium",
+"n": "팔라디움 쇼핑몰",
+"en": "Palladium Praha",
+"c": "sight",
+"a": "구시가",
+"lat": 50.0893,
+"lng": 14.429,
+"t": "공화국 광장 대형 쇼핑몰",
+"tip": "비 오거나 추울 때 실내 쇼핑. 화약탑·시민회관 바로 옆",
+"links": [
+{
+"t": "인스타그램 릴스: 프라하 4박 5일 일정표 (by_lalahyun)",
+"u": "https://www.instagram.com/reel/DeBRLDuJJlU/"
+}
+]
+},
+{
+"k": "planetum",
+"n": "플라네툼 (돔 영화관)",
+"en": "Planetum Prague Planetarium",
+"c": "night",
+"a": "레트나",
+"lat": 50.1049,
+"lng": 14.4249,
+"t": "천문관 돔에서 보는 영화·별자리 프로그램",
+"tip": "스트로모프카 공원 안이라 시내 동선과 떨어져 있음. 2026.11.24 기준 공식 프로그램은 12/5까지만 공개(12/9~13 미공개). 토요일 예시: 11:00·13:30·15:00·18:00·19:30 상영, 저녁 회차는 매진이 잦아 공개되면 바로 예매. 영어는 이어폰 제공. 강의 같았다는 후기도 있어 상영작 확인",
+"links": [
+{
+"t": "인스타그램 릴스: 별빛 아래 영화관 플라네툼 (thesewinj)",
+"u": "https://www.instagram.com/reel/DeglhaOhRnB/"
+}
+]
+}
+]

@@ -1,0 +1,143 @@
+{
+"castle": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/prague-castle-prazsky-hrad/"},
+ {"t":"체코관광청","u":"https://www.visitczechia.com/ko-kr/things-to-do/places/landmarks/castles-and-ruins/c-prague-castle"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%ED%94%84%EB%9D%BC%ED%95%98%EC%84%B1"},
+ {"t":"공식 사이트 (휴관 공지)","u":"https://hrad.cz/en/prague-castle-for-visitors/archive-of-closures"}],
+ "note":"11~3월 주요 건물은 9:00~16:00 운영, 티켓은 2일 유효하지만 건물당 1회만 입장 가능."},
+"vitus": {"links": [
+ {"t":"공식 사이트","u":"https://hrad.cz/en/prague-castle-for-visitors/objects-for-visitors/st.-vitus-cathedral-10330"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/prague-castle-cathedral-of-st-vitus-st-wenceslas-and-st-adalbert/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EC%84%B1_%EB%B9%84%ED%88%AC%EC%8A%A4_%EB%8C%80%EC%84%B1%EB%8B%B9"}],
+ "note":"무료는 입구 쪽 일부뿐이고 본당 관람은 프라하 성 통합권 필요, 겨울 일요일은 12:00부터 개방."},
+"golden": {"links": [
+ {"t":"공식 사이트","u":"https://hrad.cz/en/prague-castle-for-visitors/objects-for-visitors/golden-lane-10334"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/prague-castle-golden-lane-zlata-ulicka/"},
+ {"t":"체코관광청","u":"https://www.visitczechia.com/ko-kr/things-to-do/places/culture/traditional-crafts/c-prague-zlata-ulicka-golden-lane"},
+ {"t":"위키백과","u":"https://en.wikipedia.org/wiki/Golden_Lane"}]},
+"strahov": {"links": [
+ {"t":"공식 사이트","u":"https://www.strahovskyklaster.cz/en/for-visitors/what-you-can-visit/strahov-library"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/strahov-library-theological-hall-philosophical-hall-strahovska-knihovna/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8A%B8%EB%9D%BC%ED%98%B8%ED%94%84_%EC%88%98%EB%8F%84%EC%9B%90"}],
+ "note":"매일 9:00~17:00(마지막 입장 16:30경), 12월 24·25일과 부활절 일요일 휴관."},
+"loreta": {"links": [
+ {"t":"공식 사이트","u":"https://www.loreta.cz/en/loreto-museum/opening-hours"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/loreto-loreta/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A0%88%ED%83%80_(%ED%94%84%EB%9D%BC%ED%95%98)"}],
+ "note":"공식 사이트 기준 매일 10:00~17:00 운영."},
+"nerudova": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/nerudova-street"},
+ {"t":"론리플래닛","u":"https://www.lonelyplanet.com/points-of-interest/nerudova/1264551"}]},
+"nicholas": {"links": [
+ {"t":"공식 사이트","u":"https://www.stnicholas.cz/en/about-the-church/"},
+ {"t":"체코관광청","u":"https://www.visitczechia.com/en-us/things-to-do/places/landmarks/religious-monuments/c-prague-st-nicholas-church-lesser-town"}]},
+"wallen": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/wallenstein-garden-valdstejnska-zahrada/"},
+ {"t":"프라하 관광청 (발트슈테인 궁전)","u":"https://prague.eu/en/objevujte/wallenstein-palace-valdstejnsky-palac/"}],
+ "note":"정원은 4~10월에만 개방(무료)이라 겨울에는 닫혀 있고, 상원 행사로 예고 없이 닫히기도 함."},
+"vrtba": {"links": [
+ {"t":"공식 사이트","u":"https://vrtbovska.cz/en/opening-hours"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/vrtba-garden-vrtbovska-zahrada/"}],
+ "note":"3월 말~10월 시즌에만 개방(유료)이므로 11~3월에는 휴원."},
+"lennon": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/john-lennon-wall-zed-johna-lennona/"},
+ {"t":"체코관광청","u":"https://visitczechia.com/en-us/things-to-do/places/landmarks/urban-architecture/c-prague-john-lennon-wall"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EB%A0%88%EB%85%BC_%EB%B2%BD"}],
+ "note":"2019년 정비 후 스프레이 낙서는 금지되고 연필·분필로만 남길 수 있음."},
+"kampa": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/kampa/"},
+ {"t":"체코관광청","u":"https://www.visitczechia.com/en-US/Things-to-Do/Places/Landmarks/Urban-architecture/c-prague-kampa-island"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EC%BA%84%ED%8C%8C%EC%84%AC"}]},
+"charles": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/charles-bridge-karluv-most/"},
+ {"t":"프라하 관광청 (구시가 교탑)","u":"https://prague.eu/en/objevujte/old-town-bridge-tower-staromestska-mostecka-vez/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A5%BC%EA%B5%90"}]},
+"klem": {"links": [
+ {"t":"공식 사이트","u":"https://www.klementinum.com/en/"},
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/object/places/4072/the-clementinum-baroque-library-barokni-knihovna-klementina"},
+ {"t":"체코 국립도서관","u":"https://www.nkp.cz/en/events/astronomical-tower-and-baroque-library"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%ED%81%B4%EB%A0%88%EB%A9%98%ED%8B%B0%EB%88%94"}],
+ "note":"가이드 투어(약 50분)로만 입장, 바로크 도서관은 입구에서만 볼 수 있고 엘리베이터 없이 계단이 많음."},
+"ots": {"links": [
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/object/places/23/old-town-square-staromestske-namesti"},
+ {"t":"체코관광청","u":"https://www.visitczechia.com/en-us/things-to-do/places/landmarks/urban-architecture/c-prague-old-town-square"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EA%B5%AC%EC%8B%9C%EA%B0%80_%EA%B4%91%EC%9E%A5"}],
+ "note":"크리스마스 마켓이 2027년 초까지 열린다고 관광청이 안내."},
+"clock": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/old-town-hall-with-astronomical-clock/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%ED%94%84%EB%9D%BC%ED%95%98_%EC%B2%9C%EB%AC%B8%EC%8B%9C%EA%B3%84"},
+ {"t":"위키백과 (구 시청사)","u":"https://ko.wikipedia.org/wiki/%EA%B5%AC_%EC%8B%9C%EC%B2%AD%EC%82%AC_(%ED%94%84%EB%9D%BC%ED%95%98)"}],
+ "note":"공식 티켓은 프라하 관광청(ColosseumTicket)에서만 판매하고 다른 경로 티켓은 무효일 수 있으며, 오픈 후 첫 1시간 50% 할인."},
+"tyn": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/church-of-our-lady-before-tyn/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%ED%8B%B4_%EC%9D%B4%EC%A0%84%EC%9D%98_%EC%84%B1%EB%AA%A8_%EA%B5%90%ED%9A%8C"}],
+ "note":"관광청 기준 월·일 휴무, 화~토 10:00~13:00·15:00~17:00, 미사 중 관람 불가."},
+"obecni": {"links": [
+ {"t":"공식 사이트","u":"https://obecnidum.cz/en/visits"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/municipal-house-obecni-dum/"}],
+ "note":"내부는 약 1시간 가이드 투어(영어 가능)로만 관람, 공식 사이트나 매표소에서 예매."},
+"havel": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/havelsky-market"},
+ {"t":"체코관광청","u":"https://www.visitczechia.com/nl-nl/things-to-do/places/experiences/shopping-and-design/c-havelske-market"}]},
+"spanish": {"links": [
+ {"t":"공식 사이트","u":"https://jewishmuseum.cz/en/explore/sites/spanish-synagogue"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/jewish-museum-in-prague-spanish-synagogue-spanelska-synagoga/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8E%98%EC%9D%B8_%EC%8B%9C%EB%82%98%EA%B3%A0%EA%B7%B8"},
+ {"t":"위키백과 (요세포프)","u":"https://ko.wikipedia.org/wiki/%EC%9A%94%EC%84%B8%ED%8F%AC%ED%94%84"}]},
+"cemetery": {"links": [
+ {"t":"공식 사이트","u":"https://www.jewishmuseum.cz/en/visit/old-jewish-cemetery/"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/jewish-museum-in-prague-old-jewish-cemetery-stary-zidovsky-hrbitov/"},
+ {"t":"체코관광청","u":"https://www.visitczechia.com/en-us/things-to-do/places/landmarks/jewish-monuments/c-prague-old-jewish-cemetery"},
+ {"t":"위키백과","u":"https://en.wikipedia.org/wiki/Old_Jewish_Cemetery,_Prague"}]},
+"rudolf": {"links": [
+ {"t":"공식 사이트","u":"https://www.rudolfinum.cz/en/tours/"},
+ {"t":"체코관광청","u":"https://visitczechia.com/en-us/things-to-do/places/culture/theater-and-music/c-prague-rudolfinum"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EB%A3%A8%EB%8F%8C%ED%94%BC%EB%88%94"}],
+ "note":"정기 건물 투어는 체코어이고, 공사 때문에 지붕 테라스는 투어에서 빠짐."},
+"kafkam": {"links": [
+ {"t":"공식 사이트","u":"https://kafkamuseum.cz/en"},
+ {"t":"프라하 관광청 (한국어)","u":"https://www.prague.eu/ko/object/places/357/franz-kafka-museum"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%80%EC%B8%A0_%EC%B9%B4%ED%94%84%EC%B9%B4_%EB%B0%95%EB%AC%BC%EA%B4%80"}],
+ "note":"공식 사이트 기준 매일 10:00~18:00."},
+"wenc": {"links": [
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/objevujte/wenceslas-square-vaclavske-namesti/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EB%B0%94%EC%B8%A8%EB%9D%BC%ED%94%84_%EA%B4%91%EC%9E%A5"}]},
+"museum": {"links": [
+ {"t":"공식 사이트","u":"https://nm.cz/en/visit-us/buildings/new-building-of-the-national-museum"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/national-museum-museum-complex-of-the-national-museum/"}],
+ "note":"매일 10:00~18:00 운영, 주말 정오 무렵이나 공휴일에는 정원 초과로 30~45분 대기할 수 있음."},
+"lucerna": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/the-lucerna-palace-palac-lucerna/"},
+ {"t":"체코관광청 (프라하 파사주)","u":"https://www.visitczechia.com/en-us/things-to-do/places/landmarks/urban-architecture/c-prague-prague-s-passages"},
+ {"t":"위키백과","u":"https://en.wikipedia.org/wiki/Lucerna_Palace"}]},
+"mucha": {"links": [
+ {"t":"위키백과 (판스카 거리 무하 박물관)","u":"https://ko.wikipedia.org/wiki/%EB%AC%B4%ED%95%98_%EB%B0%95%EB%AC%BC%EA%B4%80"},
+ {"t":"프라하 관광청 (사바린 궁전 무하 미술관)","u":"https://prague.eu/en/objevujte/museum-of-alphonse-mucha-in-the-savarin-palace/"},
+ {"t":"체코관광청 (사바린 궁전)","u":"https://www.visitczechia.com/en-us/things-to-do/places/culture/museums-and-galleries/c-mucha-museum-in-savarin-palace"}],
+ "note":"프라하에는 무하 박물관이 두 곳(1998년 판스카 거리 원조관, 2025년 개관한 나 프르지코페 10번지 사바린 궁전의 'Mucha Foundation Art Museum')이 있으니 어느 곳인지 확인 필요."},
+"kafkah": {"links": [
+ {"t":"공식 사이트 (Quadrio)","u":"https://quadrio.cz/en/franz-kafka"},
+ {"t":"프라하 관광청","u":"https://prague.eu/cs/objevujte/socha-franze-kafky-d-cerny/"},
+ {"t":"위키백과","u":"https://en.wikipedia.org/wiki/Head_of_Franz_Kafka"}]},
+"national": {"links": [
+ {"t":"공식 사이트","u":"https://www.narodni-divadlo.cz/en/guided-tours"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EA%B5%AD%EB%A6%BD%EA%B7%B9%EC%9E%A5_(%ED%94%84%EB%9D%BC%ED%95%98)"}],
+ "note":"내부는 약 50분 가이드 투어(영어 개인 투어 온라인 예약)로 관람 가능."},
+"dancing": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/dancing-house/"},
+ {"t":"프라하 관광청 (댄싱 하우스 갤러리)","u":"https://prague.eu/en/objevujte/galerie-tancici-dum-dancing-house-gallery/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%ED%83%84%EC%B9%98%EC%B9%98_%EB%91%A0"}]},
+"petrin": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/petrin-tower-petrinska-rozhledna"},
+ {"t":"프라하 관광청 (페트르진 푸니쿨라)","u":"https://prague.eu/en/objevujte/petrin-funicular/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%ED%8E%98%ED%8A%B8%EB%A5%B4%EC%A7%84_%ED%83%80%EC%9B%8C"}],
+ "note":"2년간 운행이 멈췄던 페트르진 푸니쿨라가 2026년 9월 22일 새 차량으로 재개통(7:00~22:15), 프라하 대중교통권으로 탑승 가능."},
+"vyse": {"links": [
+ {"t":"공식 사이트","u":"https://www.praha-vysehrad.cz/en"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/vysehrad/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EB%B9%84%EC%85%B0%ED%9D%90%EB%9D%BC%ED%8A%B8"}],
+ "note":"공식 사이트 기준 단지 자체는 연중 무료 입장."},
+"zizkov": {"links": [
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/prague-tv-tower-zizkov-television-tower/"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%EC%A7%80%EC%8A%88%EC%BD%94%ED%94%84_%ED%85%94%EB%A0%88%EB%B9%84%EC%A0%84_%ED%83%80%EC%9B%8C"}]}
+}

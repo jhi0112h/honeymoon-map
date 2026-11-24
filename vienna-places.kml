@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>비엔나 허니문</name>
+<Style id="hotel"><IconStyle><color>ff1c8ad9</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="xmas"><IconStyle><color>ff5a8316</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="sight"><IconStyle><color>ffc8552f</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="food"><IconStyle><color>ff2e3fc6</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="cafe"><IconStyle><color>ff2b5a8a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="night"><IconStyle><color>ffa83a7a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Folder><name>숙소·역</name>
+<Placemark><name>빈 중앙역</name><description>Wien Hauptbahnhof · 중앙역·벨베데레
+12/13 16:19 프라하발 기차 도착 · 12/16 10:00 부다페스트행 출발
+팁: 숙소까지 도보 약 10분. 부다페스트행 기차는 예약 필요(시트 메모)
+https://www.google.com/maps/search/?api=1&amp;query=Wien%20Hauptbahnhof%20Vienna</description><styleUrl>#hotel</styleUrl><Point><coordinates>16.3762,48.1851,0</coordinates></Point></Placemark>
+<Placemark><name>아디나 아파트먼트 호텔 비엔나 벨베데레</name><description>Adina Apartment Hotel Vienna Belvedere · 중앙역·벨베데레
+숙소 12/13~12/16 · Canettistraße 3 (중앙역 남쪽) · 체크인 15:00 / 체크아웃 11:00
+팁: 중앙역에서 도보 약 5분. 같은 이름의 다른 아디나(Karl-Popper-Straße 6)와 헷갈리지 않기. 아파트형이라 주방 있음
+https://www.google.com/maps/search/?api=1&amp;query=Adina%20Apartment%20Hotel%20Vienna%20Belvedere%20Vienna</description><styleUrl>#hotel</styleUrl><Point><coordinates>16.379,48.183,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>크리스마스 마켓</name>
+<Placemark><name>카를 성당 · 아트 어드벤트 마켓</name><description>Karlskirche Vienna · 카를스플라츠
+바로크 성당 앞 수공예 크리스마스 마켓
+팁: 연못에 비친 성당 돔이 포토스팟. 마켓은 수공예·유기농 노점 위주
+https://www.google.com/maps/search/?api=1&amp;query=Karlskirche%20Vienna%20Vienna</description><styleUrl>#xmas</styleUrl><Point><coordinates>16.3718,48.1983,0</coordinates></Point></Placemark>
+<Placemark><name>시청 광장 크리스마스 마켓</name><description>Vienna Christmas Market Rathausplatz · 링 도로
+11/13~12/26 · 빈 최대 마켓 (시트)
+팁: 시청사 조명과 나무 장식이 하이라이트. 하트 모양 머그컵이 기념품
+https://www.google.com/maps/search/?api=1&amp;query=Vienna%20Christmas%20Market%20Rathausplatz%20Vienna</description><styleUrl>#xmas</styleUrl><Point><coordinates>16.357,48.2108,0</coordinates></Point></Placemark>
+<Placemark><name>암 호프 크리스마스 마켓</name><description>Am Hof Christmas Market · 구시가 (슈테판플라츠)
+구시가 안 소규모 마켓
+팁: 시청 광장보다 덜 붐비고 분위기 아늑함
+https://www.google.com/maps/search/?api=1&amp;query=Am%20Hof%20Christmas%20Market%20Vienna</description><styleUrl>#xmas</styleUrl><Point><coordinates>16.3677,48.2108,0</coordinates></Point></Placemark>
+<Placemark><name>쇤브룬 크리스마스 마켓</name><description>Schonbrunn Christmas Market · 쇤브룬
+11/6~1/7 · 궁전 앞 광장 (시트)
+팁: 궁전 정면 배경의 노점과 트리
+https://www.google.com/maps/search/?api=1&amp;query=Schonbrunn%20Christmas%20Market%20Vienna</description><styleUrl>#xmas</styleUrl><Point><coordinates>16.3127,48.1857,0</coordinates></Point></Placemark>
+<Placemark><name>프라이라움 (곰인형 크리스마스 포토스팟)</name><description>Freiraum Mariahilfer Strasse 117 · 마리아힐퍼 거리
+곰인형·조명 장식 크리스마스 포토스팟 · Mariahilfer Straße 117
+팁: 빈 최대 쇼핑 거리 마리아힐퍼 거리 서쪽 끝. 장식 운영 기간과 시간은 공개 정보가 없어 방문 전 확인. 지하철 U3 치글러가세역 근처
+https://www.google.com/maps/search/?api=1&amp;query=Freiraum%20Mariahilfer%20Strasse%20117%20Vienna</description><styleUrl>#xmas</styleUrl><Point><coordinates>16.3428,48.196,0</coordinates></Point></Placemark>
+<Placemark><name>마리아 테레지엔 광장 마켓</name><description>Maria-Theresien-Platz Christmas Market · 링 도로
+2026.11.20~12.26 · 미술사·자연사 박물관 사이
+팁: 두 박물관 건물 조명 사이의 마켓. 영웅 광장에서 링 도로만 건너면 바로
+https://www.google.com/maps/search/?api=1&amp;query=Maria-Theresien-Platz%20Christmas%20Market%20Vienna</description><styleUrl>#xmas</styleUrl><Point><coordinates>16.361,48.2045,0</coordinates></Point></Placemark>
+<Placemark><name>벨베데레 크리스마스 마켓</name><description>Belvedere Christmas Market · 중앙역·벨베데레
+2026.11.20~12.13 · 상궁 앞 · 12/13이 마지막 날
+팁: 12/13 도착일이 마켓 마지막 날이라 체크인 후 바로 들르기. 12/14 벨베데레 관람 때는 이미 끝나 있음
+https://www.google.com/maps/search/?api=1&amp;query=Belvedere%20Christmas%20Market%20Vienna</description><styleUrl>#xmas</styleUrl><Point><coordinates>16.3808,48.1922,0</coordinates></Point></Placemark>
+<Placemark><name>슈피텔베르크 마켓</name><description>Spittelberg Christmas Market · 링 도로
+2026.11.13~12.23 · 골목 사이 수공예 마켓
+팁: 마리아 테레지엔 광장 뒤 좁은 골목. 시간 여유 있을 때
+https://www.google.com/maps/search/?api=1&amp;query=Spittelberg%20Christmas%20Market%20Vienna</description><styleUrl>#xmas</styleUrl><Point><coordinates>16.3545,48.2032,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>명소</name>
+<Placemark><name>벨베데레 궁전 (상궁)</name><description>Upper Belvedere · 중앙역·벨베데레
+클림트 '키스' 소장 · 숙소에서 도보 5분
+팁: 오픈 시간 입장 추천, 온라인 시간 지정 티켓
+https://www.google.com/maps/search/?api=1&amp;query=Upper%20Belvedere%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3809,48.1915,0</coordinates></Point></Placemark>
+<Placemark><name>나슈마르크트</name><description>Naschmarkt Vienna · 카를스플라츠
+빈 최대 상설 시장 · 일요일 휴무
+팁: 치즈·올리브·말린 과일 시식. 노점 식당에서 가벼운 점심 가능
+https://www.google.com/maps/search/?api=1&amp;query=Naschmarkt%20Vienna%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3634,48.1987,0</coordinates></Point></Placemark>
+<Placemark><name>빈 국립 오페라극장</name><description>Vienna State Opera · 링 도로
+세계 3대 오페라극장
+팁: 공연 당일 저렴한 입석표 판매. 낮엔 가이드 투어
+https://www.google.com/maps/search/?api=1&amp;query=Vienna%20State%20Opera%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3691,48.2031,0</coordinates></Point></Placemark>
+<Placemark><name>슈테판 대성당</name><description>St. Stephen's Cathedral Vienna · 구시가 (슈테판플라츠)
+빈의 상징 · 모자이크 지붕
+팁: 남탑 계단(343칸) 전망. 지붕 모자이크는 북탑 엘리베이터 쪽에서 가까이. 12월엔 대성당 앞 광장에도 크리스마스 마켓
+https://www.google.com/maps/search/?api=1&amp;query=St.%20Stephen%27s%20Cathedral%20Vienna%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3731,48.2085,0</coordinates></Point></Placemark>
+<Placemark><name>그라벤 거리 · 페스트 기념탑</name><description>Graben Vienna · 구시가 (슈테판플라츠)
+12월 샹들리에 조명 거리
+팁: 해 진 뒤 거리 위 샹들리에 조명이 하이라이트
+https://www.google.com/maps/search/?api=1&amp;query=Graben%20Vienna%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3696,48.2087,0</coordinates></Point></Placemark>
+<Placemark><name>호프부르크 왕궁 · 미하엘 광장</name><description>Hofburg Vienna · 구시가 (호프부르크)
+합스부르크 왕궁
+팁: 시시 박물관·황제 아파트는 유료. 미하엘 문과 안뜰 산책은 무료
+https://www.google.com/maps/search/?api=1&amp;query=Hofburg%20Vienna%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3667,48.2079,0</coordinates></Point></Placemark>
+<Placemark><name>오스트리아 국립도서관 대회당</name><description>State Hall Austrian National Library · 구시가 (호프부르크)
+바로크 도서관 '프룽크잘'
+팁: 겨울엔 월요일 휴관 → 화요일 방문
+https://www.google.com/maps/search/?api=1&amp;query=State%20Hall%20Austrian%20National%20Library%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3667,48.2061,0</coordinates></Point></Placemark>
+<Placemark><name>알베르티나 미술관</name><description>Albertina Vienna · 구시가 (호프부르크)
+모네~피카소 상설전
+팁: 매일 10~18시(수·금 21시까지). 테라스에서 오페라극장 뷰
+https://www.google.com/maps/search/?api=1&amp;query=Albertina%20Vienna%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3681,48.2048,0</coordinates></Point></Placemark>
+<Placemark><name>쇤브룬 궁전</name><description>Schonbrunn Palace · 쇤브룬
+합스부르크 여름 궁전 · 그랜드 투어 (시트)
+팁: 시간 지정 티켓 온라인 예매. 지하철 U4 쇤브룬역
+https://www.google.com/maps/search/?api=1&amp;query=Schonbrunn%20Palace%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3122,48.1849,0</coordinates></Point></Placemark>
+<Placemark><name>훈데르트바서 하우스</name><description>Hundertwasserhaus · 란트슈트라세
+알록달록 곡선 건축
+팁: 주거 건물이라 외관만 관람. 맞은편 쇼핑 빌리지
+https://www.google.com/maps/search/?api=1&amp;query=Hundertwasserhaus%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.394,48.2073,0</coordinates></Point></Placemark>
+<Placemark><name>부르크가르텐 · 모차르트 동상</name><description>Mozart Monument Burggarten · 구시가 (호프부르크)
+왕궁 정원의 하얀 모차르트 동상
+팁: 알베르티나 테라스에서 바로 옆. 여름엔 동상 앞 높은음자리표 꽃밭이 유명하지만 겨울엔 동상만
+https://www.google.com/maps/search/?api=1&amp;query=Mozart%20Monument%20Burggarten%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3662,48.2047,0</coordinates></Point></Placemark>
+<Placemark><name>성 페터 성당</name><description>Peterskirche Vienna · 구시가 (슈테판플라츠)
+그라벤 옆 화려한 바로크 돔 천장
+팁: 입장 무료. 돔 천장 프레스코가 참고 릴스 첫 장면. 무료 오르간 연주가 열리는 날도 있음
+https://www.google.com/maps/search/?api=1&amp;query=Peterskirche%20Vienna%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.37,48.2093,0</coordinates></Point></Placemark>
+<Placemark><name>레포렐로 서점 (1유로 엽서 자판기)</name><description>LEPORELLO die Buchhandlung Singerstrasse 7 · 구시가 (슈테판플라츠)
+슈테판 대성당 바로 옆 서점 · 1유로 랜덤 엽서 자판기 POSTYBOX
+팁: Singerstraße 7 (Churhausgasse 모퉁이). 1유로 동전 준비. 구글 평점 4.6 (리뷰 104개). 18시 영업 종료(구글 지도 기준), 일요일 영업 여부는 확인 필요
+https://www.google.com/maps/search/?api=1&amp;query=LEPORELLO%20die%20Buchhandlung%20Singerstrasse%207%20Vienna</description><styleUrl>#sight</styleUrl><Point><coordinates>16.3732,48.2077,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>식당</name>
+<Placemark><name>피글뮐러</name><description>Figlmuller Wollzeile · 구시가 (슈테판플라츠) · 점심·저녁
+접시보다 큰 슈니첼
+팁: 예약 필수(온라인). 1인 1슈니첼 대신 2인 1개+샐러드도 충분
+https://www.google.com/maps/search/?api=1&amp;query=Figlmuller%20Wollzeile%20Vienna</description><styleUrl>#food</styleUrl><Point><coordinates>16.3746,48.209,0</coordinates></Point></Placemark>
+<Placemark><name>플라후타 볼차일레</name><description>Plachutta Wollzeile · 구시가 (슈테판플라츠) · 저녁
+타펠슈피츠 (소고기 수프 찜)
+팁: 예약 추천. 수프 먼저 → 고기 → 사과 홀스래디시 소스 순서로 먹는 법을 직원이 알려줌
+https://www.google.com/maps/search/?api=1&amp;query=Plachutta%20Wollzeile%20Vienna</description><styleUrl>#food</styleUrl><Point><coordinates>16.3807,48.2085,0</coordinates></Point></Placemark>
+<Placemark><name>립스 오브 비엔나</name><description>Ribs of Vienna · 구시가 (슈테판플라츠) · 저녁
+한국인 립 맛집 · 지하 레스토랑
+팁: 예약 필수. 2인 1미터 립 + 감자
+https://www.google.com/maps/search/?api=1&amp;query=Ribs%20of%20Vienna%20Vienna</description><styleUrl>#food</styleUrl><Point><coordinates>16.375,48.206,0</coordinates></Point></Placemark>
+<Placemark><name>잘름 브로이</name><description>Salm Brau Vienna · 중앙역·벨베데레 · 점심·저녁
+자가양조 맥주 + 립 · 벨베데레 옆
+팁: 숙소에서 도보 10분. 하우스 맥주 시음
+https://www.google.com/maps/search/?api=1&amp;query=Salm%20Brau%20Vienna%20Vienna</description><styleUrl>#food</styleUrl><Point><coordinates>16.379,48.196,0</coordinates></Point></Placemark>
+<Placemark><name>춤 슈바르첸 카멜</name><description>Zum Schwarzen Kameel · 구시가 (호프부르크) · 점심
+1618년 창업 델리 · 오픈 샌드위치
+팁: 서서 먹는 바에서 작은 샌드위치와 와인 한 잔
+https://www.google.com/maps/search/?api=1&amp;query=Zum%20Schwarzen%20Kameel%20Vienna</description><styleUrl>#food</styleUrl><Point><coordinates>16.3683,48.2097,0</coordinates></Point></Placemark>
+<Placemark><name>비칭어 소시지 가판대</name><description>Bitzinger Wurstelstand Albertina · 구시가 (호프부르크) · 간식
+알베르티나 앞 소시지 노점
+팁: 치즈 든 소시지 '케제크라이너'가 대표. 오페라 보고 나오는 사람들이 들르는 곳
+https://www.google.com/maps/search/?api=1&amp;query=Bitzinger%20Wurstelstand%20Albertina%20Vienna</description><styleUrl>#food</styleUrl><Point><coordinates>16.3688,48.2041,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>카페</name>
+<Placemark><name>카페 자허</name><description>Cafe Sacher Wien · 링 도로
+원조 자허토르테 (시트)
+팁: 줄이 길어 오픈 직후나 늦은 오후. 포장 전용 매장은 줄이 짧음
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Sacher%20Wien%20Vienna</description><styleUrl>#cafe</styleUrl><Point><coordinates>16.3699,48.2039,0</coordinates></Point></Placemark>
+<Placemark><name>데멜</name><description>Demel Vienna · 구시가 (호프부르크)
+왕실 납품 제과점
+팁: 케이크 진열장 보고 고르기. 안쪽 유리창으로 제과 공방 구경
+https://www.google.com/maps/search/?api=1&amp;query=Demel%20Vienna%20Vienna</description><styleUrl>#cafe</styleUrl><Point><coordinates>16.3672,48.2086,0</coordinates></Point></Placemark>
+<Placemark><name>카페 첸트랄</name><description>Cafe Central Vienna · 구시가 (호프부르크)
+아치형 천장의 전통 카페
+팁: 입장 대기 줄 있음. 아침 일찍이 한산
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Central%20Vienna%20Vienna</description><styleUrl>#cafe</styleUrl><Point><coordinates>16.3655,48.2104,0</coordinates></Point></Placemark>
+<Placemark><name>카페 란트만</name><description>Cafe Landtmann · 링 도로
+프로이트 단골 카페 · 시청 광장 옆
+팁: 시청 광장 마켓 전후로 들르기 좋음
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Landtmann%20Vienna</description><styleUrl>#cafe</styleUrl><Point><coordinates>16.3612,48.2117,0</coordinates></Point></Placemark>
+<Placemark><name>카페 하벨카</name><description>Cafe Hawelka · 구시가 (슈테판플라츠)
+예술가들의 단골 카페 · 부흐텔른
+팁: 저녁에 나오는 잼 빵 '부흐텔른'이 명물
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Hawelka%20Vienna</description><styleUrl>#cafe</styleUrl><Point><coordinates>16.3708,48.2079,0</coordinates></Point></Placemark>
+<Placemark><name>마너 매장</name><description>Manner Stephansplatz · 구시가 (슈테판플라츠)
+분홍색 웨하스 기념품
+팁: 슈테판 대성당 바로 앞. 선물용 쇼핑
+https://www.google.com/maps/search/?api=1&amp;query=Manner%20Stephansplatz%20Vienna</description><styleUrl>#cafe</styleUrl><Point><coordinates>16.3722,48.2083,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>야경·바</name>
+<Placemark><name>글로리에테</name><description>Gloriette Schonbrunn · 쇤브룬
+쇤브룬 정원 언덕 위 전망
+팁: 궁전에서 오르막 15~20분. 카페 글로리에테에서 궁전과 빈 시내 전망
+https://www.google.com/maps/search/?api=1&amp;query=Gloriette%20Schonbrunn%20Vienna</description><styleUrl>#night</styleUrl><Point><coordinates>16.3089,48.1781,0</coordinates></Point></Placemark>
+<Placemark><name>알베르티나 테라스</name><description>Albertina terrace Albertinaplatz · 구시가 (호프부르크)
+오페라극장이 한눈에 보이는 야경 전망 (무료)
+팁: 오페라극장 맞은편 알베르티나 미술관 앞 에스컬레이터를 타고 테라스로 올라가면 조명 켜진 오페라극장 전경. 참고 릴스 동선의 첫 포인트
+https://www.google.com/maps/search/?api=1&amp;query=Albertina%20terrace%20Albertinaplatz%20Vienna</description><styleUrl>#night</styleUrl><Point><coordinates>16.3685,48.2045,0</coordinates></Point></Placemark>
+<Placemark><name>영웅 광장 · 신왕궁 야경</name><description>Heldenplatz Neue Burg · 구시가 (호프부르크)
+조명 켜진 반원형 신왕궁과 멀리 보이는 시청사
+팁: 광장 잔디밭 쪽에서 신왕궁 전체, 반대편으로는 폴크스가르텐 너머 시청사 첨탑이 보임. 여기서 시청 광장 마켓까지 걸어서 10분
+https://www.google.com/maps/search/?api=1&amp;query=Heldenplatz%20Neue%20Burg%20Vienna</description><styleUrl>#night</styleUrl><Point><coordinates>16.3632,48.2063,0</coordinates></Point></Placemark>
+<Placemark><name>크람푸스 퍼레이드 (바덴 바이 빈)</name><description>Krampuslauf Baden bei Wien · 바덴 (빈 근교)
+12/13(일) 17:00 · 빈에서 약 30~40분 · 일정엔 미포함
+팁: 뿔 달린 탈과 방울 소리, 불꽃이 가득한 오스트리아 겨울 전통 퍼레이드. 12/13은 16:19 빈 도착이라 체크인을 미루고 바로 가야 아슬아슬하게 맞출 수 있음(벨베데레 마켓·야경 코스 포기). 날짜·시간은 바뀔 수 있어 주최 측 확인 필요
+https://www.google.com/maps/search/?api=1&amp;query=Krampuslauf%20Baden%20bei%20Wien%20Vienna</description><styleUrl>#night</styleUrl><Point><coordinates>16.2344,48.0073,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/13 빈 도착 · 릴스 야경 코스 · 시청 광장 마켓</name><Style id="r1213"><LineStyle><color>ff2f91e0</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/13 동선</name><styleUrl>#r1213</styleUrl><LineString><coordinates>16.3762,48.1851,0 16.379,48.183,0 16.3808,48.1922,0 16.3691,48.2031,0 16.3685,48.2045,0 16.3662,48.2047,0 16.3632,48.2063,0 16.361,48.2045,0 16.357,48.2108,0 16.379,48.183,0</coordinates></LineString></Placemark>
+<Placemark><name>12/13-1 16:19 빈 중앙역</name><description>프라하발 기차 도착 (12:36 출발)</description><Point><coordinates>16.3762,48.1851,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-2 16:40 아디나 아파트먼트 호텔 비엔나 벨베데레</name><description>체크인 (중앙역에서 도보 5분)</description><Point><coordinates>16.379,48.183,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-3 17:00 벨베데레 크리스마스 마켓</name><description>벨베데레 마켓 마지막 날 (숙소에서 도보 10분)</description><Point><coordinates>16.3808,48.1922,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-4 17:30 빈 국립 오페라극장</name><description>트램 D로 이동 · 조명 켜진 오페라극장 (릴스 코스 시작)</description><Point><coordinates>16.3691,48.2031,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-5 17:45 알베르티나 테라스</name><description>에스컬레이터로 올라가 오페라극장 전경</description><Point><coordinates>16.3685,48.2045,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-6 18:05 부르크가르텐 · 모차르트 동상</name><description>모차르트 동상</description><Point><coordinates>16.3662,48.2047,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-7 18:20 영웅 광장 · 신왕궁 야경</name><description>신왕궁 야경</description><Point><coordinates>16.3632,48.2063,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-8 18:35 마리아 테레지엔 광장 마켓</name><description>링 도로 건너 박물관 사이 마켓</description><Point><coordinates>16.361,48.2045,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-9 19:10 시청 광장 크리스마스 마켓</name><description>시청 광장 크리스마스 마켓 (시트) · 저녁은 마켓 먹거리로</description><Point><coordinates>16.357,48.2108,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-10 20:45 아디나 아파트먼트 호텔 비엔나 벨베데레</name><description>트램 D로 숙소 복귀</description><Point><coordinates>16.379,48.183,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/14 벨베데레 · 구시가 · 알베르티나</name><Style id="r1214"><LineStyle><color>ff7a3dc4</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/14 동선</name><styleUrl>#r1214</styleUrl><LineString><coordinates>16.3809,48.1915,0 16.3718,48.1983,0 16.3731,48.2085,0 16.3732,48.2077,0 16.3746,48.209,0 16.37,48.2093,0 16.3696,48.2087,0 16.3672,48.2086,0 16.3667,48.2079,0 16.3681,48.2048,0 16.3677,48.2108,0 16.3807,48.2085,0 16.3696,48.2087,0 16.379,48.183,0</coordinates></LineString></Placemark>
+<Placemark><name>12/14-1 09:00 벨베데레 궁전 (상궁)</name><description>오픈 입장 · 클림트 '키스' (숙소에서 도보 약 15분 또는 트램)</description><Point><coordinates>16.3809,48.1915,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-2 10:45 카를 성당 · 아트 어드벤트 마켓</name><description>카를 성당 + 아트 어드벤트 마켓 (도보 15분)</description><Point><coordinates>16.3718,48.1983,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-3 12:00 슈테판 대성당</name><description>대성당 내부 (40분) · 남탑 전망은 시간 되면</description><Point><coordinates>16.3731,48.2085,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-4 12:40 레포렐로 서점 (1유로 엽서 자판기)</name><description>1유로 랜덤 엽서 자판기 (대성당에서 도보 1분, 동전 준비)</description><Point><coordinates>16.3732,48.2077,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-5 13:00 피글뮐러</name><description>점심 · 슈니첼 (예약 필수)</description><Point><coordinates>16.3746,48.209,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-6 14:15 성 페터 성당</name><description>그라벤 옆 바로크 돔 천장 (무료)</description><Point><coordinates>16.37,48.2093,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-7 14:30 그라벤 거리 · 페스트 기념탑</name><description>그라벤·콜마르크트 거리 (밤엔 샹들리에 조명)</description><Point><coordinates>16.3696,48.2087,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-8 14:45 데멜</name><description>케이크 디저트 · 제과 공방 구경</description><Point><coordinates>16.3672,48.2086,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-9 15:30 호프부르크 왕궁 · 미하엘 광장</name><description>미하엘 문·왕궁 안뜰 산책</description><Point><coordinates>16.3667,48.2079,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-10 16:00 알베르티나 미술관</name><description>미술관 내부 관람 (모네~피카소) · 테라스는 12/13 밤에 다녀옴</description><Point><coordinates>16.3681,48.2048,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-11 17:30 암 호프 크리스마스 마켓</name><description>구시가 안 아늑한 크리스마스 마켓</description><Point><coordinates>16.3677,48.2108,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-12 18:30 플라후타 볼차일레</name><description>저녁 · 타펠슈피츠 (예약 추천)</description><Point><coordinates>16.3807,48.2085,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-13 20:15 그라벤 거리 · 페스트 기념탑</name><description>디너 후 샹들리에 조명 켜진 그라벤 거리 야경 산책</description><Point><coordinates>16.3696,48.2087,0</coordinates></Point></Placemark>
+<Placemark><name>12/14-14 20:30 아디나 아파트먼트 호텔 비엔나 벨베데레</name><description></description><Point><coordinates>16.379,48.183,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/15 쇤브룬 궁전 · 카페 자허 (시트)</name><Style id="r1215"><LineStyle><color>ffcd5f3a</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/15 동선</name><styleUrl>#r1215</styleUrl><LineString><coordinates>16.379,48.183,0 16.3122,48.1849,0 16.3127,48.1857,0 16.3089,48.1781,0 16.3428,48.196,0 16.3634,48.1987,0 16.3667,48.2061,0 16.3699,48.2039,0 16.394,48.2073,0 16.375,48.206,0 16.379,48.183,0</coordinates></LineString></Placemark>
+<Placemark><name>12/15-1 08:30 아디나 아파트먼트 호텔 비엔나 벨베데레</name><description>출발 · 지하철로 쇤브룬역 (약 30분)</description><Point><coordinates>16.379,48.183,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-2 09:00 쇤브룬 궁전</name><description>그랜드 투어 (시간 지정 티켓 예매)</description><Point><coordinates>16.3122,48.1849,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-3 10:30 쇤브룬 크리스마스 마켓</name><description>궁전 앞 크리스마스 마켓 (시트)</description><Point><coordinates>16.3127,48.1857,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-4 11:00 글로리에테</name><description>정원 언덕 오르기 · 카페에서 커피와 전망</description><Point><coordinates>16.3089,48.1781,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-5 12:30 프라이라움 (곰인형 크리스마스 포토스팟)</name><description>곰인형 크리스마스 포토스팟 (지하철 U4→U6 베스트반호프역, 도보 5분)</description><Point><coordinates>16.3428,48.196,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-6 13:15 나슈마르크트</name><description>마리아힐퍼 거리 따라 걷거나 U3로 이동 · 시장 노점에서 늦은 점심</description><Point><coordinates>16.3634,48.1987,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-7 14:30 오스트리아 국립도서관 대회당</name><description>국립도서관 대회당 (화요일 개관)</description><Point><coordinates>16.3667,48.2061,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-8 15:45 카페 자허</name><description>원조 자허토르테 (시트)</description><Point><coordinates>16.3699,48.2039,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-9 17:15 훈데르트바서 하우스</name><description>트램으로 이동 · 알록달록 외관</description><Point><coordinates>16.394,48.2073,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-10 18:30 립스 오브 비엔나</name><description>저녁 · 립 (예약 필수)</description><Point><coordinates>16.375,48.206,0</coordinates></Point></Placemark>
+<Placemark><name>12/15-11 20:30 아디나 아파트먼트 호텔 비엔나 벨베데레</name><description></description><Point><coordinates>16.379,48.183,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/16 빈 → 부다페스트</name><Style id="r1216"><LineStyle><color>ff96877c</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/16 동선</name><styleUrl>#r1216</styleUrl><LineString><coordinates>16.379,48.183,0 16.3762,48.1851,0</coordinates></LineString></Placemark>
+<Placemark><name>12/16-1 09:15 아디나 아파트먼트 호텔 비엔나 벨베데레</name><description>체크아웃 (체크아웃 11:00이라 여유)</description><Point><coordinates>16.379,48.183,0</coordinates></Point></Placemark>
+<Placemark><name>12/16-2 10:00 빈 중앙역</name><description>부다페스트행 기차 (약 2시간 40분, 예약 필요) · 부다페스트 탭에 이어짐</description><Point><coordinates>16.3762,48.1851,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

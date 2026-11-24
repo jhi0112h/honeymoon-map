@@ -1,0 +1,156 @@
+{
+"b-keleti": {"links": [
+{"t": "유튜브: 켈레티역 4K 투어", "u": "https://www.youtube.com/watch?v=YgUEswd08Js"}
+], "note": "헝가리 최대 철도역이자 국제·장거리 열차 터미널(1884년 개통). M2·M4 지하철 환승 가능."},
+"b-hotel": {"links": [
+{"t": "호텔 정보 (Kayak)", "u": "https://www.kayak.com/Budapest-Hotels-Novotel-Budapest-Danube.156495.ksp"},
+{"t": "호텔 정보 (Trip.com)", "u": "https://www.trip.com/t/HBe8PTjIBP2"}
+], "note": "주소 Bem rakpart 33-34, 1027 Budapest(2구, 부다 강변). 체크인 15:00 / 체크아웃 12:00, 레이트 체크아웃은 가능 시 유료."},
+"b-airport": {"links": [
+{"t": "유튜브: 100E 공항버스", "u": "https://www.youtube.com/watch?v=3qwq_LzKQcE"},
+{"t": "유튜브: 공항버스·티켓 구매", "u": "https://www.youtube.com/watch?v=BT0PHzTz8IE"}
+], "note": "100E 공항 익스프레스 버스가 공항~데아크 광장 직행. 12/19 19:30 비행기면 늦어도 16:30 전 시내 출발 권장."},
+"b-batthyany": {"links": [
+{"t": "유튜브: 국회의사당 야경", "u": "https://www.youtube.com/watch?v=lQFz3HQ0LoU"}
+], "note": "버차니 광장 강변 계단은 국회의사당 정면 야경 포인트이며 호텔에서 도보권."},
+"b-matthias": {"links": [
+{"t": "공식 사이트", "u": "https://matyas-templom.hu/home"},
+{"t": "공식 티켓 안내", "u": "https://matyas-templom.hu/prices"},
+{"t": "부다페스트 관광청", "u": "https://www.budapestinfo.hu/en/matthias-church-1"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%B0%A8%EC%8B%9C_%EC%84%B1%EB%8B%B9"},
+{"t": "유튜브: 마차시 교회 답사기", "u": "https://www.youtube.com/watch?v=qvNqWZzA1I4"}
+], "note": "공식 운영 9:00~17:00, 마지막 입장 16:45. 전례·국빈 행사 시 시간 변경."},
+"b-fisherman": {"links": [
+{"t": "부다페스트 관광청", "u": "https://www.budapestinfo.hu/en/fishermans-bastion"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EC%96%B4%EB%B6%80%EC%9D%98_%EC%9A%94%EC%83%88"},
+{"t": "블로그 후기 (Hungary Unlocked)", "u": "https://hungaryunlocked.com/fishermans-bastion-budapest-guide/"},
+{"t": "유튜브: 어부의 요새·부다 성 무료 전망", "u": "https://www.youtube.com/watch?v=Pv760uXhySs"}
+], "note": "아래 테라스는 24시간 무료, 상단 회랑만 겨울 9:00~19:00 유료(그 외 시간 무료)."},
+"b-castle": {"links": [
+{"t": "부다페스트 관광청", "u": "https://www.budapestinfo.hu/en/discover-the-castle-district-explore-buda"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EB%B6%80%EB%8B%A4%EC%84%B1"},
+{"t": "위키백과 (영문)", "u": "https://www.Wikipedia.org/wiki/Buda_Castle"},
+{"t": "유튜브: 부다페스트 2박3일 (부다왕궁 포함)", "u": "https://www.youtube.com/watch?v=X9vpmUNaT1w"}
+], "note": "왕궁 외부 테라스는 무료, 국립미술관은 보통 화~일 10:00~18:00."},
+"b-chain": {"links": [
+{"t": "부다페스트 관광청", "u": "https://www.budapestinfo.hu/en/bridges-of-budapest-iconic-crossings-in-the-heart-of-the-city"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%B2%B4%EB%8B%88_%EB%8B%A4%EB%A6%AC"},
+{"t": "유튜브: 세체니 다리·어부의 요새 야경", "u": "https://www.youtube.com/watch?v=GqVLwYJIsZE"}
+], "note": "리노베이션 후 보행자·자전거·버스·택시만 통행 가능."},
+"b-parliament": {"links": [
+{"t": "공식 사이트 (티켓 구매 안내)", "u": "https://konyvtar.parlament.hu/web/visitors/purchasing-tickets"},
+{"t": "공식 사이트 (복장·주의사항)", "u": "https://www.parlament.hu/web/visitors/important-information"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EA%B5%AD%ED%9A%8C%EC%9D%98%EC%82%AC%EB%8B%B9_(%ED%97%9D%EA%B0%80%EB%A6%AC)"},
+{"t": "유튜브: 국회의사당 내부 견학", "u": "https://www.youtube.com/watch?v=OnOT0w-Bs1k"}
+], "note": "사전 티켓은 jegymester.hu/parlament 온라인으로만 판매(방문자센터 매표소에선 사전권 불가), 투어 약 45분."},
+"b-shoes": {"links": [
+{"t": "부다페스트 관광청", "u": "https://www.budapestinfo.hu/en/shoes-on-the-danube-bank"},
+{"t": "부다페스트 관광청 (유대인 추모지)", "u": "https://www.budapestinfo.hu/en/jewish-memorial-sites-in-budapest"},
+{"t": "유튜브: 다뉴브강가의 신발들", "u": "https://www.youtube.com/watch?v=FXiAvQWXikI"}
+], "note": "캔 토가이·파우어 줄러의 작품으로 60켤레 철제 신발이 강을 향해 놓여 있음."},
+"b-basilica": {"links": [
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EC%84%BC%ED%8A%B8%EC%9D%B4%EC%8A%88%ED%8A%B8%EB%B0%98_%EB%8C%80%EC%84%B1%EB%8B%B9"},
+{"t": "블로그 후기 (Budapest by Locals)", "u": "https://www.budapestbylocals.com/st-stephens-basilica/"},
+{"t": "블로그 후기 (The Better Vacation)", "u": "https://thebettervacation.com/st-stephens-basilica-budapest/"},
+{"t": "유튜브: 성 이슈트반 대성당", "u": "https://www.youtube.com/watch?v=_KNOhrLQm10"}
+], "note": "전망대는 보통 매일 9:00~19:00(매표 18:30까지)이나 출처마다 달라 현장 확인 필요."},
+"b-xm-basilica": {"links": [
+{"t": "공식 사이트", "u": "https://adventbazilika.hu/en"},
+{"t": "공식 운영시간", "u": "https://adventbazilika.hu/en/opening-hours"},
+{"t": "헝가리 관광청", "u": "https://visithungary.com/event/advent-bazilika"},
+{"t": "유튜브: 대성당 라이트쇼 2025", "u": "https://www.youtube.com/watch?v=vkyxyve9ui4"}
+], "note": "2026 시즌 11/13~2027/1/1 (복수 매체), 프로젝션 쇼는 해 진 뒤 약 30분부터 시작."},
+"b-vorosmarty": {"links": [
+{"t": "위키백과 (영문)", "u": "https://en.wikipedia.org/wiki/V%C3%B6r%C3%B6smarty_t%C3%A9r"},
+{"t": "타임아웃 행사 정보", "u": "https://www.timeout.com/hu/budapest/programok/vorosmarty-classic-xmas-vorosmarty-ter"},
+{"t": "블로그 후기 (Daily News Hungary)", "u": "https://dailynewshungary.com/budapest-vorosmarty-christmas-market/"},
+{"t": "유튜브: 바실리카·뵈뢰슈머르티 마켓", "u": "https://www.youtube.com/watch?v=e4TGYShykrI"}
+], "note": "2026 시즌 11/13 개장, 12/31 전후 폐장으로 보도됨(공식 vorosmartyclassicxmas.hu 확인)."},
+"b-opera": {"links": [
+{"t": "공식 사이트 (오페라 투어)", "u": "https://www.opera.hu/en/services/operatour/"},
+{"t": "블로그 후기 (We Love Budapest)", "u": "https://welovebudapest.com/en/article/2022/04/12/sights-culture-take-an-english-language-tour-of-the-opera-house-and-fly-back-to-hungary-s-golden-imperial-past/"},
+{"t": "유튜브: 헝가리 오페라하우스", "u": "https://www.youtube.com/watch?v=D6Qxe1Xw--0"}
+], "note": "영어 가이드 투어(60분) 매일 13:30·15:00·16:30, 공연 중엔 투어 없음."},
+"b-heroes": {"links": [
+{"t": "부다페스트 관광청 (안드라시 거리)", "u": "https://www.budapestinfo.hu/en/andrassy-avenue"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%ED%9A%8C%EC%87%A0%ED%81%AC_%EA%B4%91%EC%9E%A5"},
+{"t": "유튜브: 영웅광장 건국 영웅들", "u": "https://www.youtube.com/watch?v=dJR3lYSQ_9M"}
+], "note": "안드라시 거리 끝, 시민공원 입구. 36m 기둥 위 대천사 가브리엘 상."},
+"b-icerink": {"links": [
+{"t": "위키백과 (영문)", "u": "https://wikipedia.com/wiki/City_Park_Ice_Rink"},
+{"t": "위키백과 (버이더후녀드성)", "u": "https://ko.wikipedia.org/wiki/%EB%B2%84%EC%9D%B4%EB%8D%94%ED%9B%84%EB%85%80%EB%93%9C%EC%84%B1"},
+{"t": "In Your Pocket 시즌 정보", "u": "https://www.inyourpocket.com/hungary/budapest/events/city-park-ice-rink"},
+{"t": "유튜브: 부다페스트 아이스링크 (쇼츠)", "u": "https://www.youtube.com/shorts/ISy1ARIrGLk"}
+], "note": "평일은 오전·저녁 세션으로 나뉘고 매표는 종료 1시간 전 마감, 스케이트 대여 가능(보증금)."},
+"b-szechenyi": {"links": [
+{"t": "공식 사이트", "u": "https://www.szechenyibath.hu"},
+{"t": "공식 FAQ", "u": "https://www.szechenyibath.hu/faq"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%B2%B4%EB%8B%88_%EC%98%A8%EC%B2%9C"},
+{"t": "유튜브: 세체니 온천 총정리", "u": "https://www.youtube.com/watch?v=suqzGOhQJ9o"}
+], "note": "마지막 입장 마감 1시간 전, 풀은 20분 전 퇴장. 2025/8/1부터 14세 미만 입장 불가."},
+"b-dohany": {"links": [
+{"t": "부다페스트 관광청", "u": "https://www.budapestinfo.hu/en/synagogues-in-budapest"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EB%8F%84%ED%95%98%EB%8B%88_%EA%B1%B0%EB%A6%AC_%EC%8B%9C%EB%82%98%EA%B3%A0%EA%B7%B8"},
+{"t": "블로그 후기 (Budapest by Locals)", "u": "https://www.budapestbylocals.com/budapest-great-synagogue"},
+{"t": "유튜브: 도하니 시나고그 역사", "u": "https://www.youtube.com/watch?v=xdsJ3n6aAjE"}
+], "note": "겨울 일~목 10:00~16:00, 금요일 10:00~14:00, 토요일 휴관 (2025/26 시즌 기준)."},
+"b-central": {"links": [
+{"t": "위키백과 (영문)", "u": "https://wikipedia.com/wiki/Great_Market_Hall"},
+{"t": "블로그 후기 (Hungary Unlocked)", "u": "https://hungaryunlocked.com/great-market-hall-budapest-guide/"},
+{"t": "블로그 후기 (Budapest by Locals)", "u": "https://www.budapestbylocals.com/great-market-hall/"},
+{"t": "유튜브: 부다페스트 중앙시장", "u": "https://www.youtube.com/watch?v=vBhh7TS0AIs"}
+], "note": "월~금 6:00~18:00, 토 6:00~16:00 전후. 일요일은 휴무 또는 10~16시 단축으로 출처가 엇갈림."},
+"b-liberty": {"links": [
+{"t": "부다페스트 관광청", "u": "https://www.budapestinfo.hu/en/bridges-of-budapest-iconic-crossings-in-the-heart-of-the-city"},
+{"t": "위키백과", "u": "https://ko.wikipedia.org/wiki/%EC%84%9C%EB%B2%84%EC%B0%A8%EA%B7%B8_%EB%8B%A4%EB%A6%AC"},
+{"t": "유튜브: 자유의 다리 (쇼츠)", "u": "https://www.youtube.com/shorts/HosdSMjudVQ"}
+], "note": "1896년 밀레니엄 기념 다리로 중앙 시장(피버암 광장)과 겔레르트 광장을 연결."},
+"b-gellert": {"links": [
+{"t": "Xpatloop: 시타델라 재개장", "u": "https://xpatloop.com/channels/2026/03/budapest-landmark-reborn-citadella-reopens-to-public-this-march.html"},
+{"t": "Xpatloop: 시타델라 가는 법", "u": "https://xpatloop.com/channels/2026/04/getting-around-how-to-reach-the-renewed-citadella-in-budapest.html"},
+{"t": "Daily News Hungary: 재개장 안내", "u": "https://dailynewshungary.com/citadella-reopening-budapest-top-panorama-free-park-exhibition"},
+{"t": "유튜브: 시타델라 재개장 리뷰", "u": "https://www.youtube.com/watch?v=VXJQZbuZrfI"}
+], "note": "2026년 봄 재개장, 야외 공원·테라스는 무료이고 내부 전시만 유료."},
+"b-cruise": {"links": [
+{"t": "부다페스트 관광청 (도나우 크루즈 5선)", "u": "https://www.budapestinfo.hu/en/5-cruises-on-the-danube-explore-budapest-from-a-new-angle"},
+{"t": "유튜브: 다뉴브강 유람선 야경 투어", "u": "https://www.youtube.com/watch?v=jZ4zdL1IDeQ"}
+], "note": "야경만 보는 1시간 상품과 디너 크루즈 중 선택, 크리스마스 시즌 저녁은 사전 예약 권장."},
+"b-hungarikum": {"links": [
+{"t": "유튜브: 헝가리쿰 비스트로 공연·음식", "u": "https://www.youtube.com/watch?v=BWJtggC2vtw"},
+{"t": "유튜브: Hungarikum Bisztro 리뷰", "u": "https://www.youtube.com/watch?v=OlWsjkPKvfM"}
+], "note": "국회의사당 인근(Steindl Imre u. 13, 영상 설명 기준), 인기 많아 예약 권장."},
+"b-getto": {"links": [], "note": "검색 한도로 검증된 출처를 찾지 못함. 방문 전 구글 지도 리뷰로 영업 여부 확인 필요."},
+"b-menza": {"links": [
+{"t": "유튜브: 멘자·뉴욕카페 맛집", "u": "https://www.youtube.com/watch?v=lIcckwQwqWg"}
+], "note": "리스트 페렌츠 광장의 레트로 인테리어 식당, 굴라시·푸아그라가 한국인 단골 메뉴."},
+"b-forsale": {"links": [
+{"t": "유튜브: Budapest For Sale Pub", "u": "https://www.youtube.com/watch?v=_fTA5YTRRLo"},
+{"t": "유튜브: For Sale 펍 내부", "u": "https://www.youtube.com/watch?v=WEWxhjS9UbY"}
+], "note": "벽과 천장을 수백 장의 손글씨 메모가 뒤덮은 펍, 중앙 시장 근처."},
+"b-pestbuda": {"links": [
+{"t": "유튜브: Pest-Buda Bistro 켄예르 랑고시", "u": "https://www.youtube.com/watch?v=_JA8TwuWPss"}
+], "note": "부다 성 지구 안 마차시 성당 근처, 지다이(Zsidai) 그룹 레스토랑."},
+"b-borkonyha": {"links": [
+{"t": "유튜브: Borkonyha Winekitchen", "u": "https://www.youtube.com/watch?v=rVB-WFqlFgI"},
+{"t": "유튜브: Borkonyha 주방", "u": "https://www.youtube.com/watch?v=HDEEzl-CUDY"}
+], "note": "대성당 근처 와인 중심 파인다이닝, 저녁은 예약 필수급."},
+"b-spoon": {"links": [
+{"t": "유튜브: Spoon 레스토랑 보트", "u": "https://www.youtube.com/watch?v=-rD_okgZSbk"}
+], "note": "세체니 다리 옆 강에 정박한 보트 레스토랑, 창가 자리에서 왕궁 야경."},
+"b-gerbeaud": {"links": [
+{"t": "위키백과 (영문)", "u": "https://en.wikipedia.org/wiki/Caf%C3%A9_Gerbeaud"},
+{"t": "유튜브: Gerbeaud Cafe", "u": "https://www.youtube.com/watch?v=sAdDKa2F2JQ"}
+], "note": "1858년 창업, 뵈뢰슈머르티 광장 7번지. 크리스마스 마켓 바로 앞."},
+"b-newyork": {"links": [
+{"t": "유튜브: 부다페스트 뉴욕 카페 (쇼츠)", "u": "https://www.youtube.com/shorts/CguPmY9DV8M"}
+], "note": "1894년 개업한 화려한 카페, 오전에도 대기 줄이 있어 오픈 직후 방문이나 유료 좌석 예약 권장."},
+"b-szimpla": {"links": [
+{"t": "위키백과 (영문)", "u": "https://en.wikipedia.org/wiki/Szimpla_Kert"},
+{"t": "유튜브: Szimpla Kert POV 투어", "u": "https://www.youtube.com/watch?v=LuOue9kpRVk"}
+], "note": "7구 유대인 지구의 원조 루인펍."},
+"b-ruszwurm": {"links": [
+{"t": "Xpatloop: 루스부름 폐업 보도", "u": "https://xpatloop.com/channels/2025/08/ruszwurm-shutdown-historic-pastry-shop-in-budapest-forced-to-close.html"},
+{"t": "Infostart 보도 (헝가리어)", "u": "https://infostart.hu/belfold/2025/08/07/megrazo-bucsu-elkoszontek-a-legendas-cukraszda-dolgozoi-a-varatlanul-elhunyt-tulajdonostol"},
+{"t": "유튜브: Ruszwurm Cafe", "u": "https://www.youtube.com/watch?v=2Wq7Y-VUdjc"}
+], "note": "주의: 2025년 8월 임대 분쟁으로 폐업, 2026년 재개장 확인 안 됨. 대안으로 제르보·뉴욕 카페 추천."}
+}

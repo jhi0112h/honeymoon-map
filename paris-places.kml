@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>파리 허니문</name>
+<Style id="hotel"><IconStyle><color>ff1c8ad9</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="xmas"><IconStyle><color>ff5a8316</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="sight"><IconStyle><color>ffc8552f</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="food"><IconStyle><color>ff2e3fc6</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="cafe"><IconStyle><color>ff2b5a8a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="night"><IconStyle><color>ffa83a7a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Folder><name>숙소·역</name>
+<Placemark><name>샤를 드골 공항</name><description>Paris Charles de Gaulle Airport · 공항
+12/5 18:35 도착 (KE901) · 12/9 15:20 프라하행 출발
+팁: 12/5 이동 방법: ① 도착 후 우버(또는 볼트) 앱에서 요금 확인 → 큰 캐리어가 있어 Comfort급 이상, 기사에게 "캐리어 2개(대 1, 중 1)" 메시지. 미리 예약은 비추천(비행기 지연 시 시간 꼬임). ② 할증으로 비싸거나 픽업 구역 찾기가 번거로우면 공인 택시: 짐 찾고 "Taxis" 표지판 따라 터미널 밖 공식 승강장, 안내 직원이 배정. 터미널 안 호객은 무허가라 무시, 정식 택시는 지붕 "TAXI PARISIEN" 표시등+미터기. ⚠ 공인 택시 정액(우안 56·좌안 65유로)은 파리 시내만, 발 데 유럽은 미터 요금(참고: 낮 약 75유로, 19시 이후 약 90유로). 주소(Moxy Paris Val d'Europe) 보여주고 카드 결제·영수증 확인
+https://www.google.com/maps/search/?api=1&amp;query=Paris%20Charles%20de%20Gaulle%20Airport%20Paris</description><styleUrl>#hotel</styleUrl><Point><coordinates>2.5479,49.0097,0</coordinates></Point></Placemark>
+<Placemark><name>목시 파리 발 데 유럽</name><description>Moxy Paris Val d'Europe · 발 데 유럽
+숙소 12/5~12/7 · 디즈니랜드 근처
+팁: 12/7 하얏트 이동: 우버 예약 추천 (월요일 08:00 출근 시간이라 미터 요금 택시는 정체만큼 요금이 오름, 우버는 예약 시 요금 확정). 전날 Comfort급 이상으로 예약하고 기사에게 캐리어 2개 메시지. 이미 예약한 한인 택시를 취소한다면 취소 조건 먼저 확인
+https://www.google.com/maps/search/?api=1&amp;query=Moxy%20Paris%20Val%20d%27Europe%20Paris</description><styleUrl>#hotel</styleUrl><Point><coordinates>2.786,48.853,0</coordinates></Point></Placemark>
+<Placemark><name>하얏트 리젠시 파리 에투알</name><description>Hyatt Regency Paris Etoile · 서쪽 (에투알)
+숙소 12/7~12/9 · 포르트 마요
+팁: 12/7 10시 도착해 짐 먼저 맡기기
+https://www.google.com/maps/search/?api=1&amp;query=Hyatt%20Regency%20Paris%20Etoile%20Paris</description><styleUrl>#hotel</styleUrl><Point><coordinates>2.284,48.88,0</coordinates></Point></Placemark>
+<Placemark><name>파리 동역 짐 보관소</name><description>Gare de l'Est luggage storage · 북역·동역
+12/9 마레 쇼핑 전 짐 맡기기
+팁: 시트에 있는 참고 블로그 글 확인
+https://www.google.com/maps/search/?api=1&amp;query=Gare%20de%20l%27Est%20luggage%20storage%20Paris</description><styleUrl>#hotel</styleUrl><Point><coordinates>2.3592,48.8768,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>크리스마스 마켓</name>
+<Placemark><name>튈르리 크리스마스 마켓</name><description>Tuileries Christmas Market · 중심가
+12/7 21:00~22:00
+팁: 튈르리 정원 리볼리 거리 쪽. 운영 기간·마감 시간은 출발 전 확인
+https://www.google.com/maps/search/?api=1&amp;query=Tuileries%20Christmas%20Market%20Paris</description><styleUrl>#xmas</styleUrl><Point><coordinates>2.3275,48.8635,0</coordinates></Point></Placemark>
+<Placemark><name>샹젤리제 크리스마스 마켓</name><description>Champs-Elysees Christmas Market · 샹젤리제
+10년 만에 다시 열리는 마켓 · 2026.11.22~2027.1.4
+팁: 샹젤리제~콩코르드 광장 사이. 월~목 10~22시, 금~일 10~23시, 12/24 20시 종료·12/31 휴장. 공예품 오두막, 뱅쇼, 공연, 아이스링크
+https://www.google.com/maps/search/?api=1&amp;query=Champs-Elysees%20Christmas%20Market%20Paris</description><styleUrl>#xmas</styleUrl><Point><coordinates>2.3165,48.8672,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>명소</name>
+<Placemark><name>디즈니랜드 파리 (디즈니랜드 파크)</name><description>Disneyland Paris · 발 데 유럽
+12/6 종일 · 1일 2파크
+팁: 12/6 상세 일정은 카드의 "디즈니 상세 일정" 버튼에서. 1일 2파크(결제 완료). 성 지하 용의 동굴·앨리스의 미로·노틸러스호 등 파리 전용 어트랙션 위주, 낙하·무서운 기구는 패스
+https://www.google.com/maps/search/?api=1&amp;query=Disneyland%20Paris%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.7758,48.8722,0</coordinates></Point></Placemark>
+<Placemark><name>라발레 빌리지 아울렛</name><description>La Vallee Village · 발 데 유럽
+12/6 디즈니 후 또는 숙소 근처 쇼핑
+팁: 시트 추천 메모: 겨울이라서 사람 없음
+https://www.google.com/maps/search/?api=1&amp;query=La%20Vallee%20Village%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.79,48.854,0</coordinates></Point></Placemark>
+<Placemark><name>루브르 박물관</name><description>Louvre Museum · 중심가
+12/7 12:00~15:00 · 티켓 예약 완료
+팁: 시트 메모: 예약 완료
+https://www.google.com/maps/search/?api=1&amp;query=Louvre%20Museum%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.3376,48.8606,0</coordinates></Point></Placemark>
+<Placemark><name>오랑주리 미술관</name><description>Musee de l'Orangerie · 중심가
+12/7 15:00~18:00 · 티켓 예약 완료
+팁: 시트 메모: 예약 완료. 모네 '수련' 연작 전시실
+https://www.google.com/maps/search/?api=1&amp;query=Musee%20de%20l%27Orangerie%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.3227,48.8638,0</coordinates></Point></Placemark>
+<Placemark><name>베르사유 궁전</name><description>Palace of Versailles · 베르사유
+12/8 10:00~13:00 · RER C · 티켓 예약 완료
+팁: 시트 추천 메모: 실내는 괜찮지만 겨울이라 정원은 볼 거 없음. 월요일 휴관(12/8 화요일 OK)
+https://www.google.com/maps/search/?api=1&amp;query=Palace%20of%20Versailles%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.1204,48.8049,0</coordinates></Point></Placemark>
+<Placemark><name>오르세 미술관</name><description>Musee d'Orsay · 중심가
+12/8 14:00~16:00
+팁: 시트 추천 메모: 빨리 보면 1~2시간, 꼼꼼하게 보면 3~4시간. 줄이 길어져서 일찍 가야 함
+https://www.google.com/maps/search/?api=1&amp;query=Musee%20d%27Orsay%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.3266,48.86,0</coordinates></Point></Placemark>
+<Placemark><name>갤러리 라파예트</name><description>Galeries Lafayette Haussmann · 오페라
+12/8 16:30~18:30 쇼핑
+팁: 시트 추천 메모: 내부가 엄청 예쁨. 12월엔 돔 아래 대형 크리스마스 트리, 옥상 테라스 전망
+https://www.google.com/maps/search/?api=1&amp;query=Galeries%20Lafayette%20Haussmann%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.332,48.8738,0</coordinates></Point></Placemark>
+<Placemark><name>마레 지구</name><description>Le Marais Paris · 마레
+12/9 08:00~11:00 쇼핑
+팁: 시트 메모: 짐 맡길 곳 찾아야 함 → 파리 동역 짐 보관소. 상점은 10~11시에 여는 곳이 많아 너무 이르면 문 닫혀 있음
+https://www.google.com/maps/search/?api=1&amp;query=Le%20Marais%20Paris%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.362,48.859,0</coordinates></Point></Placemark>
+<Placemark><name>노트르담 대성당</name><description>Notre-Dame de Paris · 시테섬
+시트 추천
+팁: 시트 추천 메모: 일요일은 피하기
+https://www.google.com/maps/search/?api=1&amp;query=Notre-Dame%20de%20Paris%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.3499,48.853,0</coordinates></Point></Placemark>
+<Placemark><name>사랑해 벽</name><description>Wall of Love Montmartre · 몽마르트르
+시트 추천 · 몽마르트르 가는 길
+팁: 시트 추천 메모: 공사 중
+https://www.google.com/maps/search/?api=1&amp;query=Wall%20of%20Love%20Montmartre%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.3387,48.8848,0</coordinates></Point></Placemark>
+<Placemark><name>몽쥬 약국</name><description>Pharmacie Monge · 라탱 지구
+시트 추천 · 약국 기념품
+팁: 시트 추천 메모: 약국 기념품 많이 산다고 함
+https://www.google.com/maps/search/?api=1&amp;query=Pharmacie%20Monge%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.3523,48.8433,0</coordinates></Point></Placemark>
+<Placemark><name>디즈니 어드벤처 월드</name><description>Disney Adventure World · 발 데 유럽
+두 번째 파크 · 라따뚜이 어드벤처 · 월드 오브 프로즌
+팁: 2026년 월트 디즈니 스튜디오에서 이름이 바뀐 파크. 라따뚜이(파리 원조)와 2026 신규 월드 오브 프로즌. 타워 오브 테러·코스터류는 이번 일정에서 패스
+https://www.google.com/maps/search/?api=1&amp;query=Disney%20Adventure%20World%20Paris</description><styleUrl>#sight</styleUrl><Point><coordinates>2.7797,48.8677,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>식당</name>
+<Placemark><name>발 데 유럽 쇼핑센터 식당가</name><description>Val d'Europe shopping centre · 발 데 유럽 · 저녁
+12/5 저녁 · 숙소 근처 (시트에 식당 미정)
+팁: 도착일 밤이라 멀리 가지 않고 숙소 근처에서. 쇼핑센터 식당은 일찍 닫는 곳이 있어 20시 전후 도착 시 영업시간 확인
+https://www.google.com/maps/search/?api=1&amp;query=Val%20d%27Europe%20shopping%20centre%20Paris</description><styleUrl>#food</styleUrl><Point><coordinates>2.782,48.8535,0</coordinates></Point></Placemark>
+<Placemark><name>를레 드 랑트르코트 (마르뵈프)</name><description>Le Relais de l'Entrecote Marbeuf · 샹젤리제 · 저녁
+스테이크 프리트 단일 메뉴 · 바토무슈 선착장 도보 12분
+팁: 예약 안 받아서 오픈 시간(18:45 전후) 맞춰 줄 서기. 굽기만 고르면 되고 리필 한 번 더 나옴
+https://www.google.com/maps/search/?api=1&amp;query=Le%20Relais%20de%20l%27Entrecote%20Marbeuf%20Paris</description><styleUrl>#food</styleUrl><Point><coordinates>2.3036,48.8687,0</coordinates></Point></Placemark>
+<Placemark><name>부용 샤르티에 (그랑 불바르)</name><description>Bouillon Chartier Grands Boulevards · 오페라 · 저녁
+1896년 문을 연 가성비 프랑스 식당
+팁: 예약 안 받아 줄 서지만 회전 빠름. 에스카르고·뵈프 부르기뇽. 라파예트에서 도보 10분
+https://www.google.com/maps/search/?api=1&amp;query=Bouillon%20Chartier%20Grands%20Boulevards%20Paris</description><styleUrl>#food</styleUrl><Point><coordinates>2.3434,48.8719,0</coordinates></Point></Placemark>
+<Placemark><name>라스 뒤 팔라펠</name><description>L'As du Fallafel · 마레 · 점심
+마레 지구 팔라펠 샌드위치
+팁: 보통 11시 오픈이라 12/9 동선(11시 공항 이동)과는 안 맞음. 시간이 남으면 포장
+https://www.google.com/maps/search/?api=1&amp;query=L%27As%20du%20Fallafel%20Paris</description><styleUrl>#food</styleUrl><Point><coordinates>2.359,48.8573,0</coordinates></Point></Placemark>
+<Placemark><name>브레이즈 카페 (마레)</name><description>Breizh Cafe Marais · 마레 · 점심
+메밀 갈레트·크레페
+팁: 인기 많아 예약 추천
+https://www.google.com/maps/search/?api=1&amp;query=Breizh%20Cafe%20Marais%20Paris</description><styleUrl>#food</styleUrl><Point><coordinates>2.3628,48.8606,0</coordinates></Point></Placemark>
+<Placemark><name>비스트로 셰 레미</name><description>Bistrot Chez Remy Disneyland Paris · 발 데 유럽 · 점심
+라따뚜이 테마 레스토랑 · 12/6 점심
+팁: 쥐 크기로 작아진 듯한 거대한 소품 사이에서 식사. 테이블 서비스라 공식 앱·사이트에서 사전 예약 추천
+https://www.google.com/maps/search/?api=1&amp;query=Bistrot%20Chez%20Remy%20Disneyland%20Paris%20Paris</description><styleUrl>#food</styleUrl><Point><coordinates>2.7808,48.8669,0</coordinates></Point></Placemark>
+<Placemark><name>디즈니 빌리지</name><description>Disney Village · 발 데 유럽 · 저녁
+파크 입구 앞 식당·상점 거리 · 12/6 저녁
+팁: 버거·스테이크·테마 레스토랑이 모여 있음. 일요일 저녁은 붐비니 예약 또는 이른 방문
+https://www.google.com/maps/search/?api=1&amp;query=Disney%20Village%20Paris</description><styleUrl>#food</styleUrl><Point><coordinates>2.7861,48.8703,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>카페</name>
+<Placemark><name>안젤리나</name><description>Angelina Paris Rivoli · 중심가
+시트 추천 · 몽블랑 맛집
+팁: 시트 추천 메모: 몽블랑 맛집. 튈르리 정원 맞은편이라 12/7 루브르·오랑주리 동선과 가까움
+https://www.google.com/maps/search/?api=1&amp;query=Angelina%20Paris%20Rivoli%20Paris</description><styleUrl>#cafe</styleUrl><Point><coordinates>2.3284,48.865,0</coordinates></Point></Placemark>
+<Placemark><name>카페 캄파나 (오르세 미술관)</name><description>Cafe Campana Musee d'Orsay · 중심가
+오르세 5층 대형 시계 옆 카페
+팁: 미술관 입장권 필요. 12/8 베르사유에서 넘어와 늦은 점심 겸 휴식
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Campana%20Musee%20d%27Orsay%20Paris</description><styleUrl>#cafe</styleUrl><Point><coordinates>2.3258,48.8603,0</coordinates></Point></Placemark>
+<Placemark><name>뒤 팽 에 데 이데</name><description>Du Pain et des Idees · 북역·동역
+피스타치오 에스카르고 빵 · 파리 동역 도보 7분
+팁: 주말 휴무, 12/9 수요일은 영업. 테이크아웃 위주
+https://www.google.com/maps/search/?api=1&amp;query=Du%20Pain%20et%20des%20Idees%20Paris</description><styleUrl>#cafe</styleUrl><Point><coordinates>2.3634,48.8714,0</coordinates></Point></Placemark>
+<Placemark><name>카레트 (보주 광장)</name><description>Carette Place des Vosges · 마레
+보주 광장 아케이드 카페 · 마카롱·핫초코
+팁: 보주 광장 산책과 함께. 아침 일찍부터 영업
+https://www.google.com/maps/search/?api=1&amp;query=Carette%20Place%20des%20Vosges%20Paris</description><styleUrl>#cafe</styleUrl><Point><coordinates>2.3657,48.8556,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>야경·바</name>
+<Placemark><name>바토무슈 선착장</name><description>Bateaux Mouches Pont de l'Alma · 중심가
+12/7 19:30~21:00 센강 유람선
+팁: 알마 다리 선착장 출발. 에펠탑 정시 조명(매시 정각 5분 반짝임)과 겹치게 타면 좋음
+https://www.google.com/maps/search/?api=1&amp;query=Bateaux%20Mouches%20Pont%20de%20l%27Alma%20Paris</description><styleUrl>#night</styleUrl><Point><coordinates>2.306,48.864,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/5 파리 도착</name><Style id="r125"><LineStyle><color>ff2f91e0</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/5 동선</name><styleUrl>#r125</styleUrl><LineString><coordinates>2.5479,49.0097,0 2.786,48.853,0 2.782,48.8535,0</coordinates></LineString></Placemark>
+<Placemark><name>12/5-1 18:35 샤를 드골 공항</name><description>KE901 도착 · 우버 앱 요금 먼저 확인(Comfort급) → 비싸거나 번거로우면 공식 택시 승강장</description><Point><coordinates>2.5479,49.0097,0</coordinates></Point></Placemark>
+<Placemark><name>12/5-2 20:00 목시 파리 발 데 유럽</name><description>우버 또는 공인 택시로 이동 (약 40~50분) · 체크인</description><Point><coordinates>2.786,48.853,0</coordinates></Point></Placemark>
+<Placemark><name>12/5-3 20:15 발 데 유럽 쇼핑센터 식당가</name><description>저녁 · 숙소 근처 (시트 20:00~22:00 저녁)</description><Point><coordinates>2.782,48.8535,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/6 디즈니랜드 파리 · 라발레 빌리지</name><Style id="r126"><LineStyle><color>ff7a3dc4</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/6 동선</name><styleUrl>#r126</styleUrl><LineString><coordinates>2.786,48.853,0 2.7758,48.8722,0 2.7808,48.8669,0 2.7797,48.8677,0 2.7758,48.8722,0 2.79,48.854,0 2.7861,48.8703,0 2.7758,48.8722,0 2.786,48.853,0</coordinates></LineString></Placemark>
+<Placemark><name>12/6-1 08:30 목시 파리 발 데 유럽</name><description>RER A 한 정거장(마른라발레-셰시) 또는 도보 20분</description><Point><coordinates>2.786,48.853,0</coordinates></Point></Placemark>
+<Placemark><name>12/6-2 09:00 디즈니랜드 파리 (디즈니랜드 파크)</name><description>오픈런: 피터팬 → 성·용의 동굴 → 앨리스의 미로 → 보트·스몰 월드 → 노틸러스호 (상세 일정 버튼 참고)</description><Point><coordinates>2.7758,48.8722,0</coordinates></Point></Placemark>
+<Placemark><name>12/6-3 13:00 비스트로 셰 레미</name><description>점심 · 라따뚜이 테마 레스토랑 (사전 예약)</description><Point><coordinates>2.7808,48.8669,0</coordinates></Point></Placemark>
+<Placemark><name>12/6-4 14:15 디즈니 어드벤처 월드</name><description>라따뚜이 어드벤처 → 월드 오브 프로즌 아렌델 마을</description><Point><coordinates>2.7797,48.8677,0</coordinates></Point></Placemark>
+<Placemark><name>12/6-5 16:45 디즈니랜드 파리 (디즈니랜드 파크)</name><description>메인 스트리트 크리스마스 조명·퍼레이드 (시간은 앱 확인)</description><Point><coordinates>2.7758,48.8722,0</coordinates></Point></Placemark>
+<Placemark><name>12/6-6 17:45 라발레 빌리지 아울렛</name><description>라발레 빌리지 아울렛 (시트 일정) · 숙소 바로 옆</description><Point><coordinates>2.79,48.854,0</coordinates></Point></Placemark>
+<Placemark><name>12/6-7 19:45 디즈니 빌리지</name><description>저녁 · 디즈니 빌리지 식당가</description><Point><coordinates>2.7861,48.8703,0</coordinates></Point></Placemark>
+<Placemark><name>12/6-8 21:00 디즈니랜드 파리 (디즈니랜드 파크)</name><description>성 야간 쇼 (폐장 시간 맞춰, 앱 확인)</description><Point><coordinates>2.7758,48.8722,0</coordinates></Point></Placemark>
+<Placemark><name>12/6-9 22:00 목시 파리 발 데 유럽</name><description>숙소 복귀</description><Point><coordinates>2.786,48.853,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/7 루브르 · 오랑주리 · 바토무슈 · 튈르리 마켓</name><Style id="r127"><LineStyle><color>ffcd5f3a</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/7 동선</name><styleUrl>#r127</styleUrl><LineString><coordinates>2.786,48.853,0 2.284,48.88,0 2.3284,48.865,0 2.3376,48.8606,0 2.3227,48.8638,0 2.3036,48.8687,0 2.306,48.864,0 2.3165,48.8672,0 2.3275,48.8635,0 2.284,48.88,0</coordinates></LineString></Placemark>
+<Placemark><name>12/7-1 08:00 목시 파리 발 데 유럽</name><description>우버 예약(Comfort급, 요금 확정)으로 하얏트 이동 · 출근 시간이라 약 1시간 20분</description><Point><coordinates>2.786,48.853,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-2 10:00 하얏트 리젠시 파리 에투알</name><description>짐 맡기기 → 지하철 1호선 포르트 마요역 → 튈르리역 (갈아타기 없이 7정거장, 약 20분)</description><Point><coordinates>2.284,48.88,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-3 10:45 안젤리나</name><description>브런치 + 몽블랑 (시트 추천) · 튈르리역에서 도보 1분 · 루브르까지 도보 5분</description><Point><coordinates>2.3284,48.865,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-4 12:00 루브르 박물관</name><description>12:00~15:00 (티켓 예약 완료)</description><Point><coordinates>2.3376,48.8606,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-5 15:00 오랑주리 미술관</name><description>15:00~18:00 (티켓 예약 완료)</description><Point><coordinates>2.3227,48.8638,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-6 18:00 를레 드 랑트르코트 (마르뵈프)</name><description>저녁 · 스테이크 프리트 (예약 불가, 오픈 맞춰 줄 서기) · 선착장까지 도보 12분</description><Point><coordinates>2.3036,48.8687,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-7 19:30 바토무슈 선착장</name><description>바토무슈 탑승 19:30~21:00</description><Point><coordinates>2.306,48.864,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-8 21:00 샹젤리제 크리스마스 마켓</name><description>10년 만의 샹젤리제 마켓 (월요일 22시 종료) · 선착장에서 콩코르드 방향</description><Point><coordinates>2.3165,48.8672,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-9 21:40 튈르리 크리스마스 마켓</name><description>콩코르드 광장 건너 튈르리 마켓 (시트 일정)</description><Point><coordinates>2.3275,48.8635,0</coordinates></Point></Placemark>
+<Placemark><name>12/7-10 22:00 하얏트 리젠시 파리 에투알</name><description>호텔 이동</description><Point><coordinates>2.284,48.88,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/8 베르사유 · 오르세 · 라파예트</name><Style id="r128"><LineStyle><color>ff7a9a2f</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/8 동선</name><styleUrl>#r128</styleUrl><LineString><coordinates>2.284,48.88,0 2.1204,48.8049,0 2.3266,48.86,0 2.3258,48.8603,0 2.332,48.8738,0 2.3434,48.8719,0 2.284,48.88,0</coordinates></LineString></Placemark>
+<Placemark><name>12/8-1 08:00 하얏트 리젠시 파리 에투알</name><description>호텔 출발</description><Point><coordinates>2.284,48.88,0</coordinates></Point></Placemark>
+<Placemark><name>12/8-2 10:00 베르사유 궁전</name><description>10:00~13:00 · RER C (티켓 예약 완료)</description><Point><coordinates>2.1204,48.8049,0</coordinates></Point></Placemark>
+<Placemark><name>12/8-3 14:00 오르세 미술관</name><description>이동 13:00~14:00 · 관람 14:00~16:00 (줄이 길어 예약 시간 맞춰)</description><Point><coordinates>2.3266,48.86,0</coordinates></Point></Placemark>
+<Placemark><name>12/8-4 14:00 카페 캄파나 (오르세 미술관)</name><description>관람 중 늦은 점심 · 대형 시계 옆 카페</description><Point><coordinates>2.3258,48.8603,0</coordinates></Point></Placemark>
+<Placemark><name>12/8-5 16:30 갤러리 라파예트</name><description>쇼핑 16:30~18:30</description><Point><coordinates>2.332,48.8738,0</coordinates></Point></Placemark>
+<Placemark><name>12/8-6 18:45 부용 샤르티에 (그랑 불바르)</name><description>저녁 · 가성비 프랑스 요리 (줄 서지만 회전 빠름)</description><Point><coordinates>2.3434,48.8719,0</coordinates></Point></Placemark>
+<Placemark><name>12/8-7  하얏트 리젠시 파리 에투알</name><description></description><Point><coordinates>2.284,48.88,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/9 마레 쇼핑 · 프라하로</name><Style id="r129"><LineStyle><color>ff96877c</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/9 동선</name><styleUrl>#r129</styleUrl><LineString><coordinates>2.284,48.88,0 2.3592,48.8768,0 2.3634,48.8714,0 2.362,48.859,0 2.3657,48.8556,0 2.3592,48.8768,0 2.5479,49.0097,0</coordinates></LineString></Placemark>
+<Placemark><name>12/9-1 08:00 하얏트 리젠시 파리 에투알</name><description>체크아웃</description><Point><coordinates>2.284,48.88,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-2 08:30 파리 동역 짐 보관소</name><description>파리 동역에 짐 맡기기</description><Point><coordinates>2.3592,48.8768,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-3 08:45 뒤 팽 에 데 이데</name><description>아침 빵 · 피스타치오 에스카르고 (동역에서 도보 7분)</description><Point><coordinates>2.3634,48.8714,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-4 09:30 마레 지구</name><description>마레 지구 쇼핑 (상점은 10~11시 오픈이 많음)</description><Point><coordinates>2.362,48.859,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-5 10:00 카레트 (보주 광장)</name><description>보주 광장 산책 + 핫초코</description><Point><coordinates>2.3657,48.8556,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-6 11:00 파리 동역 짐 보관소</name><description>짐 찾고 공항 이동 (11:00~12:00, 공항 13시 도착 목표)</description><Point><coordinates>2.3592,48.8768,0</coordinates></Point></Placemark>
+<Placemark><name>12/9-7 15:20 샤를 드골 공항</name><description>프라하행 출발 15:20 → 17:05 도착</description><Point><coordinates>2.5479,49.0097,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

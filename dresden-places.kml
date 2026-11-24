@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>드레스덴 허니문</name>
+<Style id="hotel"><IconStyle><color>ff1c8ad9</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="xmas"><IconStyle><color>ff5a8316</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="sight"><IconStyle><color>ffc8552f</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="food"><IconStyle><color>ff2e3fc6</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="cafe"><IconStyle><color>ff2b5a8a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="night"><IconStyle><color>ffa83a7a</color><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Folder><name>숙소·역</name>
+<Placemark><name>드레스덴 중앙역</name><description>Dresden Hauptbahnhof Bayrische Strasse · 중앙역
+도착 12:55 · 복귀 플릭스버스 19:50 (Bayrische Straße 12)
+팁: 복귀 버스는 중앙역 남쪽 Bayrische Straße 정류장. 15분 전 도착. 정류장이 공사로 옮겨진 적이 있으니 전날 플릭스버스 앱에서 위치 확인
+https://www.google.com/maps/search/?api=1&amp;query=Dresden%20Hauptbahnhof%20Bayrische%20Strasse%20Dresden</description><styleUrl>#hotel</styleUrl><Point><coordinates>13.7318,51.04,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>크리스마스 마켓</name>
+<Placemark><name>슈트리첼마르크트</name><description>Striezelmarkt Dresden · 알트슈타트
+11/25~12/24 · 10~21시 · 독일 최古 크리스마스 마켓
+팁: 1434년 시작. 세계 최대 크리스마스 피라미드, 슈톨렌, 한트브로트(치즈햄 빵), 머그컵은 해마다 디자인이 달라 기념품으로 가져가는 사람 많음(보증금 포함)
+https://www.google.com/maps/search/?api=1&amp;query=Striezelmarkt%20Dresden%20Dresden</description><styleUrl>#xmas</styleUrl><Point><coordinates>13.7389,51.0497,0</coordinates></Point></Placemark>
+<Placemark><name>노이마르크트 어드벤트 마켓</name><description>Advent auf dem Neumarkt Dresden · 알트슈타트
+11/25~ · 11~22시 · 프라우엔 교회 앞
+팁: 성모 교회를 배경으로 한 사진이 가장 예쁜 마켓. 19세기 옷차림 상인 컨셉
+https://www.google.com/maps/search/?api=1&amp;query=Advent%20auf%20dem%20Neumarkt%20Dresden%20Dresden</description><styleUrl>#xmas</styleUrl><Point><coordinates>13.7423,51.0514,0</coordinates></Point></Placemark>
+<Placemark><name>슈탈호프 중세 마켓</name><description>Stallhof Medieval Christmas Market · 알트슈타트
+11/25~ · 성 마구간 마당 · 유일한 유료 마켓
+팁: 횃불, 대장장이, 중세 의상. 입장료 소액. 푸르스텐추크 벽화 바로 뒤
+https://www.google.com/maps/search/?api=1&amp;query=Stallhof%20Medieval%20Christmas%20Market%20Dresden</description><styleUrl>#xmas</styleUrl><Point><coordinates>13.739,51.0527,0</coordinates></Point></Placemark>
+<Placemark><name>아우구스투스 마켓</name><description>Augustusmarkt Dresden · 노이슈타트
+노이슈타트 하웁트슈트라세 · 1/3까지
+팁: 강 건너 노이슈타트 쪽. 현지인 많고 덜 붐빔. 시간 여유 있을 때만
+https://www.google.com/maps/search/?api=1&amp;query=Augustusmarkt%20Dresden%20Dresden</description><styleUrl>#xmas</styleUrl><Point><coordinates>13.744,51.06,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>명소</name>
+<Placemark><name>프라거 슈트라세</name><description>Prager Strasse Dresden · 알트슈타트
+중앙역 → 구시가 보행자 거리
+팁: 버스에서 내려 구시가까지 걸어가는 길(10분). 12월엔 조명 장식
+https://www.google.com/maps/search/?api=1&amp;query=Prager%20Strasse%20Dresden%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.7365,51.045,0</coordinates></Point></Placemark>
+<Placemark><name>성 십자가 교회</name><description>Kreuzkirche Dresden · 알트슈타트
+슈트리첼마르크트 옆 · 탑 전망대
+팁: 탑 전망대(유료)에서 마켓과 구시가를 위에서 볼 수 있음. 소년 합창단 크로이츠코어로 유명
+https://www.google.com/maps/search/?api=1&amp;query=Kreuzkirche%20Dresden%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.7403,51.0493,0</coordinates></Point></Placemark>
+<Placemark><name>프라우엔 교회 (성모 교회)</name><description>Frauenkirche Dresden · 알트슈타트
+전쟁으로 무너졌다가 재건된 드레스덴의 상징
+팁: 평일 10~12시, 13~18시 무료 입장(행사 시 제한). 벽의 검은 돌이 원래 잔해. 돔 전망대는 별도 유료
+https://www.google.com/maps/search/?api=1&amp;query=Frauenkirche%20Dresden%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.7416,51.0519,0</coordinates></Point></Placemark>
+<Placemark><name>군주의 행렬 (푸르스텐추크)</name><description>Fuerstenzug Dresden · 알트슈타트
+마이센 도자기 타일 2만 3천 장 벽화
+팁: 102m 길이. 한 화면에 다 담으려면 길 건너편 끝에서 광각으로
+https://www.google.com/maps/search/?api=1&amp;query=Fuerstenzug%20Dresden%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.7395,51.053,0</coordinates></Point></Placemark>
+<Placemark><name>드레스덴 대성당 (호프키르헤)</name><description>Dresden Cathedral Hofkirche · 알트슈타트
+작센 최대 성당
+팁: 강변 야경 사진의 주인공. 내부 무료
+https://www.google.com/maps/search/?api=1&amp;query=Dresden%20Cathedral%20Hofkirche%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.736,51.0535,0</coordinates></Point></Placemark>
+<Placemark><name>젬퍼 오페라하우스</name><description>Semperoper · 알트슈타트
+극장 광장의 오페라하우스
+팁: 내부는 가이드 투어(공연 일정에 따라 시간 변동). 저녁 조명이 예쁨
+https://www.google.com/maps/search/?api=1&amp;query=Semperoper%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.7351,51.0543,0</coordinates></Point></Placemark>
+<Placemark><name>츠빙거 궁전</name><description>Zwinger Dresden · 알트슈타트
+바로크 궁전 안뜰
+팁: 안뜰은 무료(6~20시경). 회랑 위로 올라가 걷기 추천. 옛 거장 회화관에 라파엘로 '시스티나 성모'(아기 천사 그림)
+https://www.google.com/maps/search/?api=1&amp;query=Zwinger%20Dresden%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.7337,51.053,0</coordinates></Point></Placemark>
+<Placemark><name>아우구스투스 다리</name><description>Augustus Bridge Dresden · 알트슈타트
+구시가와 노이슈타트를 잇는 다리
+팁: 다리 중간에서 뒤돌면 대성당·성·젬퍼오퍼가 한 줄로 보임
+https://www.google.com/maps/search/?api=1&amp;query=Augustus%20Bridge%20Dresden%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.74,51.0553,0</coordinates></Point></Placemark>
+<Placemark><name>황금 기마상</name><description>Golden Rider Dresden · 노이슈타트
+아우구스트 강건왕 금박 기마상
+팁: 노이슈타트 입구. 아우구스투스 마켓 시작점
+https://www.google.com/maps/search/?api=1&amp;query=Golden%20Rider%20Dresden%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.7425,51.0583,0</coordinates></Point></Placemark>
+<Placemark><name>알베르티눔</name><description>Albertinum · 알트슈타트
+근현대 미술관 · 게르하르트 리히터 전시관
+팁: 미술 좋아하면. 당일치기 기본 동선엔 제외
+https://www.google.com/maps/search/?api=1&amp;query=Albertinum%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.747,51.0515,0</coordinates></Point></Placemark>
+<Placemark><name>쿤스트호프 파사주</name><description>Kunsthofpassage · 노이슈타트
+비 오면 음악 소리 나는 배수관 건물
+팁: 구시가에서 도보 25분이라 이번 일정엔 빠듯. 다음 여행 후보
+https://www.google.com/maps/search/?api=1&amp;query=Kunsthofpassage%20Dresden</description><styleUrl>#sight</styleUrl><Point><coordinates>13.7545,51.0681,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>식당</name>
+<Placemark><name>겐제디프</name><description>Gaensedieb Dresden · 알트슈타트 · 점심·저녁
+작센 전통 요리 · 슈트리첼마르크트 옆
+팁: 자우어브라텐(새콤한 소고기 찜), 거위 요리. 12월 저녁은 붐벼서 점심 방문 추천
+https://www.google.com/maps/search/?api=1&amp;query=Gaensedieb%20Dresden%20Dresden</description><styleUrl>#food</styleUrl><Point><coordinates>13.7412,51.049,0</coordinates></Point></Placemark>
+<Placemark><name>조피엔켈러</name><description>Sophienkeller Dresden · 알트슈타트 · 점심·저녁
+타셴베르크 궁전 지하 중세 컨셉 레스토랑
+팁: 통돼지 바비큐, 중세 분위기. 관광객용이지만 한국인 후기 많음
+https://www.google.com/maps/search/?api=1&amp;query=Sophienkeller%20Dresden%20Dresden</description><styleUrl>#food</styleUrl><Point><coordinates>13.7357,51.0518,0</coordinates></Point></Placemark>
+<Placemark><name>풀버투름</name><description>Pulverturm Dresden · 알트슈타트 · 점심·저녁
+코젤 궁전 지하 화약고 레스토랑
+팁: 프라우엔 교회 바로 옆. 작센식 꼴레뇨(학세), 큰 맥주잔
+https://www.google.com/maps/search/?api=1&amp;query=Pulverturm%20Dresden%20Dresden</description><styleUrl>#food</styleUrl><Point><coordinates>13.743,51.0522,0</coordinates></Point></Placemark>
+<Placemark><name>아우구스티너 안 데어 프라우엔키르헤</name><description>Augustiner an der Frauenkirche · 알트슈타트 · 점심·저녁
+뮌헨 아우구스티너 맥주 · 슈바인스학세
+팁: 노이마르크트 마켓 바로 앞. 예약 없이도 비교적 자리 남
+https://www.google.com/maps/search/?api=1&amp;query=Augustiner%20an%20der%20Frauenkirche%20Dresden</description><styleUrl>#food</styleUrl><Point><coordinates>13.7426,51.0512,0</coordinates></Point></Placemark>
+<Placemark><name>바츠케 암 골데넨 라이터</name><description>Watzke am Goldenen Reiter · 노이슈타트 · 점심·저녁
+자가양조 펍 · 강변 전망
+팁: 쾨니히스우퍼 야경 보고 들르기 좋은 위치. 하우스 맥주 시음 세트
+https://www.google.com/maps/search/?api=1&amp;query=Watzke%20am%20Goldenen%20Reiter%20Dresden</description><styleUrl>#food</styleUrl><Point><coordinates>13.742,51.058,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>카페</name>
+<Placemark><name>푼트 몰케라이</name><description>Pfunds Molkerei · 노이슈타트
+'세계에서 가장 아름다운 우유가게'
+팁: 내부 타일이 핵심인데 사진 촬영 금지. 2층 카페에서 우유 디저트. 일요일 단축 영업. 구시가에서 멀어 선택
+https://www.google.com/maps/search/?api=1&amp;query=Pfunds%20Molkerei%20Dresden</description><styleUrl>#cafe</styleUrl><Point><coordinates>13.7605,51.0646,0</coordinates></Point></Placemark>
+<Placemark><name>알테 마이스터 카페 &amp; 레스토랑</name><description>Alte Meister Cafe Restaurant Dresden · 알트슈타트
+츠빙거 옆 · 극장 광장 뷰
+팁: 젬퍼오퍼 뷰 창가석. 케이크·커피 휴식
+https://www.google.com/maps/search/?api=1&amp;query=Alte%20Meister%20Cafe%20Restaurant%20Dresden%20Dresden</description><styleUrl>#cafe</styleUrl><Point><coordinates>13.7343,51.0538,0</coordinates></Point></Placemark>
+<Placemark><name>크로이츠캄</name><description>Kreutzkamm Dresden · 알트슈타트
+1825년 창업 · 바움쿠헨과 드레스덴 슈톨렌
+팁: 슈톨렌 선물용 구입 추천(포장 튼튼, 상온 보관 OK). 아이어셰케(드레스덴 치즈케이크)도
+https://www.google.com/maps/search/?api=1&amp;query=Kreutzkamm%20Dresden%20Dresden</description><styleUrl>#cafe</styleUrl><Point><coordinates>13.7376,51.0495,0</coordinates></Point></Placemark>
+<Placemark><name>카페 쉰켈바헤</name><description>Cafe Schinkelwache · 알트슈타트
+옛 경비초소 건물 카페 · 젬퍼오퍼 앞
+팁: ⚠ 폐업했다는 정보가 있어 방문 전 확인 필요. 대안: 알테 마이스터 카페
+https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Schinkelwache%20Dresden</description><styleUrl>#cafe</styleUrl><Point><coordinates>13.7367,51.0546,0</coordinates></Point></Placemark>
+<Placemark><name>코젤팔라이스 카페</name><description>Coselpalais Cafe Dresden · 알트슈타트
+바로크 궁전 카페 · 프라우엔 교회 뒤
+팁: 케이크 진열장이 화려. 브륄의 테라스 가기 전 커피
+https://www.google.com/maps/search/?api=1&amp;query=Coselpalais%20Cafe%20Dresden%20Dresden</description><styleUrl>#cafe</styleUrl><Point><coordinates>13.7437,51.0524,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>야경·바</name>
+<Placemark><name>브륄의 테라스</name><description>Bruehl's Terrace · 알트슈타트
+'유럽의 발코니' 엘베 강변 산책로
+팁: 12월 일몰 15:55 전후. 테라스 위에서 아우구스투스 다리와 강 건너 노이슈타트 노을
+https://www.google.com/maps/search/?api=1&amp;query=Bruehl%27s%20Terrace%20Dresden</description><styleUrl>#night</styleUrl><Point><coordinates>13.7435,51.0532,0</coordinates></Point></Placemark>
+<Placemark><name>쾨니히스우퍼 (카날레토 뷰)</name><description>Koenigsufer Dresden · 노이슈타트
+강 건너편에서 보는 드레스덴 스카이라인
+팁: 드레스덴 엽서 사진 그 자리. 해 진 뒤 조명 켜지면 야경 1순위. 다리 건너 오른쪽 강변
+https://www.google.com/maps/search/?api=1&amp;query=Koenigsufer%20Dresden%20Dresden</description><styleUrl>#night</styleUrl><Point><coordinates>13.7445,51.0568,0</coordinates></Point></Placemark>
+</Folder>
+<Folder><name>12/11 드레스덴 당일치기 · 슈트리첼마르크트</name><Style id="r1211"><LineStyle><color>ff2f45b8</color><width>4</width></LineStyle></Style>
+<Placemark><name>12/11 동선</name><styleUrl>#r1211</styleUrl><LineString><coordinates>13.7318,51.04,0 13.7365,51.045,0 13.7412,51.049,0 13.7389,51.0497,0 13.7416,51.0519,0 13.7423,51.0514,0 13.7395,51.053,0 13.7435,51.0532,0 13.74,51.0553,0 13.7445,51.0568,0 13.736,51.0535,0 13.7351,51.0543,0 13.7337,51.053,0 13.739,51.0527,0 13.7376,51.0495,0 13.7389,51.0497,0 13.7318,51.04,0</coordinates></LineString></Placemark>
+<Placemark><name>12/11-1 12:55 드레스덴 중앙역</name><description>도착 (10:45 프라하 출발)</description><Point><coordinates>13.7318,51.04,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-2 13:00 프라거 슈트라세</name><description>보행자 거리 따라 구시가로 10분</description><Point><coordinates>13.7365,51.045,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-3 13:15 겐제디프</name><description>점심 · 작센 전통 요리 (저녁엔 붐벼서 점심에)</description><Point><coordinates>13.7412,51.049,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-4 14:15 슈트리첼마르크트</name><description>낮의 슈트리첼마르크트 한 바퀴, 머그컵·피라미드 구경</description><Point><coordinates>13.7389,51.0497,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-5 14:45 프라우엔 교회 (성모 교회)</name><description>프라우엔 교회 내부 (무료)</description><Point><coordinates>13.7416,51.0519,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-6 15:05 노이마르크트 어드벤트 마켓</name><description>교회 배경 마켓 사진</description><Point><coordinates>13.7423,51.0514,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-7 15:20 군주의 행렬 (푸르스텐추크)</name><description>군주의 행렬 벽화</description><Point><coordinates>13.7395,51.053,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-8 15:35 브륄의 테라스</name><description>일몰 15:55 · 유럽의 발코니</description><Point><coordinates>13.7435,51.0532,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-9 16:10 아우구스투스 다리</name><description>다리 건너며 구시가 실루엣</description><Point><coordinates>13.74,51.0553,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-10 16:25 쾨니히스우퍼 (카날레토 뷰)</name><description>조명 켜진 스카이라인 야경 (엽서 뷰)</description><Point><coordinates>13.7445,51.0568,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-11 16:50 드레스덴 대성당 (호프키르헤)</name><description>다시 건너와 대성당</description><Point><coordinates>13.736,51.0535,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-12 17:00 젬퍼 오페라하우스</name><description>조명 켜진 오페라하우스</description><Point><coordinates>13.7351,51.0543,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-13 17:10 츠빙거 궁전</name><description>츠빙거 안뜰·회랑 야경</description><Point><coordinates>13.7337,51.053,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-14 17:40 슈탈호프 중세 마켓</name><description>횃불 켜진 중세 마켓</description><Point><coordinates>13.739,51.0527,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-15 18:15 크로이츠캄</name><description>슈톨렌 선물 구입 + 커피</description><Point><coordinates>13.7376,51.0495,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-16 18:35 슈트리첼마르크트</name><description>저녁은 마켓 먹거리로 · 글뤼바인 한 잔</description><Point><coordinates>13.7389,51.0497,0</coordinates></Point></Placemark>
+<Placemark><name>12/11-17 19:25 드레스덴 중앙역</name><description>도보 12분 · 19:50 프라하행 버스</description><Point><coordinates>13.7318,51.04,0</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>

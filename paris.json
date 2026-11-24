@@ -1,0 +1,446 @@
+[
+{
+"k": "p-cdg",
+"n": "샤를 드골 공항",
+"en": "Paris Charles de Gaulle Airport",
+"c": "hotel",
+"a": "공항",
+"lat": 49.0097,
+"lng": 2.5479,
+"t": "12/5 18:35 도착 (KE901) · 12/9 15:20 프라하행 출발",
+"tip": "12/5 이동 방법: ① 도착 후 우버(또는 볼트) 앱에서 요금 확인 → 큰 캐리어가 있어 Comfort급 이상, 기사에게 \"캐리어 2개(대 1, 중 1)\" 메시지. 미리 예약은 비추천(비행기 지연 시 시간 꼬임). ② 할증으로 비싸거나 픽업 구역 찾기가 번거로우면 공인 택시: 짐 찾고 \"Taxis\" 표지판 따라 터미널 밖 공식 승강장, 안내 직원이 배정. 터미널 안 호객은 무허가라 무시, 정식 택시는 지붕 \"TAXI PARISIEN\" 표시등+미터기. ⚠ 공인 택시 정액(우안 56·좌안 65유로)은 파리 시내만, 발 데 유럽은 미터 요금(참고: 낮 약 75유로, 19시 이후 약 90유로). 주소(Moxy Paris Val d'Europe) 보여주고 카드 결제·영수증 확인",
+"w": "Charles de Gaulle Airport",
+"img": "img/p-cdg.jpg",
+"links": [
+{
+"t": "프랑스 정부: 택시 요금 규정",
+"u": "https://www.service-public.gouv.fr/particuliers/vosdroits/F22127?lang=en"
+},
+{
+"t": "파리 관광청: 공항 택시 요금",
+"u": "https://parisjetaime.com/eng/article/taxis-in-paris-a078"
+}
+]
+},
+{
+"k": "p-moxy",
+"n": "목시 파리 발 데 유럽",
+"en": "Moxy Paris Val d'Europe",
+"c": "hotel",
+"a": "발 데 유럽",
+"lat": 48.853,
+"lng": 2.786,
+"t": "숙소 12/5~12/7 · 디즈니랜드 근처",
+"tip": "12/7 하얏트 이동: 우버 예약 추천 (월요일 08:00 출근 시간이라 미터 요금 택시는 정체만큼 요금이 오름, 우버는 예약 시 요금 확정). 전날 Comfort급 이상으로 예약하고 기사에게 캐리어 2개 메시지. 이미 예약한 한인 택시를 취소한다면 취소 조건 먼저 확인"
+},
+{
+"k": "p-hyatt",
+"n": "하얏트 리젠시 파리 에투알",
+"en": "Hyatt Regency Paris Etoile",
+"c": "hotel",
+"a": "서쪽 (에투알)",
+"lat": 48.88,
+"lng": 2.284,
+"t": "숙소 12/7~12/9 · 포르트 마요",
+"tip": "12/7 10시 도착해 짐 먼저 맡기기"
+},
+{
+"k": "p-disney",
+"n": "디즈니랜드 파리 (디즈니랜드 파크)",
+"en": "Disneyland Paris",
+"c": "sight",
+"a": "발 데 유럽",
+"lat": 48.8722,
+"lng": 2.7758,
+"t": "12/6 종일 · 1일 2파크",
+"tip": "12/6 상세 일정은 카드의 \"디즈니 상세 일정\" 버튼에서. 1일 2파크(결제 완료). 성 지하 용의 동굴·앨리스의 미로·노틸러스호 등 파리 전용 어트랙션 위주, 낙하·무서운 기구는 패스",
+"w": "Disneyland Paris",
+"img": "img/p-disney.jpg"
+},
+{
+"k": "p-vallee",
+"n": "라발레 빌리지 아울렛",
+"en": "La Vallee Village",
+"c": "sight",
+"a": "발 데 유럽",
+"lat": 48.854,
+"lng": 2.79,
+"t": "12/6 디즈니 후 또는 숙소 근처 쇼핑",
+"tip": "시트 추천 메모: 겨울이라서 사람 없음",
+"links": [
+{
+"t": "구글 지도 (시트 링크)",
+"u": "https://maps.app.goo.gl/t9yWDcNs1JDSY7DJ9"
+}
+],
+"w": "La Vallée Village"
+},
+{
+"k": "p-louvre",
+"n": "루브르 박물관",
+"en": "Louvre Museum",
+"c": "sight",
+"a": "중심가",
+"lat": 48.8606,
+"lng": 2.3376,
+"t": "12/7 12:00~15:00 · 티켓 예약 완료",
+"tip": "시트 메모: 예약 완료",
+"w": "Louvre",
+"img": "img/p-louvre.jpg"
+},
+{
+"k": "p-orangerie",
+"n": "오랑주리 미술관",
+"en": "Musee de l'Orangerie",
+"c": "sight",
+"a": "중심가",
+"lat": 48.8638,
+"lng": 2.3227,
+"t": "12/7 15:00~18:00 · 티켓 예약 완료",
+"tip": "시트 메모: 예약 완료. 모네 '수련' 연작 전시실",
+"w": "Musée de l'Orangerie",
+"img": "img/p-orangerie.jpg"
+},
+{
+"k": "p-bateaux",
+"n": "바토무슈 선착장",
+"en": "Bateaux Mouches Pont de l'Alma",
+"c": "night",
+"a": "중심가",
+"lat": 48.864,
+"lng": 2.306,
+"t": "12/7 19:30~21:00 센강 유람선",
+"tip": "알마 다리 선착장 출발. 에펠탑 정시 조명(매시 정각 5분 반짝임)과 겹치게 타면 좋음",
+"w": "Bateaux Mouches",
+"img": "img/p-bateaux.jpg"
+},
+{
+"k": "p-tuileries",
+"n": "튈르리 크리스마스 마켓",
+"en": "Tuileries Christmas Market",
+"c": "xmas",
+"a": "중심가",
+"lat": 48.8635,
+"lng": 2.3275,
+"t": "12/7 21:00~22:00",
+"tip": "튈르리 정원 리볼리 거리 쪽. 운영 기간·마감 시간은 출발 전 확인",
+"w": "Tuileries Garden",
+"img": "img/p-tuileries.jpg"
+},
+{
+"k": "p-versailles",
+"n": "베르사유 궁전",
+"en": "Palace of Versailles",
+"c": "sight",
+"a": "베르사유",
+"lat": 48.8049,
+"lng": 2.1204,
+"t": "12/8 10:00~13:00 · RER C · 티켓 예약 완료",
+"tip": "시트 추천 메모: 실내는 괜찮지만 겨울이라 정원은 볼 거 없음. 월요일 휴관(12/8 화요일 OK)",
+"links": [
+{
+"t": "구글 지도 (시트 링크)",
+"u": "https://maps.app.goo.gl/AFf7QmKEsyjpn45aA"
+}
+],
+"w": "Palace of Versailles",
+"img": "img/p-versailles.jpg"
+},
+{
+"k": "p-orsay",
+"n": "오르세 미술관",
+"en": "Musee d'Orsay",
+"c": "sight",
+"a": "중심가",
+"lat": 48.86,
+"lng": 2.3266,
+"t": "12/8 14:00~16:00",
+"tip": "시트 추천 메모: 빨리 보면 1~2시간, 꼼꼼하게 보면 3~4시간. 줄이 길어져서 일찍 가야 함",
+"links": [
+{
+"t": "구글 지도 (시트 링크)",
+"u": "https://maps.app.goo.gl/VDNpg7MoLrFXgk87A"
+}
+],
+"w": "Musée d'Orsay"
+},
+{
+"k": "p-lafayette",
+"n": "갤러리 라파예트",
+"en": "Galeries Lafayette Haussmann",
+"c": "sight",
+"a": "오페라",
+"lat": 48.8738,
+"lng": 2.332,
+"t": "12/8 16:30~18:30 쇼핑",
+"tip": "시트 추천 메모: 내부가 엄청 예쁨. 12월엔 돔 아래 대형 크리스마스 트리, 옥상 테라스 전망",
+"links": [
+{
+"t": "구글 지도 (시트 링크)",
+"u": "https://maps.app.goo.gl/DA1JKofHgEuCxVnSA"
+}
+],
+"w": "Galeries Lafayette",
+"img": "img/p-lafayette.jpg"
+},
+{
+"k": "p-marais",
+"n": "마레 지구",
+"en": "Le Marais Paris",
+"c": "sight",
+"a": "마레",
+"lat": 48.859,
+"lng": 2.362,
+"t": "12/9 08:00~11:00 쇼핑",
+"tip": "시트 메모: 짐 맡길 곳 찾아야 함 → 파리 동역 짐 보관소. 상점은 10~11시에 여는 곳이 많아 너무 이르면 문 닫혀 있음",
+"w": "Le Marais",
+"img": "img/p-marais.jpg"
+},
+{
+"k": "p-gareest",
+"n": "파리 동역 짐 보관소",
+"en": "Gare de l'Est luggage storage",
+"c": "hotel",
+"a": "북역·동역",
+"lat": 48.8768,
+"lng": 2.3592,
+"t": "12/9 마레 쇼핑 전 짐 맡기기",
+"tip": "시트에 있는 참고 블로그 글 확인",
+"links": [
+{
+"t": "블로그 (시트 링크)",
+"u": "https://blog.naver.com/ye951106/223291515459"
+}
+],
+"w": "Gare de l'Est",
+"img": "img/p-gareest.jpg"
+},
+{
+"k": "p-notredame",
+"n": "노트르담 대성당",
+"en": "Notre-Dame de Paris",
+"c": "sight",
+"a": "시테섬",
+"lat": 48.853,
+"lng": 2.3499,
+"t": "시트 추천",
+"tip": "시트 추천 메모: 일요일은 피하기",
+"links": [
+{
+"t": "구글 지도 (시트 링크)",
+"u": "https://maps.app.goo.gl/spixa5SHtysavSjq9"
+}
+],
+"w": "Notre-Dame de Paris",
+"img": "img/p-notredame.jpg"
+},
+{
+"k": "p-jetaime",
+"n": "사랑해 벽",
+"en": "Wall of Love Montmartre",
+"c": "sight",
+"a": "몽마르트르",
+"lat": 48.8848,
+"lng": 2.3387,
+"t": "시트 추천 · 몽마르트르 가는 길",
+"tip": "시트 추천 메모: 공사 중",
+"links": [
+{
+"t": "구글 지도 (시트 링크)",
+"u": "https://maps.app.goo.gl/nTDYKDXwMTVZghyg8"
+}
+],
+"w": "Wall of Love",
+"img": "img/p-jetaime.jpg"
+},
+{
+"k": "p-monge",
+"n": "몽쥬 약국",
+"en": "Pharmacie Monge",
+"c": "sight",
+"a": "라탱 지구",
+"lat": 48.8433,
+"lng": 2.3523,
+"t": "시트 추천 · 약국 기념품",
+"tip": "시트 추천 메모: 약국 기념품 많이 산다고 함",
+"links": [
+{
+"t": "구글 지도 (시트 링크)",
+"u": "https://maps.app.goo.gl/QU54KfrmixzXU3666"
+}
+]
+},
+{
+"k": "p-angelina",
+"n": "안젤리나",
+"en": "Angelina Paris Rivoli",
+"c": "cafe",
+"a": "중심가",
+"lat": 48.865,
+"lng": 2.3284,
+"t": "시트 추천 · 몽블랑 맛집",
+"tip": "시트 추천 메모: 몽블랑 맛집. 튈르리 정원 맞은편이라 12/7 루브르·오랑주리 동선과 가까움",
+"links": [
+{
+"t": "구글 지도 (시트 링크)",
+"u": "https://maps.app.goo.gl/rtPgJ48FdFEDEriw8"
+}
+],
+"w": "Angelina (restaurant)"
+},
+{
+"k": "p-valdeurope",
+"n": "발 데 유럽 쇼핑센터 식당가",
+"en": "Val d'Europe shopping centre",
+"c": "food",
+"m": "저녁",
+"a": "발 데 유럽",
+"lat": 48.8535,
+"lng": 2.782,
+"t": "12/5 저녁 · 숙소 근처 (시트에 식당 미정)",
+"tip": "도착일 밤이라 멀리 가지 않고 숙소 근처에서. 쇼핑센터 식당은 일찍 닫는 곳이 있어 20시 전후 도착 시 영업시간 확인"
+},
+{
+"k": "p-entrecote",
+"n": "를레 드 랑트르코트 (마르뵈프)",
+"en": "Le Relais de l'Entrecote Marbeuf",
+"c": "food",
+"m": "저녁",
+"a": "샹젤리제",
+"lat": 48.8687,
+"lng": 2.3036,
+"t": "스테이크 프리트 단일 메뉴 · 바토무슈 선착장 도보 12분",
+"tip": "예약 안 받아서 오픈 시간(18:45 전후) 맞춰 줄 서기. 굽기만 고르면 되고 리필 한 번 더 나옴",
+"w": "Le Relais de l'Entrecôte",
+"img": "img/p-entrecote.jpg"
+},
+{
+"k": "p-campana",
+"n": "카페 캄파나 (오르세 미술관)",
+"en": "Cafe Campana Musee d'Orsay",
+"c": "cafe",
+"a": "중심가",
+"lat": 48.8603,
+"lng": 2.3258,
+"t": "오르세 5층 대형 시계 옆 카페",
+"tip": "미술관 입장권 필요. 12/8 베르사유에서 넘어와 늦은 점심 겸 휴식",
+"w": "Musée d'Orsay"
+},
+{
+"k": "p-chartier",
+"n": "부용 샤르티에 (그랑 불바르)",
+"en": "Bouillon Chartier Grands Boulevards",
+"c": "food",
+"m": "저녁",
+"a": "오페라",
+"lat": 48.8719,
+"lng": 2.3434,
+"t": "1896년 문을 연 가성비 프랑스 식당",
+"tip": "예약 안 받아 줄 서지만 회전 빠름. 에스카르고·뵈프 부르기뇽. 라파예트에서 도보 10분",
+"w": "Bouillon Chartier",
+"img": "img/p-chartier.jpg"
+},
+{
+"k": "p-painidees",
+"n": "뒤 팽 에 데 이데",
+"en": "Du Pain et des Idees",
+"c": "cafe",
+"a": "북역·동역",
+"lat": 48.8714,
+"lng": 2.3634,
+"t": "피스타치오 에스카르고 빵 · 파리 동역 도보 7분",
+"tip": "주말 휴무, 12/9 수요일은 영업. 테이크아웃 위주",
+"w": "Du Pain et des Idées"
+},
+{
+"k": "p-carette",
+"n": "카레트 (보주 광장)",
+"en": "Carette Place des Vosges",
+"c": "cafe",
+"a": "마레",
+"lat": 48.8556,
+"lng": 2.3657,
+"t": "보주 광장 아케이드 카페 · 마카롱·핫초코",
+"tip": "보주 광장 산책과 함께. 아침 일찍부터 영업",
+"w": "Place des Vosges",
+"img": "img/p-carette.jpg"
+},
+{
+"k": "p-asdufallafel",
+"n": "라스 뒤 팔라펠",
+"en": "L'As du Fallafel",
+"c": "food",
+"m": "점심",
+"a": "마레",
+"lat": 48.8573,
+"lng": 2.359,
+"t": "마레 지구 팔라펠 샌드위치",
+"tip": "보통 11시 오픈이라 12/9 동선(11시 공항 이동)과는 안 맞음. 시간이 남으면 포장",
+"w": "L'As du Fallafel",
+"img": "img/p-asdufallafel.jpg"
+},
+{
+"k": "p-breizh",
+"n": "브레이즈 카페 (마레)",
+"en": "Breizh Cafe Marais",
+"c": "food",
+"m": "점심",
+"a": "마레",
+"lat": 48.8606,
+"lng": 2.3628,
+"t": "메밀 갈레트·크레페",
+"tip": "인기 많아 예약 추천"
+},
+{
+"k": "p-champs",
+"n": "샹젤리제 크리스마스 마켓",
+"en": "Champs-Elysees Christmas Market",
+"c": "xmas",
+"a": "샹젤리제",
+"lat": 48.8672,
+"lng": 2.3165,
+"t": "10년 만에 다시 열리는 마켓 · 2026.11.22~2027.1.4",
+"tip": "샹젤리제~콩코르드 광장 사이. 월~목 10~22시, 금~일 10~23시, 12/24 20시 종료·12/31 휴장. 공예품 오두막, 뱅쇼, 공연, 아이스링크",
+"links": [
+{
+"t": "인스타그램 릴스: 2026 샹젤리제 크리스마스 마켓 (dailyhyunjung)",
+"u": "https://www.instagram.com/reel/DgBGD7nNLP8/"
+}
+]
+},
+{
+"k": "p-daw",
+"n": "디즈니 어드벤처 월드",
+"en": "Disney Adventure World",
+"c": "sight",
+"a": "발 데 유럽",
+"lat": 48.8677,
+"lng": 2.7797,
+"t": "두 번째 파크 · 라따뚜이 어드벤처 · 월드 오브 프로즌",
+"tip": "2026년 월트 디즈니 스튜디오에서 이름이 바뀐 파크. 라따뚜이(파리 원조)와 2026 신규 월드 오브 프로즌. 타워 오브 테러·코스터류는 이번 일정에서 패스"
+},
+{
+"k": "p-remy",
+"n": "비스트로 셰 레미",
+"en": "Bistrot Chez Remy Disneyland Paris",
+"c": "food",
+"m": "점심",
+"a": "발 데 유럽",
+"lat": 48.8669,
+"lng": 2.7808,
+"t": "라따뚜이 테마 레스토랑 · 12/6 점심",
+"tip": "쥐 크기로 작아진 듯한 거대한 소품 사이에서 식사. 테이블 서비스라 공식 앱·사이트에서 사전 예약 추천"
+},
+{
+"k": "p-dvillage",
+"n": "디즈니 빌리지",
+"en": "Disney Village",
+"c": "food",
+"m": "저녁",
+"a": "발 데 유럽",
+"lat": 48.8703,
+"lng": 2.7861,
+"t": "파크 입구 앞 식당·상점 거리 · 12/6 저녁",
+"tip": "버거·스테이크·테마 레스토랑이 모여 있음. 일요일 저녁은 붐비니 예약 또는 이른 방문"
+}
+]

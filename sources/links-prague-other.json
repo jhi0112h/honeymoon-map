@@ -1,0 +1,167 @@
+{
+"hotel": {"links":[
+ {"t":"Hotels.com 숙소 정보","u":"https://uk.hotels.com/ho252313/hotel-maestro-by-adrez"},
+ {"t":"Booking.com 숙소 정보","u":"https://www.booking.com/hotel/cz/sovereign-prague.html?aid=905341"},
+ {"t":"Expedia 숙소 정보","u":"https://www.expedia.ie/Prague-Hotels-Hotel-Maestro-By-Adrez.h1617439.Hotel-Information"}],
+ "note":"구 Hotel Sovereign, 체크인 15:00·체크아웃 10:00, 바츨라프 광장 도보 2분 (공식 사이트 확인 불가)."},
+"xm-old": {"links":[
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/object/places/187/old-town-square"},
+ {"t":"2026 마켓 일정","u":"https://www.expats.cz/czech-news/article/prague-christmas-markets-2026-when-they-open-and-where-to-go"},
+ {"t":"프라하 관광청 마켓 목록","u":"https://prague.eu/de/weihnachtsmarkte/"},
+ {"t":"블로그 후기 (트립스토어)","u":"https://www.tripstore.kr/blog/%EA%B2%A8%EC%9A%B8-%ED%94%84%EB%9D%BC%ED%95%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EB%A7%88%EC%BC%93-%EC%98%A8%EC%B2%9C-%EC%86%8C%EB%8F%84%EC%8B%9C-%EA%B0%80%EC%9D%B4%EB%93%9C"}],
+ "note":"2026.11.28–2027.1.6, 매일 10:00–22:00."},
+"xm-wen": {"links":[
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/object/places/96/wenceslas-square"},
+ {"t":"2026 마켓 일정","u":"https://www.expats.cz/czech-news/article/prague-christmas-markets-2026-when-they-open-and-where-to-go"},
+ {"t":"체코 관광청 2026","u":"https://www.visitczechia.com/en-us/things-to-do/events/2026/11/e-christmas-markets-prague"}],
+ "note":"2026.11.28–2027.1.6, 매일 10:00–22:00."},
+"xm-rep": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/akce/republiky-square-christmas-market"},
+ {"t":"2026 마켓 일정","u":"https://www.expats.cz/czech-news/article/prague-christmas-markets-2026-when-they-open-and-where-to-go"},
+ {"t":"Prague Experience 가이드","u":"https://pragueexperience.com/events/christmas-markets.asp"}],
+ "note":"2026.11.25–12.24, 10:00–20:00 (크리스마스 이후 운영 안 함)."},
+"xm-miru": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/akce/christmas-market-namesti-miru-square"},
+ {"t":"2026 마켓 일정","u":"https://www.expats.cz/czech-news/article/prague-christmas-markets-2026-when-they-open-and-where-to-go"},
+ {"t":"프라하 관광청 (미루 광장)","u":"https://prague.eu/en/objevujte/namesti-miru-peace-square/"}],
+ "note":"2026.11.20–12.24, 10:00–20:00, 성 루드밀라 성당 앞."},
+"xm-castle": {"links":[
+ {"t":"프라하 관광청 (성 크리스마스 산책)","u":"https://prague.eu/en/akce/christmas-stroll-at-prague-castle-2/"},
+ {"t":"expats.cz 프라하 성 연말 행사","u":"https://www.expats.cz/czech-news/article/alternative-to-prague-christmas-markets"},
+ {"t":"Prague Experience 가이드","u":"https://pragueexperience.com/events/christmas-markets.asp"}],
+ "note":"2026 정식 마켓은 불확실; 성 이르지 광장 트리 중심 행사 11.28–12.20 평일 14–18시, 12.21–1.3 매일 10–18시 (12.24·31·1.1 휴무)."},
+"xm-kampa": {"links":[
+ {"t":"프라하 관광청 (말라스트라나 크리스마스)","u":"https://prague.eu/en/akce/christmas-in-the-lesser-town"},
+ {"t":"프라하 관광청 (캄파 성 니콜라스)","u":"https://prague.eu/en/akce/st-nicholas-in-kampa"},
+ {"t":"Prague Experience 가이드","u":"https://pragueexperience.com/events/christmas-markets.asp"}],
+ "note":"2026.12.3–2027.1.4, 10:00–20:00 예정(비공식), 소규모 먹거리 위주."},
+"stairs": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/the-old-castle-steps/"},
+ {"t":"프라하 가상투어 (야경)","u":"https://virtualni.praha.eu/night/old-castle-stairs"}],
+ "note":"121계단, 말로스트란스카역↔성 동쪽 문, 일몰 전망 명소."},
+"btower": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/old-town-bridge-tower/"},
+ {"t":"공식 운영사 (Prague City Tourism)","u":"https://www.praguecitytourism.cz/en/our-services/the-towers-of-prague/visit-our-towers/old-town-bridge-tower-17816"},
+ {"t":"위키백과","u":"https://en.wikipedia.org/wiki/Old_Town_Bridge_Tower"},
+ {"t":"블로그 후기 (trvlogue)","u":"https://www.trvlogue.com/ko/charles-bridge-prague-night-views"}],
+ "note":"유료 전망대(약 47m), 연중 개방·겨울 단축 운영."},
+"powder": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/powder-gate-tower-prasna-brana/"},
+ {"t":"공식 운영사 (Prague City Tourism)","u":"https://www.praguecitytourism.cz/en/our-services/the-towers-of-prague/visit-our-towers/powder-gate-tower-17815"},
+ {"t":"위키백과","u":"https://ko.wikipedia.org/wiki/%ED%99%94%EC%95%BD%ED%83%91"},
+ {"t":"블로그 후기 (trvlogue)","u":"https://www.trvlogue.com/ko/prague-powder-tower-night"}],
+ "note":"1475년 완공, 44m 전망 갤러리."},
+"naplavka": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/naplavka-rasinovo-embankment/"},
+ {"t":"expats.cz 나플라브카 소개","u":"https://www.expats.cz/czech-news/article/how-summer-will-look-like-at-pragues-naplavka-there-are-some-news"}],
+ "note":"토요일 파머스마켓으로 유명, 겨울엔 한산함."},
+"letna": {"links":[
+ {"t":"프라하 관광청 (메트로놈)","u":"https://prague.eu/en/objevujte/metronome/"},
+ {"t":"프라하 관광청 (레트나 공원)","u":"https://prague.eu/en/objevujte/letna-parks/"},
+ {"t":"위키백과","u":"https://en.wikipedia.org/wiki/Prague_Metronome"}],
+ "note":"옛 스탈린 동상 자리, 블타바 강과 다리들이 내려다보이는 무료 전망 포인트."},
+"riegrovy": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/rieger-gardens-riegrovy-sady/"},
+ {"t":"Lonely Planet","u":"https://www.lonelyplanet.com/points-of-interest/riegrovy-sady/1241452"}],
+ "note":"언덕 위에서 프라하 성 쪽 일몰 감상, 비어가든 있음(겨울엔 일부 휴무 가능)."},
+"novot": {"links":[
+ {"t":"역사 표지판 (HMDB)","u":"https://www.hmdb.org/m.asp?m=41262"},
+ {"t":"위키백과 (카를교)","u":"https://en.wikipedia.org/wiki/Charles_Bridge"}],
+ "note":"카를교 바로 남쪽 구시가 쪽 작은 부두, 카를교·프라하 성 정면 뷰."},
+"manes": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/manes-bridge/"},
+ {"t":"위키백과","u":"https://en.wikipedia.org/wiki/M%C3%A1nes_Bridge"}],
+ "note":"카를교와 프라하 성을 한 프레임에 담는 사진 포인트."},
+"pier": {"links":[
+ {"t":"공식 사이트 (Prague Boats)","u":"https://prague-boats.cz/contact"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/prague-boats"},
+ {"t":"Prague Boats 크루즈 목록","u":"https://prague-boats.cz/river-cruises"}],
+ "note":"체후프 다리 옆 3번 선착장, 50분 유람선·야간·디너 크루즈 출발."},
+"krusta": {"links":[
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/krusta-artisan-bakery-bistro/"}],
+ "note":"보디치코바 11번지, 피스타치오 크루아상 인기, 매일 운영."},
+"kunst": {"links":[
+ {"t":"공식 사이트","u":"https://www.kunsthallepraha.org/en/cafe"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/kunsthalle-praha-cafe/"},
+ {"t":"관람 시간","u":"https://kunsthallepraha.org/en/plan-your-visit"}],
+ "note":"3층 테라스에서 프라하 성 뷰, 화요일 휴무."},
+"aria": {"links":[
+ {"t":"프라하 관광청 (Coda 레스토랑)","u":"https://prague.eu/en/objevujte/coda-restaurant-aria-hotel"},
+ {"t":"미쉐린 가이드","u":"https://guide.michelin.com/en/hotels-stays/prague/aria-hotel-prague-6187"},
+ {"t":"The Rooftop Guide","u":"https://therooftopguide.com/rooftop-bars-in-prague/coda-restaurant.html"}],
+ "note":"루프탑 테라스는 봄~가을 시즌 운영(12월엔 실내 이용 가능성 높음)."},
+"louvre": {"links":[
+ {"t":"공식 사이트","u":"https://www.cafelouvre.cz/en/History"},
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/object/places/501/cafe-louvre"},
+ {"t":"블로그 후기 (트립스토어)","u":"https://www.tripstore.kr/blog/%ED%94%84%EB%9D%BC%ED%95%98-%EC%B9%B4%ED%8E%98-%EB%A3%A8%EB%B8%8C%EB%A5%B4-%EC%95%8C%EC%A7%9C-%EB%A9%94%EB%89%B4-%EA%B7%BC%EA%B5%90-%EB%8F%99%EC%84%A0-%EA%B0%80%EC%9D%B4%EB%93%9C"}],
+ "note":"1902년 개업, 평일 08:00·주말 09:00–23:30."},
+"slavia": {"links":[
+ {"t":"공식 사이트","u":"https://cafeslavia.cz/en"},
+ {"t":"위키백과","u":"https://en.wikipedia.org/wiki/Caf%C3%A9_Slavia"},
+ {"t":"체코 관광청","u":"https://www.visitczechia.com/en-us/things-to-do/places/gastronomic-tourism/restaurants-and-cafes/g-prague-cafe-and-restaurant-slavia"}],
+ "note":"국립극장 맞은편, 창가에서 프라하 성 뷰, 저녁 피아노 연주."},
+"savoy": {"links":[
+ {"t":"공식 사이트","u":"https://cafesavoy.ambi.cz/en"},
+ {"t":"체코 관광청","u":"https://www.visitczechia.com/en-us/things-to-do/places/gastronomic-tourism/restaurants-and-cafes/g-prague-savoy-cafe"},
+ {"t":"블로그 후기 (trvlogue)","u":"https://www.trvlogue.com/ko/prague-cafe-savoy-brunch"}],
+ "note":"평일 08:00·주말 09:00–22:00, 주말 브런치는 예약 권장."},
+"imperial": {"links":[
+ {"t":"공식 사이트","u":"https://www.cafeimperial.cz/en"},
+ {"t":"미쉐린 가이드 (한국어)","u":"https://guide.michelin.com/kr/ko/prague/prague/restaurant/cafe-imperial"},
+ {"t":"프라하 관광청","u":"https://prague.eu/cs/objevujte/cafe-imperial/"}],
+ "note":"1914년 개업 모자이크 타일 카페, 매일 07:00–23:00, 예약 권장."},
+"orient": {"links":[
+ {"t":"공식 사이트","u":"https://grandcafeorient.cz/"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/grand-cafe-orient"},
+ {"t":"위키백과 (검은 성모의 집)","u":"https://en.wikipedia.org/wiki/House_of_the_Black_Madonna"}],
+ "note":"세계 유일 큐비즘 카페, 평일 9–22시·주말 10–22시."},
+"cukr": {"links":[
+ {"t":"공식 사이트","u":"https://www.cukrkavalimonada.com/"},
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/object/food/972/cukrkavalimonada"},
+ {"t":"프라하 1구청 소개","u":"https://www.praha1.cz/cukrkavalimonada/"}],
+ "note":"매일 09:00–19:00, 일찍 닫으니 브런치·점심 추천."},
+"sbux": {"links":[
+ {"t":"expats.cz 프라하 성 매장 소개","u":"https://www.expats.cz/czech-news/article/starbucks-has-opened-its-first-branch-inside-prague-castle"},
+ {"t":"Food Republic 기사","u":"https://www.foodrepublic.com/1484584/worlds-fanciest-starbucks-ancient-prague-castle"}],
+ "note":"성 근처 매장 2곳(전망 테라스 매장 vs 성 비투스 뒤편 매장) 확인 필요, 화장실 유료."},
+"ema": {"links":[
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/object/food/1703/ema-espresso-bar"},
+ {"t":"European Coffee Trip","u":"https://europeancoffeetrip.com/cafe/emaespressobar-prague/"}],
+ "note":"평일 08:00·주말 10:00–18:00, 화약탑·중앙역 근처."},
+"goodfood": {"links":[
+ {"t":"trvlogue 리뷰","u":"https://www.trvlogue.com/en/prague-goodfood-chimney-cake"},
+ {"t":"Eating Europe 굴뚝빵 가이드","u":"https://www.eatingeurope.com/blog/trdelnik-in-prague/"},
+ {"t":"expats.cz 기사","u":"https://www.expats.cz/czech-news/article/czech-donut-ice-cream-cone-wins-internet-over-weekend"}],
+ "note":"아이스크림 굴뚝빵(트르들로) 원조격, 대략 10:00–22:00."},
+"angel": {"links":[
+ {"t":"공식 사이트","u":"https://angelato.cz/"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/angelato-ujezd/"},
+ {"t":"expats.cz 아이스크림 가이드","u":"https://www.expats.cz/czech-news/article/a-complete-guide-to-czech-ice-cream"}],
+ "note":"겨울(1–2월) 휴무 이력 있음, 12월 영업 여부 확인 필요."},
+"bake": {"links":[
+ {"t":"Sygic 장소 정보","u":"https://travel.sygic.com/en/poi/bakeshop-prague-poi:1800"},
+ {"t":"Svoboda & Williams 리뷰","u":"https://en.svoboda-williams.com/en/lifestyle/prague/article/602-bakeshop-praha"}],
+ "note":"코지 거리 1번지, 매일 07:00–21:00, 좌석 적음."},
+"mistral": {"links":[
+ {"t":"European Coffee Trip","u":"https://europeancoffeetrip.com/?p=33648"},
+ {"t":"Indagare","u":"https://indagare.com/restaurant/mistral-cafe"}],
+ "note":"발렌틴스카 11번지, 평일 08:00–18:00, 에그베네딕트·팬케이크 인기."},
+"lounge": {"links":[
+ {"t":"체코 관광청","u":"https://www.visitczechia.com/de-de/things-to-do/places/gastronomic-tourism/restaurants-and-cafes/g-prague-cafe-lounge"},
+ {"t":"expats.cz 리뷰","u":"https://expats.cz/czech-news/article/cafe-lounge"}],
+ "note":"일부 리스팅에 '영구 폐업' 표시 — 방문 전 반드시 확인."},
+"heming": {"links":[
+ {"t":"공식 사이트","u":"https://www.hemingwaybar.cz/"},
+ {"t":"프라하 관광청","u":"https://www.prague.eu/en/object/food/1516/hemingway-bar"},
+ {"t":"World's 50 Best","u":"https://www.theworlds50best.com/discovery/Establishments/Czech-Republic/Prague/Hemingway-Bar.html"}],
+ "note":"17시(주말 19시) 오픈, 예약 강력 권장."},
+"tanker": {"links":[
+ {"t":"Time Out","u":"https://www.timeout.com/prague/bars-and-pubs/t-anker"},
+ {"t":"Best Prague Guide 루프탑","u":"https://bestpragueguide.com/en/blog/prague-rooftop-bars"}],
+ "note":"코트바 백화점 5층, 폐업 표시 리스팅도 있어 운영 여부 확인 필요(테라스는 시즌제)."},
+"letnabg": {"links":[
+ {"t":"공식 사이트","u":"https://www.letenskyzamecek.cz/"},
+ {"t":"프라하 관광청","u":"https://prague.eu/en/objevujte/letensky-zamecek-restaurant"},
+ {"t":"Time Out","u":"https://www.timeout.com/prague/bars-and-pubs/letna-beer-garden"}],
+ "note":"야외 비어가든은 주로 봄~가을, 겨울엔 실내 레스토랑 이용."}
+}
