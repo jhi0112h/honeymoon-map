@@ -75,6 +75,7 @@ for f in glob.glob('sources/social-*.json'): SOC.update(L(f))
 MENU=L('menus.json')
 for f in glob.glob('sources/menus-*.json'): MENU.update(L(f))
 REV=L('reviews.json')
+ORIG=L('menus_orig.json')
 REV.update(L('reviews2.json'))
 GUIDE=L('guides.json')
 for f in glob.glob('sources/guides-*.json'): GUIDE.update(L(f))
@@ -90,6 +91,7 @@ for c in CITIES.values():
             if x.get('u') and not any(x['u']==y['u'] for y in links): links.append(dict(x))
         p['links']=links
         if p['k'] in MENU: p['menu']=MENU[p['k']]
+        if p['k'] in ORIG and p.get('menu') and len(ORIG[p['k']])==len(p['menu']): p['menuo']=ORIG[p['k']]
         if p['k'] in GUIDE: p['guide']=GUIDE[p['k']]
         if p['k'] in REV:
             p['rev']=REV[p['k']]
