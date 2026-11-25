@@ -1,0 +1,532 @@
+{
+"porks-v": [
+"Pečené vepřové koleno",
+"Sendvič s vepřovým kolenem",
+"Tmavé pivo + hranolky"
+],
+"porks": [
+"Pečené vepřové koleno",
+"Sendvič s vepřovým kolenem",
+"Tmavé pivo + hranolky"
+],
+"mlejnice": [
+"Vepřové koleno",
+"Hovězí guláš s knedlíkem",
+"Kozel černý"
+],
+"lokal": [
+"Svíčková na smetaně s knedlíkem",
+"Vepřový řízek s bramborovým salátem",
+"Plzeň z tanku (tankové pivo)"
+],
+"flek": [
+"Flekovský tmavý ležák 13°",
+"Guláš",
+"Pečená kachna se zelím"
+],
+"kroka": [
+"Pečená kachna, knedlík, červené zelí",
+"Vepřové koleno",
+"Svíčková na smetaně"
+],
+"nase": [
+"Sekaná",
+"Burger",
+"Hot dog"
+],
+"kolkovna": [
+"Vepřové koleno",
+"Tatarský biftek s topinkami",
+"Plzeň z tanku"
+],
+"medv": [
+"X-Beer 33",
+"Guláš",
+"Vepřo knedlo zelo"
+],
+"mlynec": [
+"Degustační menu",
+"Kachna",
+"Párování s českým vínem"
+],
+"pinkas": [
+"Hovězí guláš",
+"Svíčková na smetaně",
+"Plzeň z tanku"
+],
+"mincovna": [
+"Guláš",
+"Pečené kachní stehno",
+"Svíčková na smetaně"
+],
+"krcma": [
+"Vepřové koleno",
+"Středověký masový talíř",
+"Točené pivo"
+],
+"glaub": [
+"Vepřové koleno",
+"Guláš",
+"Pilsner Urquell"
+],
+"strbrew": [
+"Pivo sv. Norbert (jantar, tmavé)",
+"Pivní guláš",
+"Vepřová žebra"
+],
+"havelk": [
+"Svíčková na smetaně",
+"Guláš",
+"Ovocné knedlíky"
+],
+"bredov": [
+"Guláš v bochníku chleba",
+"Vepřové koleno",
+"Vepřová žebra"
+],
+"kalich": [
+"Guláš",
+"Pečená kachna",
+"Pilsner Urquell"
+],
+"parl": [
+"Guláš",
+"Svíčková na smetaně",
+"Smažený sýr"
+],
+"kantyna": [
+"Zrající steak (dry aged)",
+"Tatarský biftek",
+"Domácí klobása"
+],
+"zlstud": [
+"Degustační menu",
+"Kachna a zvěřina",
+"České víno"
+],
+"kampap": [
+"Sezónní menu",
+"Steak",
+"Dezert"
+],
+"zlpraha": [
+"Steak",
+"Kachna",
+"Dezert"
+],
+"modra": [
+"Pečená kachna",
+"Zvěřina (jelen apod.)",
+"Český dezert"
+],
+"field": [
+"Degustační menu",
+"Párování vín",
+"Nealkoholické párování"
+],
+"pho": [
+"Phở bò",
+"Bún chả",
+"Chả giò / Nem rán"
+],
+"krusta": [
+"Trdelník",
+"Croissant",
+"Kváskový chléb, brunch"
+],
+"kunst": [
+"Brunch",
+"Dort",
+"Specialty káva"
+],
+"aria": [
+"Signature koktejl",
+"Káva",
+"Dezert"
+],
+"louvre": [
+"Česká snídaně",
+"Jablečný štrúdl",
+"Dort"
+],
+"slavia": [
+"Vídeňská káva",
+"Palačinky",
+"Dort"
+],
+"savoy": [
+"Vejce Benedikt",
+"Francouzský toast",
+"Domácí dort"
+],
+"imperial": [
+"Snídaně Imperial",
+"Dort",
+"Horká čokoláda"
+],
+"orient": [
+"Kubistický věneček",
+"Jablečný štrúdl",
+"Káva"
+],
+"cukr": [
+"Palačinky",
+"Brunch",
+"Domácí limonáda"
+],
+"sbux": [
+"Sezónní nápoj",
+"Káva",
+"Terasa s výhledem"
+],
+"ema": [
+"Filtrovaná káva",
+"Flat white",
+"Banana bread"
+],
+"goodfood": [
+"Trdelník se zmrzlinou",
+"Trdelník s Nutellou",
+"Káva"
+],
+"angel": [
+"Pistáciová zmrzlina",
+"Sezónní ovocný sorbet",
+"Čokoládová zmrzlina"
+],
+"bake": [
+"Quiche",
+"Mrkvový dort",
+"Brownie"
+],
+"mistral": [
+"Brunch",
+"Polévka dne",
+"Dort"
+],
+"lounge": [
+"Brunch",
+"Dort",
+"Káva"
+],
+"heming": [
+"Hemingway Daiquiri",
+"Absinthový koktejl",
+"Signature koktejl"
+],
+"tanker": [
+"Pivo z minipivovaru",
+"Ochutnávka točeného piva",
+"Malé občerstvení"
+],
+"xm-old": [
+"Trdelník",
+"Svařák (svařené víno)",
+"Klobása",
+"Pražská šunka"
+],
+"xm-wen": [
+"Klobása",
+"Svařák",
+"Trdelník",
+"Pražská šunka"
+],
+"kozlovna": [
+"Pečená vepřová žebra",
+"Tatarský biftek",
+"Kozel černý"
+],
+"ifcafe": [
+"Éclairs, tartes",
+"Brunch",
+"Domácí zmrzlina"
+],
+"dd-gaense": [
+"Sauerbraten",
+"Gänsebraten",
+"Sächsische Kartoffelsuppe"
+],
+"dd-sophien": [
+"Spanferkel",
+"Mittelalterliche Fleischplatte",
+"Met"
+],
+"dd-pulver": [
+"Spanferkel",
+"Schweinshaxe",
+"Sächsisches Bier"
+],
+"dd-augustiner": [
+"Schweinshaxe",
+"Weißwurst mit Brezel",
+"Augustiner Hell"
+],
+"dd-watzke": [
+"Bierprobe (Hausbiere)",
+"Haxe",
+"Brezel"
+],
+"dd-altemeister": [
+"Kuchen",
+"Kaffee",
+"Kleine Gerichte"
+],
+"dd-kreutzkamm": [
+"Dresdner Christstollen",
+"Baumkuchen",
+"Eierschecke"
+],
+"dd-schinkel": [
+"Kuchen",
+"Kaffee",
+"Heiße Schokolade"
+],
+"dd-coselcafe": [
+"Kuchen",
+"Heiße Schokolade",
+"Kaffee"
+],
+"dd-pfunds": [
+"Milcheis",
+"Buttermilch",
+"Käseplatte"
+],
+"dd-striezel": [
+"Handbrot",
+"Dresdner Christstollen",
+"Glühwein"
+],
+"dd-stallhof": [
+"Spieß vom Grill",
+"Met",
+"Glühwein"
+],
+"v-figl": [
+"Figlmüller-Schnitzel",
+"Erdäpfelsalat mit Kürbiskernöl",
+"Grüner Veltliner"
+],
+"v-plachutta": [
+"Tafelspitz",
+"Markknochen mit Schwarzbrot",
+"Apfelkren & Schnittlauchsauce"
+],
+"v-ribs": [
+"Spare Ribs",
+"Kartoffelwedges / Pommes",
+"Bier vom Fass"
+],
+"v-salm": [
+"Stelze",
+"Spare Ribs",
+"Hausbier (Lager, Dunkel)"
+],
+"v-kameel": [
+"Schinken-Kren-Brötchen",
+"Brötchen mit pikantem Aufstrich",
+"Rumpunsch-Krapfen"
+],
+"v-bitzinger": [
+"Käsekrainer",
+"Sacherwürstel",
+"Bosna"
+],
+"v-sacher": [
+"Original Sacher-Torte",
+"Wiener Melange",
+"Einspänner"
+],
+"v-demel": [
+"Annatorte",
+"Eduard-Sacher-Torte",
+"Kaiserschmarrn mit Zwetschkenröster"
+],
+"v-central": [
+"Wiener Melange",
+"Apfelstrudel",
+"Sachertorte"
+],
+"v-landtmann": [
+"Wiener Melange",
+"Apfelstrudel",
+"Wiener Schnitzel"
+],
+"v-hawelka": [
+"Buchteln",
+"Wiener Melange",
+"Einspänner"
+],
+"v-manner": [
+"Neapolitaner Schnitten",
+"Nostalgie-Dose",
+"Zitronen-/Kokos-Schnitten"
+],
+"b-hungarikum": [
+"Gulyásleves",
+"Csirkepaprikás nokedlivel",
+"Töltött káposzta"
+],
+"b-getto": [
+"Gulyás",
+"Marhapörkölt",
+"Konfitált kacsacomb"
+],
+"b-menza": [
+"Gulyásleves",
+"Libamáj",
+"Bécsi szelet"
+],
+"b-forsale": [
+"Gulyás (cipóban)",
+"Vegyes grilltál",
+"Csapolt sör"
+],
+"b-pestbuda": [
+"Gulyásleves",
+"Kenyérlángos",
+"Marhapörkölt nokedlivel"
+],
+"b-borkonyha": [
+"Libamáj tokaji mártással",
+"Mangalica",
+"Borpárosítás"
+],
+"b-spoon": [
+"Gulyásleves",
+"Kacsamell",
+"Somlói galuska"
+],
+"b-gerbeaud": [
+"Gerbeaud szelet",
+"Dobos torta",
+"Forró csokoládé / bécsi kávé"
+],
+"b-newyork": [
+"New York torta",
+"Cappuccino / Einspänner",
+"Eszterházy torta"
+],
+"b-ruszwurm": [
+"Krémes",
+"Dobos torta",
+"Sissi torta"
+],
+"p-angelina": [
+"Mont-Blanc",
+"Chocolat chaud « L'Africain »",
+"Croissant, formule petit-déjeuner"
+],
+"p-valdeurope": [
+"Les Terrasses (food court)",
+"PAUL – sandwich, croissant",
+"Factory & Co – bagel, cheesecake"
+],
+"p-entrecote": [
+"Steak-frites, sauce secrète",
+"Salade verte aux noix",
+"Profiteroles / Vacherin"
+],
+"p-campana": [
+"L'horloge",
+"Dessert de saison",
+"Salade, plat chaud"
+],
+"p-chartier": [
+"Œuf mayonnaise",
+"Bœuf bourguignon / Confit de canard",
+"Profiteroles"
+],
+"p-painidees": [
+"Escargot pistache-chocolat",
+"Pain des amis",
+"Chausson aux pommes, croissant"
+],
+"p-carette": [
+"Macarons",
+"Chocolat chaud",
+"Saint-Honoré, Paris-Brest, mille-feuille"
+],
+"p-asdufallafel": [
+"Falafel spécial",
+"Shawarma (poulet / agneau)",
+"Citronnade à la menthe"
+],
+"p-breizh": [
+"Galette complète",
+"Crêpe caramel au beurre salé",
+"Cidre breton"
+],
+"p-remy": [
+"Ratatouille",
+"Steak, pommes de terre",
+"Dessert"
+],
+"p-dvillage": [
+"Burger",
+"Steak",
+"Menu restaurant à thème"
+],
+"v-rathaus": [
+"Glühwein",
+"Punsch",
+"Brezel",
+"Kaiserschmarrn",
+"Apfelstrudel",
+"Kartoffelpuffer",
+"Kasspätzle"
+],
+"v-xm-mtp": [
+"Glühwein",
+"Punsch",
+"Brezel",
+"Kaiserschmarrn",
+"Apfelstrudel",
+"Kartoffelpuffer",
+"Kasspätzle"
+],
+"v-karlskirche": [
+"Glühwein",
+"Punsch",
+"Brezel",
+"Kaiserschmarrn",
+"Apfelstrudel",
+"Kartoffelpuffer",
+"Kasspätzle"
+],
+"v-amhof": [
+"Glühwein",
+"Punsch",
+"Brezel",
+"Kaiserschmarrn",
+"Apfelstrudel",
+"Kartoffelpuffer",
+"Kasspätzle"
+],
+"v-xm-schoen": [
+"Glühwein",
+"Punsch",
+"Brezel",
+"Kaiserschmarrn",
+"Apfelstrudel",
+"Kartoffelpuffer",
+"Kasspätzle"
+],
+"v-xm-belv": [
+"Glühwein",
+"Punsch",
+"Brezel",
+"Kaiserschmarrn",
+"Apfelstrudel",
+"Kartoffelpuffer",
+"Kasspätzle"
+],
+"v-xm-spittel": [
+"Glühwein",
+"Punsch",
+"Brezel",
+"Kaiserschmarrn",
+"Apfelstrudel",
+"Kartoffelpuffer",
+"Kasspätzle"
+]
+}
