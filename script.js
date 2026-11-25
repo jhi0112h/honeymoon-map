@@ -117,7 +117,7 @@ document.getElementById('zall').onclick=()=>fitTo(PLACES.filter(visible));
 
 // links & card
 const q=s=>encodeURIComponent(s);
-const menuHtml=p=>p.menu?`<div class="menu"><b>추천 메뉴</b><ol>${p.menu.map(m=>`<li>${esc(m)}</li>`).join('')}</ol></div>`:'';
+const menuHtml=p=>p.menu?`<div class="menu"><b>추천 메뉴</b><ol>${p.menu.map((m,i)=>`<li>${esc(m)}${p.menuo&&p.menuo[i]?`<span class="mo">${esc(p.menuo[i])}</span>`:''}</li>`).join('')}</ol></div>`:'';
 const PRICE={'$':'€ 저렴','$$ - $$$':'€€ 보통','$$$$':'€€€ 고급'};
 function revHtml(p){const v=p.rev; if(!v)return '';
   const row=(lab,x)=>x==null?'':`<div class="sr"><span>${lab}</span><span class="bar"><i style="width:${(x/5*100).toFixed(0)}%"></i></span><b>${x.toFixed(1)}</b></div>`;
