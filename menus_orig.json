@@ -1,17 +1,17 @@
 {
 "porks-v": [
 "Pečené vepřové koleno",
-"Sendvič s vepřovým kolenem",
-"Tmavé pivo + hranolky"
+"Trhané koleno v máslovém rohlíku",
+"Pivní zmrzlina"
 ],
 "porks": [
 "Pečené vepřové koleno",
-"Sendvič s vepřovým kolenem",
+"Trhané koleno v máslovém rohlíku",
 "Tmavé pivo + hranolky"
 ],
 "mlejnice": [
 "Vepřové koleno",
-"Hovězí guláš s knedlíkem",
+"Pivní guláš v bochníku",
 "Kozel černý"
 ],
 "lokal": [
@@ -22,22 +22,22 @@
 "flek": [
 "Flekovský tmavý ležák 13°",
 "Guláš",
-"Pečená kachna se zelím"
-],
-"kroka": [
-"Pečená kachna, knedlík, červené zelí",
-"Vepřové koleno",
 "Svíčková na smetaně"
 ],
+"kroka": [
+"Guláš",
+"Svíčková na smetaně",
+"Česnečka"
+],
 "nase": [
-"Sekaná",
-"Burger",
-"Hot dog"
+"Náš tatarák s chlebem",
+"Cheeseburger",
+"Pastrami sendvič"
 ],
 "kolkovna": [
 "Vepřové koleno",
-"Tatarský biftek s topinkami",
-"Plzeň z tanku"
+"Guláš",
+"Staročeský talíř Kolkovna"
 ],
 "medv": [
 "X-Beer 33",
@@ -55,13 +55,13 @@
 "Plzeň z tanku"
 ],
 "mincovna": [
-"Guláš",
+"Guláš s bramboráčky",
 "Pečené kachní stehno",
-"Svíčková na smetaně"
+"Vepřové koleno"
 ],
 "krcma": [
 "Vepřové koleno",
-"Středověký masový talíř",
+"Gulášová polévka",
 "Točené pivo"
 ],
 "glaub": [
@@ -77,7 +77,7 @@
 "havelk": [
 "Svíčková na smetaně",
 "Guláš",
-"Ovocné knedlíky"
+"Kuře na paprice"
 ],
 "bredov": [
 "Guláš v bochníku chleba",
@@ -91,13 +91,13 @@
 ],
 "parl": [
 "Guláš",
-"Svíčková na smetaně",
-"Smažený sýr"
+"Vepřové koleno",
+"Cibulačka"
 ],
 "kantyna": [
-"Zrající steak (dry aged)",
 "Tatarský biftek",
-"Domácí klobása"
+"T-bone steak",
+"Hovězí carpaccio"
 ],
 "zlstud": [
 "Degustační menu",
@@ -106,7 +106,7 @@
 ],
 "kampap": [
 "Sezónní menu",
-"Steak",
+"Mořský vlk",
 "Dezert"
 ],
 "zlpraha": [
@@ -116,8 +116,8 @@
 ],
 "modra": [
 "Pečená kachna",
-"Zvěřina (jelen apod.)",
-"Český dezert"
+"Krémová polévka ze zvěřiny",
+"Foie gras"
 ],
 "field": [
 "Degustační menu",
@@ -127,7 +127,7 @@
 "pho": [
 "Phở bò",
 "Bún chả",
-"Chả giò / Nem rán"
+"Bún bò Nam Bộ"
 ],
 "krusta": [
 "Trdelník",
@@ -135,9 +135,9 @@
 "Kváskový chléb, brunch"
 ],
 "kunst": [
-"Brunch",
-"Dort",
-"Specialty káva"
+"Kachní prso",
+"Cappuccino",
+"Dort"
 ],
 "aria": [
 "Signature koktejl",
@@ -147,7 +147,7 @@
 "louvre": [
 "Česká snídaně",
 "Jablečný štrúdl",
-"Dort"
+"Sachrův dort"
 ],
 "slavia": [
 "Vídeňská káva",
@@ -155,24 +155,24 @@
 "Dort"
 ],
 "savoy": [
-"Vejce Benedikt",
-"Francouzský toast",
-"Domácí dort"
+"Croissant",
+"Horká čokoláda",
+"Vejce Benedikt"
 ],
 "imperial": [
-"Snídaně Imperial",
-"Dort",
-"Horká čokoláda"
+"Beef Wellington",
+"Telecí líčka na červeném víně",
+"Snídaně Imperial"
 ],
 "orient": [
 "Kubistický věneček",
-"Jablečný štrúdl",
+"Medovník",
 "Káva"
 ],
 "cukr": [
-"Palačinky",
-"Brunch",
-"Domácí limonáda"
+"Dort",
+"Jablečný štrúdl",
+"Těstoviny"
 ],
 "sbux": [
 "Sezónní nápoj",
@@ -232,28 +232,28 @@
 "Pražská šunka"
 ],
 "kozlovna": [
-"Pečená vepřová žebra",
-"Tatarský biftek",
+"Guláš",
+"Vepřové koleno",
 "Kozel černý"
 ],
 "ifcafe": [
 "Éclairs, tartes",
-"Brunch",
-"Domácí zmrzlina"
+"Dort",
+"Káva"
 ],
 "dd-gaense": [
 "Sauerbraten",
 "Gänsebraten",
-"Sächsische Kartoffelsuppe"
+"Braumeisterschnitzel mit Pommes frites"
 ],
 "dd-sophien": [
 "Spanferkel",
-"Mittelalterliche Fleischplatte",
-"Met"
+"Halbe ausgelöste Ente",
+"Sauerbraten"
 ],
 "dd-pulver": [
 "Spanferkel",
-"Schweinshaxe",
+"Sächsische Kartoffelsuppe",
 "Sächsisches Bier"
 ],
 "dd-augustiner": [
@@ -309,11 +309,11 @@
 "v-plachutta": [
 "Tafelspitz",
 "Markknochen mit Schwarzbrot",
-"Apfelkren & Schnittlauchsauce"
+"Beef Tatar"
 ],
 "v-ribs": [
 "Spare Ribs",
-"Kartoffelwedges / Pommes",
+"Gebackene Champignons",
 "Bier vom Fass"
 ],
 "v-salm": [
@@ -337,7 +337,7 @@
 "Einspänner"
 ],
 "v-demel": [
-"Annatorte",
+"Apfelstrudel",
 "Eduard-Sacher-Torte",
 "Kaiserschmarrn mit Zwetschkenröster"
 ],
@@ -347,8 +347,8 @@
 "Sachertorte"
 ],
 "v-landtmann": [
-"Wiener Melange",
 "Apfelstrudel",
+"Kaiserschmarrn",
 "Wiener Schnitzel"
 ],
 "v-hawelka": [
@@ -363,18 +363,18 @@
 ],
 "b-hungarikum": [
 "Gulyásleves",
-"Csirkepaprikás nokedlivel",
-"Töltött káposzta"
+"Pálinka",
+"Almás pite"
 ],
 "b-getto": [
 "Gulyás",
-"Marhapörkölt",
-"Konfitált kacsacomb"
+"Velős pirítós",
+"Borjúpaprikás"
 ],
 "b-menza": [
 "Gulyásleves",
-"Libamáj",
-"Bécsi szelet"
+"Fokhagymakrémleves",
+"Mangalica"
 ],
 "b-forsale": [
 "Gulyás (cipóban)",
@@ -383,8 +383,8 @@
 ],
 "b-pestbuda": [
 "Gulyásleves",
-"Kenyérlángos",
-"Marhapörkölt nokedlivel"
+"Konfitált kacsacomb",
+"Kecskesajtos saláta"
 ],
 "b-borkonyha": [
 "Libamáj tokaji mártással",
@@ -397,9 +397,9 @@
 "Somlói galuska"
 ],
 "b-gerbeaud": [
-"Gerbeaud szelet",
 "Dobos torta",
-"Forró csokoládé / bécsi kávé"
+"Gerbeaud szelet",
+"Sacher torta"
 ],
 "b-newyork": [
 "New York torta",
@@ -432,7 +432,7 @@
 "Salade, plat chaud"
 ],
 "p-chartier": [
-"Œuf mayonnaise",
+"Escargots de Bourgogne",
 "Bœuf bourguignon / Confit de canard",
 "Profiteroles"
 ],
@@ -457,8 +457,8 @@
 "Cidre breton"
 ],
 "p-remy": [
+"Steak grillé, ratatouille et frites",
 "Ratatouille",
-"Steak, pommes de terre",
 "Dessert"
 ],
 "p-dvillage": [

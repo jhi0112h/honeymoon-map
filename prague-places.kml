@@ -315,10 +315,10 @@ https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Savoy%20Prague</descr
 아르데코 타일 모자이크
 팁: 아침 7시부터. 12/13 출발일 아침 식사 후보 (숙소 도보 12분)
 https://www.google.com/maps/search/?api=1&amp;query=Cafe%20Imperial%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4318,50.0897,0</coordinates></Point></Placemark>
-<Placemark><name>IF 카페 (틸로보 광장점)</name><description>IF Cafe Tylovo namesti Prague · 비노흐라디
-프렌치 파티스리 디저트 카페 · 매일 8~20시 · 숙소에서 도보 8분
-팁: 파티시에 이베타 파베쇼바의 디저트 카페. 지점이 여러 곳(캄파 섬 베리흐 빌라, 마사리치카역, 융만노바 등)인데 출발일 아침 동선엔 숙소와 가까운 틸로보 광장점이 맞음. 브런치 메뉴도 있음
-https://www.google.com/maps/search/?api=1&amp;query=IF%20Cafe%20Tylovo%20namesti%20Prague%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4322,50.0741,0</coordinates></Point></Placemark>
+<Placemark><name>이베타 파베쇼바 카페 (마사리치카점)</name><description>Iveta Fabešová Masaryčka Na Florenci Prague · 노베 메스토
+프렌치 파티스리 디저트 카페 (구 IF 카페) · 구글 4.5★ · 20시까지 · 숙소에서 도보 약 10분
+팁: 파티시에 이베타 파베쇼바의 디저트 카페. 숙소 근처 틸로보 광장점은 구글 지도에서 IPPA Café로 바뀌어 있어, 마사리치카역 옆 Na Florenci 지점으로 변경. 개점 시간은 방문 전 구글 지도에서 확인
+https://www.google.com/maps/search/?api=1&amp;query=Iveta%20Fabe%C5%A1ov%C3%A1%20Masary%C4%8Dka%20Na%20Florenci%20Prague%20Prague</description><styleUrl>#cafe</styleUrl><Point><coordinates>14.4356,50.0896,0</coordinates></Point></Placemark>
 <Placemark><name>그랜드 카페 오리엔트</name><description>Grand Cafe Orient · 구시가
 큐비즘 건물 2층
 팁: 검은 성모의 집 2층. 크림 케이크 '쿠비스티츠키 브레티스'
@@ -481,10 +481,10 @@ https://www.google.com/maps/search/?api=1&amp;query=Planetum%20Prague%20Planetar
 <Placemark><name>12/12-23 22:00 마에스트로 바이 아드레즈</name><description></description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
 </Folder>
 <Folder><name>12/13 IF 카페 · 리에그로비 사디 · 무하 박물관 → 빈</name><Style id="r1213"><LineStyle><color>ff7a9a2f</color><width>4</width></LineStyle></Style>
-<Placemark><name>12/13 동선</name><styleUrl>#r1213</styleUrl><LineString><coordinates>14.4314,50.0821,0 14.4322,50.0741,0 14.443,50.079,0 14.4252,50.0848,0 14.4272,50.0815,0 14.4314,50.0821,0</coordinates></LineString></Placemark>
+<Placemark><name>12/13 동선</name><styleUrl>#r1213</styleUrl><LineString><coordinates>14.4314,50.0821,0 14.4356,50.0896,0 14.443,50.079,0 14.4252,50.0848,0 14.4272,50.0815,0 14.4314,50.0821,0</coordinates></LineString></Placemark>
 <Placemark><name>12/13-1 08:15 마에스트로 바이 아드레즈</name><description>체크아웃(10:00 마감) 먼저 하고 짐 맡기기 · 짐 보관 가능 여부 미리 확인</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>
-<Placemark><name>12/13-2 08:30 IF 카페 (틸로보 광장점)</name><description>아침 겸 디저트 (숙소에서 도보 8분)</description><Point><coordinates>14.4322,50.0741,0</coordinates></Point></Placemark>
-<Placemark><name>12/13-3 09:20 리에그로비 사디</name><description>아침 공원 산책 · 언덕에서 프라하 성 스카이라인 (카페에서 도보 12분)</description><Point><coordinates>14.443,50.079,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-2 08:30 이베타 파베쇼바 카페 (마사리치카점)</name><description>아침 겸 디저트 · 이베타 파베쇼바 마사리치카점 (숙소에서 도보 약 10분)</description><Point><coordinates>14.4356,50.0896,0</coordinates></Point></Placemark>
+<Placemark><name>12/13-3 09:20 리에그로비 사디</name><description>아침 공원 산책 · 언덕에서 프라하 성 스카이라인 (카페에서 도보 약 20분 · 트램 이용 가능)</description><Point><coordinates>14.443,50.079,0</coordinates></Point></Placemark>
 <Placemark><name>12/13-4 10:15 무하 박물관 (사바린 궁전)</name><description>무하 박물관 · 50분 (공원에서 도보 약 25분 또는 트램)</description><Point><coordinates>14.4252,50.0848,0</coordinates></Point></Placemark>
 <Placemark><name>12/13-5 11:10 바츨라프 광장 크리스마스 마켓</name><description>마지막 마켓 산책·기념품 (도보 3분)</description><Point><coordinates>14.4272,50.0815,0</coordinates></Point></Placemark>
 <Placemark><name>12/13-6 11:30 마에스트로 바이 아드레즈</name><description>맡긴 짐 찾기 → 중앙역 도보 10분, 12:36 빈행 기차</description><Point><coordinates>14.4314,50.0821,0</coordinates></Point></Placemark>

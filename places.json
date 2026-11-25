@@ -1080,18 +1080,18 @@
 },
 {
 "k": "ifcafe",
-"n": "IF 카페 (틸로보 광장점)",
-"en": "IF Cafe Tylovo namesti Prague",
+"n": "이베타 파베쇼바 카페 (마사리치카점)",
+"en": "Iveta Fabešová Masaryčka Na Florenci Prague",
 "c": "cafe",
-"a": "비노흐라디",
-"lat": 50.0741,
-"lng": 14.4322,
-"t": "프렌치 파티스리 디저트 카페 · 매일 8~20시 · 숙소에서 도보 8분",
-"tip": "파티시에 이베타 파베쇼바의 디저트 카페. 지점이 여러 곳(캄파 섬 베리흐 빌라, 마사리치카역, 융만노바 등)인데 출발일 아침 동선엔 숙소와 가까운 틸로보 광장점이 맞음. 브런치 메뉴도 있음",
+"a": "노베 메스토",
+"lat": 50.0896,
+"lng": 14.4356,
+"t": "프렌치 파티스리 디저트 카페 (구 IF 카페) · 구글 4.5★ · 20시까지 · 숙소에서 도보 약 10분",
+"tip": "파티시에 이베타 파베쇼바의 디저트 카페. 숙소 근처 틸로보 광장점은 구글 지도에서 IPPA Café로 바뀌어 있어, 마사리치카역 옆 Na Florenci 지점으로 변경. 개점 시간은 방문 전 구글 지도에서 확인",
 "links": [
 {
-"t": "카페 정보 (In Your Pocket)",
-"u": "https://www.inyourpocket.com/czech-republic/prague/venues/if-cafe"
+"t": "구글 지도 (마사리치카점)",
+"u": "https://www.google.com/maps/search/?api=1&query=Iveta+Fabe%C5%A1ov%C3%A1+Masary%C4%8Dka+Na+Florenci+2139%2F4+Praha"
 },
 {
 "t": "프라하 관광청 (베리흐 빌라점)",
@@ -1101,7 +1101,8 @@
 "t": "프라하 관광청 (마사리치카점)",
 "u": "https://prague.eu/en/objevujte/iveta-fabesova-cafe-masarycka/"
 }
-]
+],
+"w": "Iveta Fabešová – Masaryčka"
 },
 {
 "k": "orient",
